@@ -5,7 +5,6 @@
 			"guid": "00000000000000000000000000000000",
 			"description": "Default Uncontrolled Changelist",
 			"files": [
-				"C:/Users/nikol/OneDrive/Other/Dokumenter/Unreal Projects/BachlorsProject/Content/NewWorld.umap",
 				"C:/Users/nikol/OneDrive/Other/Dokumenter/Unreal Projects/BachlorsProject/Content/Levels/DankRoom.umap",
 				"C:/Users/nikol/OneDrive/Other/Dokumenter/Unreal Projects/BachlorsProject/Content/Levels/TestArea_HLOD0_Instancing.uasset",
 				"C:/Users/nikol/OneDrive/Other/Dokumenter/Unreal Projects/BachlorsProject/Content/__ExternalActors__/Levels/TestArea/6/RA/YP5ZDVRXD0CHBXT4XGO10Q.uasset",
@@ -456,7 +455,13 @@
 				"C:/Users/nikol/OneDrive/Other/Dokumenter/Unreal Projects/BachlorsProject/Content/__ExternalActors__/Levels/TestArea/B/KF/S8JJYCF6ZYULMAX4XNJOGT.uasset",
 				"C:/Users/nikol/OneDrive/Other/Dokumenter/Unreal Projects/BachlorsProject/Content/Assets/Chair/lambert1.uasset",
 				"C:/Users/nikol/OneDrive/Other/Dokumenter/Unreal Projects/BachlorsProject/Content/__ExternalObjects__/Levels/TestArea/5/G3/NNWYEWPTGFN3LOZR2OM6QR.uasset",
-				"C:/Users/nikol/OneDrive/Other/Dokumenter/Unreal Projects/BachlorsProject/Content/__ExternalActors__/Levels/TestArea/C/Z7/46RO3HMYIMMEF9GRWBXQUU.uasset"
+				"C:/Users/nikol/OneDrive/Other/Dokumenter/Unreal Projects/BachlorsProject/Content/__ExternalActors__/Levels/TestArea/C/Z7/46RO3HMYIMMEF9GRWBXQUU.uasset",
+				"C:/Users/nikol/OneDrive/Other/Dokumenter/Unreal Projects/BachlorsProject/Content/Blueprints/MainMenu.uasset",
+				"C:/Users/nikol/OneDrive/Other/Dokumenter/Unreal Projects/BachlorsProject/Content/Assets/Images/Static_noise.uasset",
+				"C:/Users/nikol/OneDrive/Other/Dokumenter/Unreal Projects/BachlorsProject/Content/Levels/MainMenu.umap",
+				"C:/Users/nikol/OneDrive/Other/Dokumenter/Unreal Projects/BachlorsProject/Content/Blueprints/StartPawn.uasset",
+				"C:/Users/nikol/OneDrive/Other/Dokumenter/Unreal Projects/BachlorsProject/Content/Blueprints/StartGameMode.uasset",
+				"C:/Users/nikol/OneDrive/Other/Dokumenter/Unreal Projects/BachlorsProject/Content/NewWorld.umap"
 			]
 		}
 	]
