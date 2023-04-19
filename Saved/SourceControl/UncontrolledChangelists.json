@@ -1,0 +1,14 @@
+{
+	"version": 1,
+	"changelists": [
+		{
+			"guid": "00000000000000000000000000000000",
+			"description": "Default Uncontrolled Changelist",
+			"files": [
+				"C:/Users/nreps/Documents/School/Bachelor/Github/BachlorsProject2022_2023/Content/Whiteboard_Details.uasset",
+				"C:/Users/nreps/Documents/School/Bachelor/Github/BachlorsProject2022_2023/Content/Whiteboard_Details1.uasset",
+				"C:/Users/nreps/Documents/School/Bachelor/Github/BachlorsProject2022_2023/Content/__ExternalActors__/Levels/FacilityAlternative_WP/4/BA/V4DO5W4L0RY0PTP3RKOJVY.uasset"
+			]
+		}
+	]
+}
