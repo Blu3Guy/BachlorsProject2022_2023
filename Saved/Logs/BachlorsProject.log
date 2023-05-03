@@ -13055,3 +13055,1605 @@ Make sure 'researchRoomToFacility_C' has been compiled for  Get Image_82
 [2023.05.03-17.33.53:572][927]LogContentBrowser: Renaming the item being created (Deferred Item: NewFolder).
 [2023.05.03-17.33.57:533][165]LogContentBrowser: Attempting asset rename: NewFolder -> Spook
 [2023.05.03-17.33.57:534][165]LogContentBrowser: End creating deferred item NewFolder
+[2023.05.03-17.47.05:572][ 76]LogFactory: FactoryCreateFile: StaticMesh with FbxFactory (0 0 C:\Users\nikol\OneDrive\Skrivebord\Game Project\Exports\PeekAnim.fbx)
+[2023.05.03-17.47.05:718][ 76]LogFbx: Loading FBX Scene from C:\Users\nikol\OneDrive\Skrivebord\Game Project\Exports\PeekAnim.fbx
+[2023.05.03-17.47.05:788][ 76]LogFbx: FBX Scene Loaded Succesfully
+[2023.05.03-17.47.10:060][ 76]LogSlate: Window 'FBX Import Options' being destroyed
+[2023.05.03-17.47.10:215][ 76]LogFbx: Warning: Not valid bind pose for Pose (skinCluster3) - Node Spook_Character_GEO : The relative matrices do not match
+[2023.05.03-17.47.10:215][ 76]LogFbx: Warning: Getting valid bind pose failed. Try to recreate bind pose
+[2023.05.03-17.47.10:216][ 76]LogFbx: Valid bind pose for Pose (FbxSDKBindPose) - Spook_Character_GEO
+[2023.05.03-17.47.10:216][ 76]LogFbx: Warning: Recreating bind pose succeeded.
+[2023.05.03-17.47.10:241][ 76]LogMaterial: Display: Material /Game/StaticNoise/Characters/Spook/Spook_Character.Spook_Character needed to have new flag set bUsedWithSkeletalMesh !
+[2023.05.03-17.47.10:365][ 76]LogFbx: Triangulating skeletal mesh Spook_Character_GEO
+[2023.05.03-17.47.10:426][ 76]LogFbx: Bones digested - 52  Depth of hierarchy - 11
+[2023.05.03-17.47.10:607][ 76]LogSkeletalMesh: Section 0: Material=0, 1388 triangles
+[2023.05.03-17.47.10:617][ 76]LogSkeletalMesh: Building Skeletal Mesh PeekAnim...
+[2023.05.03-17.47.10:636][ 76]LogSkeletalMesh: Display: Waiting for skinned assets to be ready 0/1 (PeekAnim) ...
+[2023.05.03-17.47.10:684][ 76]LogSkeletalMesh: Built Skeletal Mesh [0.07s] /Game/StaticNoise/Characters/Spook/PeekAnim.PeekAnim
+[2023.05.03-17.47.10:801][ 76]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2023.05.03-17.47.10:872][ 76]LogWorld: UWorld::CleanupWorld for World_79, bSessionEnded=true, bCleanupResources=true
+[2023.05.03-17.47.10:872][ 76]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2023.05.03-17.47.10:918][ 76]FBXImport: Warning: Mesh [Geometry have no name] in the fbx file is not reference by any hierarchy node. 
+[2023.05.03-17.47.10:918][ 76]FBXImport: Warning: Mesh [Geometry have no name] in the fbx file is not reference by any hierarchy node. 
+[2023.05.03-17.47.10:918][ 76]FBXImport: Warning: Mesh [Geometry have no name] in the fbx file is not reference by any hierarchy node. 
+[2023.05.03-17.47.10:918][ 76]FBXImport: Warning: Mesh [Geometry have no name] in the fbx file is not reference by any hierarchy node. 
+[2023.05.03-17.47.10:918][ 76]FBXImport: Warning: Mesh [Geometry have no name] in the fbx file is not reference by any hierarchy node. 
+[2023.05.03-17.47.10:918][ 76]FBXImport: Warning: Mesh [Geometry have no name] in the fbx file is not reference by any hierarchy node. 
+[2023.05.03-17.47.10:918][ 76]FBXImport: Warning: Mesh [Geometry have no name] in the fbx file is not reference by any hierarchy node. 
+[2023.05.03-17.47.10:918][ 76]FBXImport: Warning: Mesh [Geometry have no name] in the fbx file is not reference by any hierarchy node. 
+[2023.05.03-17.47.10:919][ 76]FBXImport: Warning: Mesh [Geometry have no name] in the fbx file is not reference by any hierarchy node. 
+[2023.05.03-17.47.10:919][ 76]FBXImport: Warning: Mesh [Geometry have no name] in the fbx file is not reference by any hierarchy node. 
+[2023.05.03-17.47.10:919][ 76]FBXImport: Warning: Mesh [Geometry have no name] in the fbx file is not reference by any hierarchy node. 
+[2023.05.03-17.47.10:919][ 76]FBXImport: Warning: Mesh [Geometry have no name] in the fbx file is not reference by any hierarchy node. 
+[2023.05.03-17.47.10:919][ 76]FBXImport: Warning: Mesh [Geometry have no name] in the fbx file is not reference by any hierarchy node. 
+[2023.05.03-17.47.10:919][ 76]FBXImport: Warning: Mesh [Geometry have no name] in the fbx file is not reference by any hierarchy node. 
+[2023.05.03-17.47.10:919][ 76]FBXImport: Warning: Mesh [Geometry have no name] in the fbx file is not reference by any hierarchy node. 
+[2023.05.03-17.47.10:919][ 76]FBXImport: Warning: Mesh [Geometry have no name] in the fbx file is not reference by any hierarchy node. 
+[2023.05.03-17.47.10:919][ 76]FBXImport: Warning: Mesh [Geometry have no name] in the fbx file is not reference by any hierarchy node. 
+[2023.05.03-17.47.10:919][ 76]FBXImport: Warning: Mesh [Geometry have no name] in the fbx file is not reference by any hierarchy node. 
+[2023.05.03-17.47.10:919][ 76]FBXImport: Warning: Mesh [Geometry have no name] in the fbx file is not reference by any hierarchy node. 
+[2023.05.03-17.47.10:919][ 76]FBXImport: Warning: Mesh [Geometry have no name] in the fbx file is not reference by any hierarchy node. 
+[2023.05.03-17.47.10:919][ 76]FBXImport: Warning: Mesh [Geometry have no name] in the fbx file is not reference by any hierarchy node. 
+[2023.05.03-17.47.10:919][ 76]FBXImport: Warning: Mesh [Geometry have no name] in the fbx file is not reference by any hierarchy node. 
+[2023.05.03-17.47.10:919][ 76]FBXImport: Warning: Mesh [Geometry have no name] in the fbx file is not reference by any hierarchy node. 
+[2023.05.03-17.47.10:919][ 76]FBXImport: Warning: Mesh [Geometry have no name] in the fbx file is not reference by any hierarchy node. 
+[2023.05.03-17.47.10:919][ 76]FBXImport: Warning: Mesh [Geometry have no name] in the fbx file is not reference by any hierarchy node. 
+[2023.05.03-17.47.10:919][ 76]FBXImport: Warning: Mesh [Geometry have no name] in the fbx file is not reference by any hierarchy node. 
+[2023.05.03-17.47.10:919][ 76]FBXImport: Warning: Mesh [Geometry have no name] in the fbx file is not reference by any hierarchy node. 
+[2023.05.03-17.47.10:919][ 76]FBXImport: Warning: Mesh [Geometry have no name] in the fbx file is not reference by any hierarchy node. 
+[2023.05.03-17.47.10:919][ 76]FBXImport: Warning: Mesh [Geometry have no name] in the fbx file is not reference by any hierarchy node. 
+[2023.05.03-17.47.10:919][ 76]FBXImport: Warning: Mesh [Geometry have no name] in the fbx file is not reference by any hierarchy node. 
+[2023.05.03-17.47.10:919][ 76]FBXImport: Warning: Mesh [Geometry have no name] in the fbx file is not reference by any hierarchy node. 
+[2023.05.03-17.47.10:919][ 76]FBXImport: Warning: Mesh [Geometry have no name] in the fbx file is not reference by any hierarchy node. 
+[2023.05.03-17.47.10:919][ 76]FBXImport: Warning: No smoothing group information was found in this FBX scene.  Please make sure to enable the 'Export Smoothing Groups' option in the FBX Exporter plug-in before exporting the file.  Even for tools that don't support smoothing groups, the FBX Exporter will generate appropriate smoothing data at export-time so that correct vertex normals can be inferred while importing. 
+[2023.05.03-17.47.10:919][ 76]FBXImport: Warning: The following bones are missing from the bind pose:
+L_Hand_01_Ctrl_GRP  
+L_Thumb_01_Ctrl_GRP  
+R_Hand_01_Ctrl_GRP  
+R_Thumb_01_Ctrl_GRP  
+
+This can happen for bones that are not vert weighted. If they are not in the correct orientation after importing,
+please set the "Use T0 as ref pose" option or add them to the bind pose and reimport the skeletal mesh. 
+[2023.05.03-17.47.12:095][129]LogShaderCompilers: Display: ================================================
+[2023.05.03-17.47.12:095][129]LogShaderCompilers: Display: === FShaderJobCache stats ===
+[2023.05.03-17.47.12:095][129]LogShaderCompilers: Display: Total job queries 1306, among them cache hits 293 (22.43%)
+[2023.05.03-17.47.12:095][129]LogShaderCompilers: Display: Tracking 976 distinct input hashes that result in 717 distinct outputs (73.46%)
+[2023.05.03-17.47.12:095][129]LogShaderCompilers: Display: RAM used: 8.15 MB (0.01 GB) of 1638.40 MB (1.60 GB) budget. Usage: 0.50%
+[2023.05.03-17.47.12:095][129]LogShaderCompilers: Display: === Shader Compilation stats ===
+[2023.05.03-17.47.12:095][129]LogShaderCompilers: Display: Shaders Compiled: 256
+[2023.05.03-17.47.12:095][129]LogShaderCompilers: Display: Jobs assigned 261, completed 256 (98.08%)
+[2023.05.03-17.47.12:095][129]LogShaderCompilers: Display: Average time worker was idle: 447.80 s
+[2023.05.03-17.47.12:095][129]LogShaderCompilers: Display: Time job spent in pending queue: average 1.42 s, longest 6.11 s
+[2023.05.03-17.47.12:095][129]LogShaderCompilers: Display: Job execution time: average 1.68 s, max 29.50 s
+[2023.05.03-17.47.12:095][129]LogShaderCompilers: Display: Job life time (pending + execution): average 3.12 s, max 31.37
+[2023.05.03-17.47.12:095][129]LogShaderCompilers: Display: Time at least one job was in flight (either pending or executed): 75.19 s
+[2023.05.03-17.47.12:095][129]LogShaderCompilers: Display: Jobs were issued in 261 batches (only local compilation was used), average 1.00 jobs/batch
+[2023.05.03-17.47.12:095][129]LogShaderCompilers: Display: Average processing rate: 3.40 jobs/sec
+[2023.05.03-17.47.12:095][129]LogShaderCompilers: Display: Total thread time: 234.71 s
+[2023.05.03-17.47.12:095][129]LogShaderCompilers: Display: Total thread preprocess time: 10.57 s
+[2023.05.03-17.47.12:095][129]LogShaderCompilers: Display: Percentage time preprocessing: 4.50%
+[2023.05.03-17.47.12:095][129]LogShaderCompilers: Display: Effective parallelization: 3.12 (times faster than compiling all shaders on one thread). Compare with number of workers: 10
+[2023.05.03-17.47.12:095][129]LogShaderCompilers: Display: Top 5 most expensive shader types by average time:
+[2023.05.03-17.47.12:095][129]LogShaderCompilers: Display:                                           FLumenCardPS<true> (compiled    3 times, average 1.34 sec, max 1.42 sec, min 1.29 sec)
+[2023.05.03-17.47.12:095][129]LogShaderCompilers: Display:  TBasePassPSTDistanceFieldShadowsAndLightMapPolicyHQSkylight (compiled    9 times, average 1.31 sec, max 2.28 sec, min 0.79 sec)
+[2023.05.03-17.47.12:095][129]LogShaderCompilers: Display:          TBasePassPSTDistanceFieldShadowsAndLightMapPolicyHQ (compiled    9 times, average 1.30 sec, max 2.30 sec, min 0.79 sec)
+[2023.05.03-17.47.12:095][129]LogShaderCompilers: Display:                         TBasePassPSTLightMapPolicyLQSkylight (compiled    9 times, average 1.28 sec, max 2.27 sec, min 0.76 sec)
+[2023.05.03-17.47.12:095][129]LogShaderCompilers: Display:                                 TBasePassPSTLightMapPolicyHQ (compiled   10 times, average 1.20 sec, max 2.25 sec, min 0.59 sec)
+[2023.05.03-17.47.12:095][129]LogShaderCompilers: Display: Top 5 shader types by total compile time:
+[2023.05.03-17.47.12:095][129]LogShaderCompilers: Display:                                 TBasePassPSFNoLightMapPolicy - 6.98% of total time (compiled   19 times, average 0.86 sec, max 1.88 sec, min 0.49 sec)
+[2023.05.03-17.47.12:095][129]LogShaderCompilers: Display:                                 TBasePassPSTLightMapPolicyHQ - 5.11% of total time (compiled   10 times, average 1.20 sec, max 2.25 sec, min 0.59 sec)
+[2023.05.03-17.47.12:095][129]LogShaderCompilers: Display:        TBasePassPSFCachedPointIndirectLightingPolicySkylight - 5.10% of total time (compiled   10 times, average 1.20 sec, max 2.02 sec, min 0.80 sec)
+[2023.05.03-17.47.12:095][129]LogShaderCompilers: Display: TBasePassPSFPrecomputedVolumetricLightmapLightingPolicySkylight - 5.06% of total time (compiled   10 times, average 1.19 sec, max 1.96 sec, min 0.83 sec)
+[2023.05.03-17.47.12:095][129]LogShaderCompilers: Display:                TBasePassPSFCachedPointIndirectLightingPolicy - 5.05% of total time (compiled   10 times, average 1.19 sec, max 1.98 sec, min 0.83 sec)
+[2023.05.03-17.47.12:095][129]LogShaderCompilers: Display: ================================================
+[2023.05.03-17.47.15:883][353]LogSlate: Window 'Message Log' being destroyed
+[2023.05.03-17.47.15:888][353]LogSlate: Window 'Message Log' being destroyed
+[2023.05.03-17.47.17:175][428]LogOutputDevice: Warning: 
+
+Script Stack (0 frames) :
+
+[2023.05.03-17.47.18:068][428]LogStats: FPlatformStackWalk::StackWalkAndDump -  0.890 s
+[2023.05.03-17.47.18:068][428]LogOutputDevice: Error: === Handled ensure: ===
+[2023.05.03-17.47.18:068][428]LogOutputDevice: Error: 
+[2023.05.03-17.47.18:068][428]LogOutputDevice: Error: Ensure condition failed: !Result->ContainsNaN()  [File:D:\build\++UE5\Sync\Engine\Source\Runtime\Core\Private\Math\UnrealMathSSE.cpp] [Line: 101] 
+[2023.05.03-17.47.18:068][428]LogOutputDevice: Error: 
+[2023.05.03-17.47.18:068][428]LogOutputDevice: Error: Stack: 
+[2023.05.03-17.47.18:068][428]LogOutputDevice: Error: [Callstack] 0x00007ffd3443f8d8 UnrealEditor-Core.dll!UnknownFunction []
+[2023.05.03-17.47.18:068][428]LogOutputDevice: Error: [Callstack] 0x00007ffd0ea883a1 UnrealEditor-Engine.dll!UnknownFunction []
+[2023.05.03-17.47.18:068][428]LogOutputDevice: Error: [Callstack] 0x00007ffd0ea86212 UnrealEditor-Engine.dll!UnknownFunction []
+[2023.05.03-17.47.18:068][428]LogOutputDevice: Error: [Callstack] 0x00007ffd0ead585f UnrealEditor-Engine.dll!UnknownFunction []
+[2023.05.03-17.47.18:068][428]LogOutputDevice: Error: [Callstack] 0x00007ffd0eafb36f UnrealEditor-Engine.dll!UnknownFunction []
+[2023.05.03-17.47.18:068][428]LogOutputDevice: Error: [Callstack] 0x00007ffd0d9dd3ad UnrealEditor-Engine.dll!UnknownFunction []
+[2023.05.03-17.47.18:068][428]LogOutputDevice: Error: [Callstack] 0x00007ffd0d89dc05 UnrealEditor-Engine.dll!UnknownFunction []
+[2023.05.03-17.47.18:068][428]LogOutputDevice: Error: [Callstack] 0x00007ffd0be61d84 UnrealEditor-UnrealEd.dll!UnknownFunction []
+[2023.05.03-17.47.18:068][428]LogOutputDevice: Error: [Callstack] 0x00007ffd0be12696 UnrealEditor-UnrealEd.dll!UnknownFunction []
+[2023.05.03-17.47.18:068][428]LogOutputDevice: Error: [Callstack] 0x00007ffd0ba8c9cb UnrealEditor-UnrealEd.dll!UnknownFunction []
+[2023.05.03-17.47.18:068][428]LogOutputDevice: Error: [Callstack] 0x00007ffd0af7c18e UnrealEditor-UnrealEd.dll!UnknownFunction []
+[2023.05.03-17.47.18:068][428]LogOutputDevice: Error: [Callstack] 0x00007ffd0afa5551 UnrealEditor-UnrealEd.dll!UnknownFunction []
+[2023.05.03-17.47.18:068][428]LogOutputDevice: Error: [Callstack] 0x00007ffd0adca8e0 UnrealEditor-UnrealEd.dll!UnknownFunction []
+[2023.05.03-17.47.18:068][428]LogOutputDevice: Error: [Callstack] 0x00007ffd0b47a6ec UnrealEditor-UnrealEd.dll!UnknownFunction []
+[2023.05.03-17.47.18:068][428]LogOutputDevice: Error: [Callstack] 0x00007ffd0befd1b6 UnrealEditor-UnrealEd.dll!UnknownFunction []
+[2023.05.03-17.47.18:068][428]LogOutputDevice: Error: [Callstack] 0x00007ff6e46c852c UnrealEditor.exe!UnknownFunction []
+[2023.05.03-17.47.18:068][428]LogOutputDevice: Error: [Callstack] 0x00007ff6e46e287d UnrealEditor.exe!UnknownFunction []
+[2023.05.03-17.47.18:068][428]LogOutputDevice: Error: [Callstack] 0x00007ff6e46e296a UnrealEditor.exe!UnknownFunction []
+[2023.05.03-17.47.18:068][428]LogOutputDevice: Error: [Callstack] 0x00007ff6e46e5680 UnrealEditor.exe!UnknownFunction []
+[2023.05.03-17.47.18:068][428]LogOutputDevice: Error: [Callstack] 0x00007ff6e46f71b4 UnrealEditor.exe!UnknownFunction []
+[2023.05.03-17.47.18:068][428]LogOutputDevice: Error: [Callstack] 0x00007ff6e46fa516 UnrealEditor.exe!UnknownFunction []
+[2023.05.03-17.47.18:068][428]LogOutputDevice: Error: [Callstack] 0x00007ffdffc1269d KERNEL32.DLL!UnknownFunction []
+[2023.05.03-17.47.18:068][428]LogOutputDevice: Error: [Callstack] 0x00007ffe0124a9f8 ntdll.dll!UnknownFunction []
+[2023.05.03-17.47.18:068][428]LogOutputDevice: Error: 
+[2023.05.03-17.47.18:074][428]LogStats:                SubmitErrorReport -  0.000 s
+[2023.05.03-17.47.29:718][428]LogAudioMixer: Warning: AudioMixerPlatformInterface Timeout [11236ms] waiting for h/w. InstanceID=1
+[2023.05.03-17.47.29:719][428]LogStats:                    SendNewReport - 11.645 s
+[2023.05.03-17.47.29:719][428]LogStats:             FDebug::EnsureFailed - 12.545 s
+[2023.05.03-17.47.29:721][428]LogAudioMixer: Display: FMixerNullCallback: Simulating a h/w device callback at [21ms], ThreadID=51316
+[2023.05.03-17.47.29:751][430]LogAudioMixer: Display: Successful Swap new Device is (NumChannels=2, SampleRate=48000, DeviceID={0.0.0.00000000}.{9131c861-3feb-4221-830d-4b28e0194196}, Name=Speakers (Stealth 600X Gen 2 MAX)), Reason=AudioMixerPlatformInterface. Timeout waiting for h/w., InstanceID=1, DurationMS=20.54
+[2023.05.03-17.47.29:751][430]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048, InstanceID=1
+[2023.05.03-17.47.29:753][430]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal(), InstanceID=1
+[2023.05.03-17.47.32:106][565]LogUObjectHash: Compacting FUObjectHashTables data took   2.32ms
+[2023.05.03-17.47.33:275][565]LogSlate: Window 'Save Content' being destroyed
+[2023.05.03-17.47.33:285][565]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2023.05.03-17.47.33:385][565]LogSavePackage: Moving output files for package: /Game/StaticNoise/Characters/Spook/PeekAnim
+[2023.05.03-17.47.33:385][565]LogSavePackage: Moving 'C:/Users/nikol/OneDrive/Other/Dokumenter/Unreal Projects/BachlorsProject/Saved/PeekAnim453D77B54C83440CE73748AC0B934B7D.tmp' to 'C:/Users/nikol/OneDrive/Other/Dokumenter/Unreal Projects/BachlorsProject/Content/StaticNoise/Characters/Spook/PeekAnim.uasset'
+[2023.05.03-17.47.33:400][565]LogSavePackage: Moving output files for package: /Game/StaticNoise/Characters/Spook/PeekAnim_PhysicsAsset
+[2023.05.03-17.47.33:400][565]LogSavePackage: Moving 'C:/Users/nikol/OneDrive/Other/Dokumenter/Unreal Projects/BachlorsProject/Saved/PeekAnim_PhysicsAsset49F6CB1347A45FFC0EECF98FB4E799E8.tmp' to 'C:/Users/nikol/OneDrive/Other/Dokumenter/Unreal Projects/BachlorsProject/Content/StaticNoise/Characters/Spook/PeekAnim_PhysicsAsset.uasset'
+[2023.05.03-17.47.33:412][565]LogSavePackage: Moving output files for package: /Game/StaticNoise/Characters/Spook/PeekAnim_Skeleton
+[2023.05.03-17.47.33:412][565]LogSavePackage: Moving 'C:/Users/nikol/OneDrive/Other/Dokumenter/Unreal Projects/BachlorsProject/Saved/PeekAnim_SkeletonEB8080824793DB0465B2AFA31DC3D630.tmp' to 'C:/Users/nikol/OneDrive/Other/Dokumenter/Unreal Projects/BachlorsProject/Content/StaticNoise/Characters/Spook/PeekAnim_Skeleton.uasset'
+[2023.05.03-17.47.35:454][565]LogStall: Stall detector 'FShaderCompilingManager::BlockOnShaderMapCompletion' exceeded budget of 2.000000s
+[2023.05.03-17.47.36:258][565]LogStall: Stall detector 'FShaderCompilingManager::BlockOnShaderMapCompletion' complete in 0.000054s (0.806880s overbudget)
+[2023.05.03-17.47.36:274][565]LogSavePackage: Moving output files for package: /Game/StaticNoise/Characters/Spook/Spook_Character
+[2023.05.03-17.47.36:274][565]LogSavePackage: Moving 'C:/Users/nikol/OneDrive/Other/Dokumenter/Unreal Projects/BachlorsProject/Saved/Spook_CharacterE163FAAA4481A91D2B996B9F33ABB027.tmp' to 'C:/Users/nikol/OneDrive/Other/Dokumenter/Unreal Projects/BachlorsProject/Content/StaticNoise/Characters/Spook/Spook_Character.uasset'
+[2023.05.03-17.47.36:278][565]LogFileHelpers: InternalPromptForCheckoutAndSave took 2.99 sec (total: 1:11 min)
+[2023.05.03-17.47.36:290][565]AssetCheck: New page: Asset Save: multiple assets
+[2023.05.03-17.47.36:290][565]LogContentValidation: Display: Validating /Script/Engine.PhysicsAsset /Game/StaticNoise/Characters/Spook/PeekAnim_PhysicsAsset.PeekAnim_PhysicsAsset
+[2023.05.03-17.47.36:290][565]LogContentValidation: Display: Validating /Script/Engine.Skeleton /Game/StaticNoise/Characters/Spook/PeekAnim_Skeleton.PeekAnim_Skeleton
+[2023.05.03-17.47.36:290][565]LogContentValidation: Display: Validating /Script/Engine.Material /Game/StaticNoise/Characters/Spook/Spook_Character.Spook_Character
+[2023.05.03-17.47.36:290][565]LogContentValidation: Display: Validating /Script/Engine.SkeletalMesh /Game/StaticNoise/Characters/Spook/PeekAnim.PeekAnim
+[2023.05.03-17.47.37:804][614]LogAssetEditorSubsystem: Opening Asset editor for Skeleton /Game/StaticNoise/Characters/Spook/PeekAnim_Skeleton.PeekAnim_Skeleton
+[2023.05.03-17.47.38:004][614]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2023.05.03-17.47.38:071][614]LogActorComponent: RegisterComponentWithWorld: (/Engine/Transient.World_82:PersistentLevel.AnimationEditorPreviewActor_0.DebugSkelMeshComponent_0) Already registered. Aborting.
+[2023.05.03-17.47.38:686][614]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2023.05.03-17.47.39:588][614]LogViewport: Scene viewport resized to 1141x858, mode Windowed.
+[2023.05.03-17.47.44:915][893]LogSlate: Window 'PeekAnim_Skeleton' being destroyed
+[2023.05.03-17.47.45:016][893]LogWorld: UWorld::CleanupWorld for World_82, bSessionEnded=true, bCleanupResources=true
+[2023.05.03-17.47.45:016][893]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2023.05.03-17.47.45:062][893]LogWorld: UWorld::CleanupWorld for World_83, bSessionEnded=true, bCleanupResources=true
+[2023.05.03-17.47.45:062][893]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2023.05.03-17.47.51:683][264]LogUObjectHash: Compacting FUObjectHashTables data took   2.59ms
+[2023.05.03-17.47.52:919][264]LogSlate: Window 'Delete Assets' being destroyed
+[2023.05.03-17.47.53:022][264]LogUObjectGlobals: Force Deleting 4 Package(s):
+	Asset Name: /Game/StaticNoise/Characters/Spook/Spook_Character.Spook_Character
+	Asset Type: Material
+	Asset Name: /Game/StaticNoise/Characters/Spook/PeekAnim.PeekAnim
+	Asset Type: SkeletalMesh
+	Asset Name: /Game/StaticNoise/Characters/Spook/PeekAnim_PhysicsAsset.PeekAnim_PhysicsAsset
+	Asset Type: PhysicsAsset
+	Asset Name: /Game/StaticNoise/Characters/Spook/PeekAnim_Skeleton.PeekAnim_Skeleton
+	Asset Type: Skeleton
+[2023.05.03-17.47.53:754][264]LogUObjectHash: Compacting FUObjectHashTables data took   1.58ms
+[2023.05.03-17.47.53:802][264]LogUObjectHash: Compacting FUObjectHashTables data took   2.18ms
+[2023.05.03-17.47.53:841][264]LogUObjectHash: Compacting FUObjectHashTables data took   0.63ms
+[2023.05.03-17.48.01:535][700]LogFactory: FactoryCreateFile: StaticMesh with FbxFactory (0 0 C:\Users\nikol\OneDrive\Skrivebord\Game Project\Exports\PeekAnim.fbx)
+[2023.05.03-17.48.01:541][700]LogFbx: Loading FBX Scene from C:\Users\nikol\OneDrive\Skrivebord\Game Project\Exports\PeekAnim.fbx
+[2023.05.03-17.48.01:578][700]LogFbx: FBX Scene Loaded Succesfully
+[2023.05.03-17.48.06:011][700]LogSlate: Window 'FBX Import Options' being destroyed
+[2023.05.03-17.48.06:037][700]LogFbx: Warning: Not valid bind pose for Pose (skinCluster3) - Node Spook_Character_GEO : The relative matrices do not match
+[2023.05.03-17.48.06:037][700]LogFbx: Warning: Getting valid bind pose failed. Try to recreate bind pose
+[2023.05.03-17.48.06:038][700]LogFbx: Valid bind pose for Pose (FbxSDKBindPose) - Spook_Character_GEO
+[2023.05.03-17.48.06:038][700]LogFbx: Warning: Recreating bind pose succeeded.
+[2023.05.03-17.48.06:040][700]LogMaterial: Display: Material /Game/StaticNoise/Characters/Spook/Spook_Character.Spook_Character needed to have new flag set bUsedWithSkeletalMesh !
+[2023.05.03-17.48.06:083][700]LogFbx: Triangulating skeletal mesh Spook_Character_GEO
+[2023.05.03-17.48.06:107][700]LogFbx: Bones digested - 52  Depth of hierarchy - 11
+[2023.05.03-17.48.06:167][700]LogSkeletalMesh: Section 0: Material=0, 1388 triangles
+[2023.05.03-17.48.06:174][700]LogSkeletalMesh: Building Skeletal Mesh PeekAnim...
+[2023.05.03-17.48.06:193][700]LogSkeletalMesh: Display: Waiting for skinned assets to be ready 0/1 (PeekAnim) ...
+[2023.05.03-17.48.06:205][700]LogSkeletalMesh: Built Skeletal Mesh [0.03s] /Game/StaticNoise/Characters/Spook/PeekAnim.PeekAnim
+[2023.05.03-17.48.06:266][700]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2023.05.03-17.48.06:276][700]LogWorld: UWorld::CleanupWorld for World_84, bSessionEnded=true, bCleanupResources=true
+[2023.05.03-17.48.06:276][700]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2023.05.03-17.48.06:298][700]FBXImport: Warning: Mesh [Geometry have no name] in the fbx file is not reference by any hierarchy node. 
+[2023.05.03-17.48.06:298][700]FBXImport: Warning: Mesh [Geometry have no name] in the fbx file is not reference by any hierarchy node. 
+[2023.05.03-17.48.06:298][700]FBXImport: Warning: Mesh [Geometry have no name] in the fbx file is not reference by any hierarchy node. 
+[2023.05.03-17.48.06:298][700]FBXImport: Warning: Mesh [Geometry have no name] in the fbx file is not reference by any hierarchy node. 
+[2023.05.03-17.48.06:298][700]FBXImport: Warning: Mesh [Geometry have no name] in the fbx file is not reference by any hierarchy node. 
+[2023.05.03-17.48.06:298][700]FBXImport: Warning: Mesh [Geometry have no name] in the fbx file is not reference by any hierarchy node. 
+[2023.05.03-17.48.06:298][700]FBXImport: Warning: Mesh [Geometry have no name] in the fbx file is not reference by any hierarchy node. 
+[2023.05.03-17.48.06:298][700]FBXImport: Warning: Mesh [Geometry have no name] in the fbx file is not reference by any hierarchy node. 
+[2023.05.03-17.48.06:298][700]FBXImport: Warning: Mesh [Geometry have no name] in the fbx file is not reference by any hierarchy node. 
+[2023.05.03-17.48.06:298][700]FBXImport: Warning: Mesh [Geometry have no name] in the fbx file is not reference by any hierarchy node. 
+[2023.05.03-17.48.06:298][700]FBXImport: Warning: Mesh [Geometry have no name] in the fbx file is not reference by any hierarchy node. 
+[2023.05.03-17.48.06:298][700]FBXImport: Warning: Mesh [Geometry have no name] in the fbx file is not reference by any hierarchy node. 
+[2023.05.03-17.48.06:298][700]FBXImport: Warning: Mesh [Geometry have no name] in the fbx file is not reference by any hierarchy node. 
+[2023.05.03-17.48.06:298][700]FBXImport: Warning: Mesh [Geometry have no name] in the fbx file is not reference by any hierarchy node. 
+[2023.05.03-17.48.06:298][700]FBXImport: Warning: Mesh [Geometry have no name] in the fbx file is not reference by any hierarchy node. 
+[2023.05.03-17.48.06:298][700]FBXImport: Warning: Mesh [Geometry have no name] in the fbx file is not reference by any hierarchy node. 
+[2023.05.03-17.48.06:298][700]FBXImport: Warning: Mesh [Geometry have no name] in the fbx file is not reference by any hierarchy node. 
+[2023.05.03-17.48.06:298][700]FBXImport: Warning: Mesh [Geometry have no name] in the fbx file is not reference by any hierarchy node. 
+[2023.05.03-17.48.06:298][700]FBXImport: Warning: Mesh [Geometry have no name] in the fbx file is not reference by any hierarchy node. 
+[2023.05.03-17.48.06:298][700]FBXImport: Warning: Mesh [Geometry have no name] in the fbx file is not reference by any hierarchy node. 
+[2023.05.03-17.48.06:298][700]FBXImport: Warning: Mesh [Geometry have no name] in the fbx file is not reference by any hierarchy node. 
+[2023.05.03-17.48.06:298][700]FBXImport: Warning: Mesh [Geometry have no name] in the fbx file is not reference by any hierarchy node. 
+[2023.05.03-17.48.06:298][700]FBXImport: Warning: Mesh [Geometry have no name] in the fbx file is not reference by any hierarchy node. 
+[2023.05.03-17.48.06:298][700]FBXImport: Warning: Mesh [Geometry have no name] in the fbx file is not reference by any hierarchy node. 
+[2023.05.03-17.48.06:298][700]FBXImport: Warning: Mesh [Geometry have no name] in the fbx file is not reference by any hierarchy node. 
+[2023.05.03-17.48.06:298][700]FBXImport: Warning: Mesh [Geometry have no name] in the fbx file is not reference by any hierarchy node. 
+[2023.05.03-17.48.06:298][700]FBXImport: Warning: Mesh [Geometry have no name] in the fbx file is not reference by any hierarchy node. 
+[2023.05.03-17.48.06:298][700]FBXImport: Warning: Mesh [Geometry have no name] in the fbx file is not reference by any hierarchy node. 
+[2023.05.03-17.48.06:298][700]FBXImport: Warning: Mesh [Geometry have no name] in the fbx file is not reference by any hierarchy node. 
+[2023.05.03-17.48.06:298][700]FBXImport: Warning: Mesh [Geometry have no name] in the fbx file is not reference by any hierarchy node. 
+[2023.05.03-17.48.06:298][700]FBXImport: Warning: Mesh [Geometry have no name] in the fbx file is not reference by any hierarchy node. 
+[2023.05.03-17.48.06:298][700]FBXImport: Warning: Mesh [Geometry have no name] in the fbx file is not reference by any hierarchy node. 
+[2023.05.03-17.48.06:298][700]FBXImport: Warning: No smoothing group information was found in this FBX scene.  Please make sure to enable the 'Export Smoothing Groups' option in the FBX Exporter plug-in before exporting the file.  Even for tools that don't support smoothing groups, the FBX Exporter will generate appropriate smoothing data at export-time so that correct vertex normals can be inferred while importing. 
+[2023.05.03-17.48.06:298][700]FBXImport: Warning: The following bones are missing from the bind pose:
+L_Hand_01_Ctrl_GRP  
+L_Thumb_01_Ctrl_GRP  
+R_Hand_01_Ctrl_GRP  
+R_Thumb_01_Ctrl_GRP  
+
+This can happen for bones that are not vert weighted. If they are not in the correct orientation after importing,
+please set the "Use T0 as ref pose" option or add them to the bind pose and reimport the skeletal mesh. 
+[2023.05.03-17.48.07:824][785]LogSlate: Window 'Message Log' being destroyed
+[2023.05.03-17.48.07:830][785]LogSlate: Window 'Message Log' being destroyed
+[2023.05.03-17.51.23:666][497]LogUObjectHash: Compacting FUObjectHashTables data took   1.65ms
+[2023.05.03-17.51.37:772][497]LogSlate: Window 'Save Content' being destroyed
+[2023.05.03-17.51.37:780][497]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2023.05.03-17.51.37:874][497]LogSavePackage: Moving output files for package: /Game/StaticNoise/Characters/Spook/PeekAnim
+[2023.05.03-17.51.37:874][497]LogSavePackage: Moving 'C:/Users/nikol/OneDrive/Other/Dokumenter/Unreal Projects/BachlorsProject/Saved/PeekAnim4E0C421642E8A90A0603AA85EFB903AA.tmp' to 'C:/Users/nikol/OneDrive/Other/Dokumenter/Unreal Projects/BachlorsProject/Content/StaticNoise/Characters/Spook/PeekAnim.uasset'
+[2023.05.03-17.51.37:889][497]LogSavePackage: Moving output files for package: /Game/StaticNoise/Characters/Spook/PeekAnim_PhysicsAsset
+[2023.05.03-17.51.37:889][497]LogSavePackage: Moving 'C:/Users/nikol/OneDrive/Other/Dokumenter/Unreal Projects/BachlorsProject/Saved/PeekAnim_PhysicsAssetC5212D324133B3E260A1A2B919CB343F.tmp' to 'C:/Users/nikol/OneDrive/Other/Dokumenter/Unreal Projects/BachlorsProject/Content/StaticNoise/Characters/Spook/PeekAnim_PhysicsAsset.uasset'
+[2023.05.03-17.51.37:904][497]LogSavePackage: Moving output files for package: /Game/StaticNoise/Characters/Spook/PeekAnim_Skeleton
+[2023.05.03-17.51.37:904][497]LogSavePackage: Moving 'C:/Users/nikol/OneDrive/Other/Dokumenter/Unreal Projects/BachlorsProject/Saved/PeekAnim_Skeleton72E90F0F44D49FB91A2C2E95A4E51544.tmp' to 'C:/Users/nikol/OneDrive/Other/Dokumenter/Unreal Projects/BachlorsProject/Content/StaticNoise/Characters/Spook/PeekAnim_Skeleton.uasset'
+[2023.05.03-17.51.37:935][497]LogShaderCompilers: Display: ================================================
+[2023.05.03-17.51.37:935][497]LogShaderCompilers: Display: === FShaderJobCache stats ===
+[2023.05.03-17.51.37:935][497]LogShaderCompilers: Display: Total job queries 1398, among them cache hits 327 (23.39%)
+[2023.05.03-17.51.37:935][497]LogShaderCompilers: Display: Tracking 1007 distinct input hashes that result in 726 distinct outputs (72.10%)
+[2023.05.03-17.51.37:935][497]LogShaderCompilers: Display: RAM used: 8.39 MB (0.01 GB) of 1638.40 MB (1.60 GB) budget. Usage: 0.51%
+[2023.05.03-17.51.37:935][497]LogShaderCompilers: Display: === Shader Compilation stats ===
+[2023.05.03-17.51.37:935][497]LogShaderCompilers: Display: Shaders Compiled: 287
+[2023.05.03-17.51.37:935][497]LogShaderCompilers: Display: Jobs assigned 287, completed 287 (100.00%)
+[2023.05.03-17.51.37:935][497]LogShaderCompilers: Display: Average time worker was idle: 531.35 s
+[2023.05.03-17.51.37:935][497]LogShaderCompilers: Display: Time job spent in pending queue: average 1.37 s, longest 6.11 s
+[2023.05.03-17.51.37:935][497]LogShaderCompilers: Display: Job execution time: average 1.60 s, max 29.50 s
+[2023.05.03-17.51.37:935][497]LogShaderCompilers: Display: Job life time (pending + execution): average 2.97 s, max 31.37
+[2023.05.03-17.51.37:935][497]LogShaderCompilers: Display: Time at least one job was in flight (either pending or executed): 78.40 s
+[2023.05.03-17.51.37:935][497]LogShaderCompilers: Display: Jobs were issued in 287 batches (only local compilation was used), average 1.00 jobs/batch
+[2023.05.03-17.51.37:935][497]LogShaderCompilers: Display: Average processing rate: 3.66 jobs/sec
+[2023.05.03-17.51.37:935][497]LogShaderCompilers: Display: Total thread time: 259.13 s
+[2023.05.03-17.51.37:935][497]LogShaderCompilers: Display: Total thread preprocess time: 11.89 s
+[2023.05.03-17.51.37:935][497]LogShaderCompilers: Display: Percentage time preprocessing: 4.59%
+[2023.05.03-17.51.37:935][497]LogShaderCompilers: Display: Effective parallelization: 3.31 (times faster than compiling all shaders on one thread). Compare with number of workers: 10
+[2023.05.03-17.51.37:935][497]LogShaderCompilers: Display: Top 5 most expensive shader types by average time:
+[2023.05.03-17.51.37:935][497]LogShaderCompilers: Display:                                           FLumenCardPS<true> (compiled    3 times, average 1.34 sec, max 1.42 sec, min 1.29 sec)
+[2023.05.03-17.51.37:936][497]LogShaderCompilers: Display:  TBasePassPSTDistanceFieldShadowsAndLightMapPolicyHQSkylight (compiled    9 times, average 1.31 sec, max 2.28 sec, min 0.79 sec)
+[2023.05.03-17.51.37:936][497]LogShaderCompilers: Display:          TBasePassPSTDistanceFieldShadowsAndLightMapPolicyHQ (compiled    9 times, average 1.30 sec, max 2.30 sec, min 0.79 sec)
+[2023.05.03-17.51.37:936][497]LogShaderCompilers: Display:                         TBasePassPSTLightMapPolicyLQSkylight (compiled    9 times, average 1.28 sec, max 2.27 sec, min 0.76 sec)
+[2023.05.03-17.51.37:936][497]LogShaderCompilers: Display:                                 TBasePassPSTLightMapPolicyHQ (compiled   10 times, average 1.20 sec, max 2.25 sec, min 0.59 sec)
+[2023.05.03-17.51.37:936][497]LogShaderCompilers: Display: Top 5 shader types by total compile time:
+[2023.05.03-17.51.37:936][497]LogShaderCompilers: Display:                                 TBasePassPSFNoLightMapPolicy - 6.94% of total time (compiled   21 times, average 0.86 sec, max 1.88 sec, min 0.49 sec)
+[2023.05.03-17.51.37:936][497]LogShaderCompilers: Display:        TBasePassPSFCachedPointIndirectLightingPolicySkylight - 5.32% of total time (compiled   12 times, average 1.15 sec, max 2.02 sec, min 0.80 sec)
+[2023.05.03-17.51.37:936][497]LogShaderCompilers: Display: TBasePassPSFPrecomputedVolumetricLightmapLightingPolicySkylight - 5.27% of total time (compiled   12 times, average 1.14 sec, max 1.96 sec, min 0.83 sec)
+[2023.05.03-17.51.37:936][497]LogShaderCompilers: Display:                TBasePassPSFCachedPointIndirectLightingPolicy - 5.27% of total time (compiled   12 times, average 1.14 sec, max 1.98 sec, min 0.83 sec)
+[2023.05.03-17.51.37:936][497]LogShaderCompilers: Display:      TBasePassPSFPrecomputedVolumetricLightmapLightingPolicy - 5.25% of total time (compiled   13 times, average 1.05 sec, max 1.95 sec, min 0.66 sec)
+[2023.05.03-17.51.37:936][497]LogShaderCompilers: Display: ================================================
+[2023.05.03-17.51.37:944][497]LogSavePackage: Moving output files for package: /Game/StaticNoise/Characters/Spook/Spook_Character
+[2023.05.03-17.51.37:945][497]LogSavePackage: Moving 'C:/Users/nikol/OneDrive/Other/Dokumenter/Unreal Projects/BachlorsProject/Saved/Spook_CharacterFFF0294F4DAB3AE57269109408799967.tmp' to 'C:/Users/nikol/OneDrive/Other/Dokumenter/Unreal Projects/BachlorsProject/Content/StaticNoise/Characters/Spook/Spook_Character.uasset'
+[2023.05.03-17.51.37:949][497]LogFileHelpers: InternalPromptForCheckoutAndSave took 170 ms (total: 1:11 min)
+[2023.05.03-17.51.38:027][497]LogAssetEditorSubsystem: Opening Asset editor for World /Game/StaticNoise/Maps/TestArea.TestArea
+[2023.05.03-17.51.38:028][497]Cmd: MAP LOAD FILE="C:/Users/nikol/OneDrive/Other/Dokumenter/Unreal Projects/BachlorsProject/Content/StaticNoise/Maps/TestArea.umap" TEMPLATE=0 SHOWPROGRESS=1 FEATURELEVEL=4
+[2023.05.03-17.51.38:028][497]LightingResults: New page: Lighting Build
+[2023.05.03-17.51.38:028][497]LoadErrors: New page: Loading map: TestArea.umap
+[2023.05.03-17.51.38:037][497]LogWorld: UWorld::CleanupWorld for MainMenu, bSessionEnded=true, bCleanupResources=true
+[2023.05.03-17.51.38:038][497]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2023.05.03-17.51.38:038][497]MapCheck: New page: Map Check
+[2023.05.03-17.51.38:038][497]LightingResults: New page: Lighting Build
+[2023.05.03-17.51.38:083][497]LogAudio: Display: Audio Device unregistered from world 'None'.
+[2023.05.03-17.51.38:090][497]LogUObjectHash: Compacting FUObjectHashTables data took   2.02ms
+[2023.05.03-17.51.38:093][497]LogWorld: UWorld::CleanupWorld for TestArea, bSessionEnded=true, bCleanupResources=true
+[2023.05.03-17.51.38:094][497]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2023.05.03-17.51.38:138][497]LogUObjectHash: Compacting FUObjectHashTables data took   1.40ms
+[2023.05.03-17.51.38:178][497]LogUObjectHash: Compacting FUObjectHashTables data took   1.59ms
+[2023.05.03-17.51.38:203][497]LogAudio: Display: Audio Device (ID: 1) registered with world 'TestArea'.
+[2023.05.03-17.51.38:203][497]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2023.05.03-17.51.38:204][497]LogAIModule: Creating AISystem for world TestArea
+[2023.05.03-17.51.38:335][497]LogEditorServer: Finished looking for orphan Actors (0.000 secs)
+[2023.05.03-17.51.38:379][497]LogUObjectHash: Compacting FUObjectHashTables data took   1.29ms
+[2023.05.03-17.51.38:387][497]Cmd: MAP CHECKDEP NOCLEARLOG
+[2023.05.03-17.51.38:387][497]MapCheck: Map check complete: 0 Error(s), 0 Warning(s), took 0,123ms to complete.
+[2023.05.03-17.51.38:387][497]LogFileHelpers: Loading map 'TestArea' took 0.360
+[2023.05.03-17.51.38:411][497]AssetCheck: New page: Asset Save: multiple assets
+[2023.05.03-17.51.38:411][497]LogContentValidation: Display: Validating /Script/Engine.PhysicsAsset /Game/StaticNoise/Characters/Spook/PeekAnim_PhysicsAsset.PeekAnim_PhysicsAsset
+[2023.05.03-17.51.38:411][497]LogContentValidation: Display: Validating /Script/Engine.Skeleton /Game/StaticNoise/Characters/Spook/PeekAnim_Skeleton.PeekAnim_Skeleton
+[2023.05.03-17.51.38:411][497]LogContentValidation: Display: Validating /Script/Engine.Material /Game/StaticNoise/Characters/Spook/Spook_Character.Spook_Character
+[2023.05.03-17.51.38:411][497]LogContentValidation: Display: Validating /Script/Engine.SkeletalMesh /Game/StaticNoise/Characters/Spook/PeekAnim.PeekAnim
+[2023.05.03-17.54.08:338][405]LogActorFactory: Actor Factory attempting to spawn SkeletalMesh /Game/StaticNoise/Characters/Spike/Spike.Spike
+[2023.05.03-17.54.08:338][405]LogActorFactory: Actor Factory attempting to spawn SkeletalMesh /Game/StaticNoise/Characters/Spike/Spike.Spike
+[2023.05.03-17.54.08:676][405]LogActorFactory: Actor Factory spawned SkeletalMesh /Game/StaticNoise/Characters/Spike/Spike.Spike as actor: SkeletalMeshActor /Game/StaticNoise/Maps/TestArea.TestArea:PersistentLevel.SkeletalMeshActor_0
+[2023.05.03-17.54.08:677][405]LogActorFactory: Actor Factory spawned SkeletalMesh /Game/StaticNoise/Characters/Spike/Spike.Spike as actor: SkeletalMeshActor /Game/StaticNoise/Maps/TestArea.TestArea:PersistentLevel.SkeletalMeshActor_0
+[2023.05.03-17.54.08:844][415]LogActorFactory: Actor Factory attempting to spawn SkeletalMesh /Game/StaticNoise/Characters/Spike/Spike.Spike
+[2023.05.03-17.54.08:844][415]LogActorFactory: Actor Factory attempting to spawn SkeletalMesh /Game/StaticNoise/Characters/Spike/Spike.Spike
+[2023.05.03-17.54.08:846][415]LogActorFactory: Actor Factory spawned SkeletalMesh /Game/StaticNoise/Characters/Spike/Spike.Spike as actor: SkeletalMeshActor /Game/StaticNoise/Maps/TestArea.TestArea:PersistentLevel.SkeletalMeshActor_3
+[2023.05.03-17.54.08:847][415]LogActorFactory: Actor Factory spawned SkeletalMesh /Game/StaticNoise/Characters/Spike/Spike.Spike as actor: SkeletalMeshActor /Game/StaticNoise/Maps/TestArea.TestArea:PersistentLevel.SkeletalMeshActor_3
+[2023.05.03-17.54.10:896][534]Cmd: DELETE
+[2023.05.03-17.54.10:896][534]Cmd: ACTOR DELETE
+[2023.05.03-17.54.10:901][534]LogEditorActor: Deleted Actor: SkeletalMeshActor
+[2023.05.03-17.54.10:941][534]LogUObjectHash: Compacting FUObjectHashTables data took   0.91ms
+[2023.05.03-17.54.10:946][534]LogEditorActor: Deleted 1 Actors (0.049 secs)
+[2023.05.03-17.54.12:402][618]LogActorFactory: Actor Factory attempting to spawn SkeletalMesh /Game/StaticNoise/Characters/Spook/PeekAnim.PeekAnim
+[2023.05.03-17.54.12:403][618]LogActorFactory: Actor Factory attempting to spawn SkeletalMesh /Game/StaticNoise/Characters/Spook/PeekAnim.PeekAnim
+[2023.05.03-17.54.12:403][618]LogActorFactory: Actor Factory spawned SkeletalMesh /Game/StaticNoise/Characters/Spook/PeekAnim.PeekAnim as actor: SkeletalMeshActor /Game/StaticNoise/Maps/TestArea.TestArea:PersistentLevel.SkeletalMeshActor_4
+[2023.05.03-17.54.12:404][618]LogActorFactory: Actor Factory spawned SkeletalMesh /Game/StaticNoise/Characters/Spook/PeekAnim.PeekAnim as actor: SkeletalMeshActor /Game/StaticNoise/Maps/TestArea.TestArea:PersistentLevel.SkeletalMeshActor_4
+[2023.05.03-17.54.13:027][655]LogActorFactory: Actor Factory attempting to spawn SkeletalMesh /Game/StaticNoise/Characters/Spook/PeekAnim.PeekAnim
+[2023.05.03-17.54.13:027][655]LogActorFactory: Actor Factory attempting to spawn SkeletalMesh /Game/StaticNoise/Characters/Spook/PeekAnim.PeekAnim
+[2023.05.03-17.54.13:028][655]LogActorFactory: Actor Factory spawned SkeletalMesh /Game/StaticNoise/Characters/Spook/PeekAnim.PeekAnim as actor: SkeletalMeshActor /Game/StaticNoise/Maps/TestArea.TestArea:PersistentLevel.SkeletalMeshActor_5
+[2023.05.03-17.54.13:029][655]LogActorFactory: Actor Factory spawned SkeletalMesh /Game/StaticNoise/Characters/Spook/PeekAnim.PeekAnim as actor: SkeletalMeshActor /Game/StaticNoise/Maps/TestArea.TestArea:PersistentLevel.SkeletalMeshActor_5
+[2023.05.03-17.54.14:560][746]Cmd: DELETE
+[2023.05.03-17.54.14:560][746]Cmd: ACTOR DELETE
+[2023.05.03-17.54.14:564][746]LogEditorActor: Deleted Actor: SkeletalMeshActor
+[2023.05.03-17.54.14:606][746]LogUObjectHash: Compacting FUObjectHashTables data took   1.35ms
+[2023.05.03-17.54.14:608][746]LogEditorActor: Deleted 1 Actors (0.048 secs)
+[2023.05.03-17.54.17:386][906]LogActorFactory: Actor Factory attempting to spawn SkeletalMesh /Game/StaticNoise/Characters/Spook/PeekAnim.PeekAnim
+[2023.05.03-17.54.17:387][906]LogActorFactory: Actor Factory attempting to spawn SkeletalMesh /Game/StaticNoise/Characters/Spook/PeekAnim.PeekAnim
+[2023.05.03-17.54.17:387][906]LogActorFactory: Actor Factory spawned SkeletalMesh /Game/StaticNoise/Characters/Spook/PeekAnim.PeekAnim as actor: SkeletalMeshActor /Game/StaticNoise/Maps/TestArea.TestArea:PersistentLevel.SkeletalMeshActor_6
+[2023.05.03-17.54.17:388][906]LogActorFactory: Actor Factory spawned SkeletalMesh /Game/StaticNoise/Characters/Spook/PeekAnim.PeekAnim as actor: SkeletalMeshActor /Game/StaticNoise/Maps/TestArea.TestArea:PersistentLevel.SkeletalMeshActor_6
+[2023.05.03-17.54.17:960][939]LogActorFactory: Actor Factory attempting to spawn SkeletalMesh /Game/StaticNoise/Characters/Spook/PeekAnim.PeekAnim
+[2023.05.03-17.54.17:960][939]LogActorFactory: Actor Factory attempting to spawn SkeletalMesh /Game/StaticNoise/Characters/Spook/PeekAnim.PeekAnim
+[2023.05.03-17.54.17:961][939]LogActorFactory: Actor Factory spawned SkeletalMesh /Game/StaticNoise/Characters/Spook/PeekAnim.PeekAnim as actor: SkeletalMeshActor /Game/StaticNoise/Maps/TestArea.TestArea:PersistentLevel.SkeletalMeshActor_7
+[2023.05.03-17.54.17:962][939]LogActorFactory: Actor Factory spawned SkeletalMesh /Game/StaticNoise/Characters/Spook/PeekAnim.PeekAnim as actor: SkeletalMeshActor /Game/StaticNoise/Maps/TestArea.TestArea:PersistentLevel.SkeletalMeshActor_7
+[2023.05.03-17.54.18:749][982]LogActorFactory: Actor Factory spawned PhysicsAsset /Game/StaticNoise/Characters/Spook/PeekAnim_PhysicsAsset.PeekAnim_PhysicsAsset as actor: SkeletalMeshActor /Game/StaticNoise/Maps/TestArea.TestArea:PersistentLevel.SkeletalMeshActor_8
+[2023.05.03-17.54.18:749][982]LogActor: Warning: SetReplicates called on non-initialized actor SkeletalMeshActor_8. Directly setting bReplicates is the correct procedure for pre-init actors.
+[2023.05.03-17.54.18:750][982]LogActorFactory: Actor Factory spawned PhysicsAsset /Game/StaticNoise/Characters/Spook/PeekAnim_PhysicsAsset.PeekAnim_PhysicsAsset as actor: SkeletalMeshActor /Game/StaticNoise/Maps/TestArea.TestArea:PersistentLevel.SkeletalMeshActor_8
+[2023.05.03-17.54.19:537][  9]LogActorFactory: Actor Factory spawned PhysicsAsset /Game/StaticNoise/Characters/Spook/PeekAnim_PhysicsAsset.PeekAnim_PhysicsAsset as actor: SkeletalMeshActor /Game/StaticNoise/Maps/TestArea.TestArea:PersistentLevel.SkeletalMeshActor_10
+[2023.05.03-17.54.19:537][  9]LogActor: Warning: SetReplicates called on non-initialized actor SkeletalMeshActor_10. Directly setting bReplicates is the correct procedure for pre-init actors.
+[2023.05.03-17.54.19:538][  9]LogActorFactory: Actor Factory spawned PhysicsAsset /Game/StaticNoise/Characters/Spook/PeekAnim_PhysicsAsset.PeekAnim_PhysicsAsset as actor: SkeletalMeshActor /Game/StaticNoise/Maps/TestArea.TestArea:PersistentLevel.SkeletalMeshActor_10
+[2023.05.03-17.54.20:657][ 74]Cmd: DELETE
+[2023.05.03-17.54.20:657][ 74]Cmd: ACTOR DELETE
+[2023.05.03-17.54.20:660][ 74]LogEditorActor: Deleted Actor: SkeletalMeshActor
+[2023.05.03-17.54.20:699][ 74]LogUObjectHash: Compacting FUObjectHashTables data took   1.30ms
+[2023.05.03-17.54.20:701][ 74]LogEditorActor: Deleted 1 Actors (0.044 secs)
+[2023.05.03-17.54.21:472][116]LogActorFactory: Actor Factory attempting to spawn Skeleton /Game/StaticNoise/Characters/Spook/PeekAnim_Skeleton.PeekAnim_Skeleton
+[2023.05.03-17.54.21:472][116]LogActorFactory: Actor Factory attempting to spawn Skeleton /Game/StaticNoise/Characters/Spook/PeekAnim_Skeleton.PeekAnim_Skeleton
+[2023.05.03-17.54.21:472][116]LogActorFactory: Actor Factory spawned SkeletalMesh /Game/StaticNoise/Characters/Spook/PeekAnim.PeekAnim as actor: SkeletalMeshActor /Game/StaticNoise/Maps/TestArea.TestArea:PersistentLevel.SkeletalMeshActor_12
+[2023.05.03-17.54.21:474][116]LogActorFactory: Actor Factory spawned SkeletalMesh /Game/StaticNoise/Characters/Spook/PeekAnim.PeekAnim as actor: SkeletalMeshActor /Game/StaticNoise/Maps/TestArea.TestArea:PersistentLevel.SkeletalMeshActor_12
+[2023.05.03-17.54.21:812][136]LogActorFactory: Actor Factory attempting to spawn Skeleton /Game/StaticNoise/Characters/Spook/PeekAnim_Skeleton.PeekAnim_Skeleton
+[2023.05.03-17.54.21:812][136]LogActorFactory: Actor Factory attempting to spawn Skeleton /Game/StaticNoise/Characters/Spook/PeekAnim_Skeleton.PeekAnim_Skeleton
+[2023.05.03-17.54.21:813][136]LogActorFactory: Actor Factory spawned SkeletalMesh /Game/StaticNoise/Characters/Spook/PeekAnim.PeekAnim as actor: SkeletalMeshActor /Game/StaticNoise/Maps/TestArea.TestArea:PersistentLevel.SkeletalMeshActor_13
+[2023.05.03-17.54.21:814][136]LogActorFactory: Actor Factory spawned SkeletalMesh /Game/StaticNoise/Characters/Spook/PeekAnim.PeekAnim as actor: SkeletalMeshActor /Game/StaticNoise/Maps/TestArea.TestArea:PersistentLevel.SkeletalMeshActor_13
+[2023.05.03-17.54.22:225][160]Cmd: DELETE
+[2023.05.03-17.54.22:225][160]Cmd: ACTOR DELETE
+[2023.05.03-17.54.22:229][160]LogEditorActor: Deleted Actor: SkeletalMeshActor
+[2023.05.03-17.54.22:271][160]LogUObjectHash: Compacting FUObjectHashTables data took   1.48ms
+[2023.05.03-17.54.22:274][160]LogEditorActor: Deleted 1 Actors (0.048 secs)
+[2023.05.03-17.54.24:118][269]Cmd: DELETE
+[2023.05.03-17.54.24:118][269]Cmd: ACTOR DELETE
+[2023.05.03-17.54.24:122][269]LogEditorActor: Deleted Actor: SkeletalMeshActor
+[2023.05.03-17.54.24:161][269]LogUObjectHash: Compacting FUObjectHashTables data took   0.70ms
+[2023.05.03-17.54.24:163][269]LogEditorActor: Deleted 1 Actors (0.045 secs)
+[2023.05.03-18.01.23:760][608]LogUObjectHash: Compacting FUObjectHashTables data took   1.03ms
+[2023.05.03-18.01.23:807][608]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/StaticNoise/Maps/TestArea_Auto6
+[2023.05.03-18.01.23:807][608]LogSavePackage: Moving 'C:/Users/nikol/OneDrive/Other/Dokumenter/Unreal Projects/BachlorsProject/Saved/TestArea_Auto63702FE24438D7C880E0347A15041049B.tmp' to 'C:/Users/nikol/OneDrive/Other/Dokumenter/Unreal Projects/BachlorsProject/Saved/Autosaves/Game/StaticNoise/Maps/TestArea_Auto6.umap'
+[2023.05.03-18.01.23:815][608]LogFileHelpers: Editor autosave (incl. external actors) for '/Game/StaticNoise/Maps/TestArea' took 0.101
+[2023.05.03-18.01.23:815][608]LogFileHelpers: Editor autosave (incl. sublevels & external actors) for all levels took 0.101
+[2023.05.03-18.03.37:947][378]LogAssetEditorSubsystem: Opening Asset editor for WidgetBlueprint /Game/StaticNoise/Blueprints/UI/IntroductionSequences/officeToResearchRoom.officeToResearchRoom
+[2023.05.03-18.03.37:947][378]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2023.05.03-18.03.37:953][378]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2023.05.03-18.03.38:458][378]LogSlateStyle: Warning: Unable to find Slate Widget Style 'None'. Using FToolbarStyle defaults instead.
+[2023.05.03-18.03.38:458][378]LogSlateStyle: Warning: Unable to find Slate Widget Style 'None'. Using FToolbarStyle defaults instead.
+[2023.05.03-18.04.06:697][ 55]BlueprintLog: New page: Compile officeToResearchRoom
+[2023.05.03-18.04.06:782][ 55]LogUObjectHash: Compacting FUObjectHashTables data took   2.29ms
+[2023.05.03-18.04.07:840][111]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2023.05.03-18.04.07:920][111]LogSavePackage: Moving output files for package: /Game/StaticNoise/Blueprints/UI/IntroductionSequences/officeToResearchRoom
+[2023.05.03-18.04.07:920][111]LogSavePackage: Moving 'C:/Users/nikol/OneDrive/Other/Dokumenter/Unreal Projects/BachlorsProject/Saved/officeToResearchRoom34AE4F8B42B1C1A9461D54A56B936B35.tmp' to 'C:/Users/nikol/OneDrive/Other/Dokumenter/Unreal Projects/BachlorsProject/Content/StaticNoise/Blueprints/UI/IntroductionSequences/officeToResearchRoom.uasset'
+[2023.05.03-18.04.07:929][111]LogFileHelpers: InternalPromptForCheckoutAndSave took 88 ms (total: 1:11 min)
+[2023.05.03-18.04.07:939][111]AssetCheck: New page: Asset Save: officeToResearchRoom
+[2023.05.03-18.04.07:939][111]LogContentValidation: Display: Validating /Script/UMGEditor.WidgetBlueprint /Game/StaticNoise/Blueprints/UI/IntroductionSequences/officeToResearchRoom.officeToResearchRoom
+[2023.05.03-18.04.12:648][388]LogAssetEditorSubsystem: Opening Asset editor for WidgetBlueprint /Game/StaticNoise/Blueprints/UI/IntroductionSequences/researchRoomToFacility.researchRoomToFacility
+[2023.05.03-18.04.12:649][388]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2023.05.03-18.04.12:657][388]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2023.05.03-18.04.13:083][388]LogSlateStyle: Warning: Unable to find Slate Widget Style 'None'. Using FToolbarStyle defaults instead.
+[2023.05.03-18.04.13:083][388]LogSlateStyle: Warning: Unable to find Slate Widget Style 'None'. Using FToolbarStyle defaults instead.
+[2023.05.03-18.05.25:169][595]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2023.05.03-18.05.25:244][595]LogSavePackage: Moving output files for package: /Game/StaticNoise/Blueprints/UI/IntroductionSequences/officeToResearchRoom
+[2023.05.03-18.05.25:245][595]LogSavePackage: Moving 'C:/Users/nikol/OneDrive/Other/Dokumenter/Unreal Projects/BachlorsProject/Saved/officeToResearchRoom9F7EC8534653A05170DDCA8A728737A2.tmp' to 'C:/Users/nikol/OneDrive/Other/Dokumenter/Unreal Projects/BachlorsProject/Content/StaticNoise/Blueprints/UI/IntroductionSequences/officeToResearchRoom.uasset'
+[2023.05.03-18.05.25:253][595]LogFileHelpers: InternalPromptForCheckoutAndSave took 83 ms (total: 1:11 min)
+[2023.05.03-18.05.25:262][595]AssetCheck: New page: Asset Save: officeToResearchRoom
+[2023.05.03-18.05.25:262][595]LogContentValidation: Display: Validating /Script/UMGEditor.WidgetBlueprint /Game/StaticNoise/Blueprints/UI/IntroductionSequences/officeToResearchRoom.officeToResearchRoom
+[2023.05.03-18.05.25:701][620]BlueprintLog: New page: Compile officeToResearchRoom
+[2023.05.03-18.05.25:789][620]LogUObjectHash: Compacting FUObjectHashTables data took   1.59ms
+[2023.05.03-18.05.46:837][272]LogUObjectHash: Compacting FUObjectHashTables data took   1.49ms
+[2023.05.03-18.05.48:413][272]LogSlate: Window 'Save Content' being destroyed
+[2023.05.03-18.05.48:424][272]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2023.05.03-18.05.48:517][272]LogUObjectHash: Compacting FUObjectHashTables data took   0.86ms
+[2023.05.03-18.05.48:560][272]LogSavePackage: Moving output files for package: /Game/StaticNoise/Maps/TestArea
+[2023.05.03-18.05.48:560][272]LogSavePackage: Moving 'C:/Users/nikol/OneDrive/Other/Dokumenter/Unreal Projects/BachlorsProject/Saved/TestArea7C972A5A417B4B8E7AA33BB3BDD75038.tmp' to 'C:/Users/nikol/OneDrive/Other/Dokumenter/Unreal Projects/BachlorsProject/Content/StaticNoise/Maps/TestArea.umap'
+[2023.05.03-18.05.48:568][272]LogFileHelpers: No new changes to save!
+[2023.05.03-18.05.48:568][272]LogFileHelpers: Saving map 'TestArea' took 0.108
+[2023.05.03-18.05.48:575][272]LogFileHelpers: InternalPromptForCheckoutAndSave took 150 ms (total: 1:11 min)
+[2023.05.03-18.05.48:624][272]LogAssetEditorSubsystem: Opening Asset editor for World /Game/StaticNoise/Maps/OfficeArea.OfficeArea
+[2023.05.03-18.05.48:624][272]Cmd: MAP LOAD FILE="C:/Users/nikol/OneDrive/Other/Dokumenter/Unreal Projects/BachlorsProject/Content/StaticNoise/Maps/OfficeArea.umap" TEMPLATE=0 SHOWPROGRESS=1 FEATURELEVEL=4
+[2023.05.03-18.05.48:624][272]LightingResults: New page: Lighting Build
+[2023.05.03-18.05.48:624][272]LoadErrors: New page: Loading map: OfficeArea.umap
+[2023.05.03-18.05.48:712][272]LogWorld: UWorld::CleanupWorld for TestArea, bSessionEnded=true, bCleanupResources=true
+[2023.05.03-18.05.48:712][272]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2023.05.03-18.05.48:712][272]MapCheck: New page: Map Check
+[2023.05.03-18.05.48:712][272]LightingResults: New page: Lighting Build
+[2023.05.03-18.05.48:770][272]LogAudio: Display: Audio Device unregistered from world 'None'.
+[2023.05.03-18.05.48:775][272]LogUObjectHash: Compacting FUObjectHashTables data took   1.75ms
+[2023.05.03-18.05.48:778][272]LogWorld: UWorld::CleanupWorld for OfficeArea, bSessionEnded=true, bCleanupResources=true
+[2023.05.03-18.05.48:778][272]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2023.05.03-18.05.48:836][272]LogUObjectHash: Compacting FUObjectHashTables data took   1.48ms
+[2023.05.03-18.05.48:893][272]LogUObjectHash: Compacting FUObjectHashTables data took   2.10ms
+[2023.05.03-18.05.48:907][272]LogAudio: Display: Audio Device (ID: 1) registered with world 'OfficeArea'.
+[2023.05.03-18.05.48:907][272]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2023.05.03-18.05.48:908][272]LogAIModule: Creating AISystem for world OfficeArea
+[2023.05.03-18.05.49:013][272]LogEditorServer: Finished looking for orphan Actors (0.000 secs)
+[2023.05.03-18.05.49:073][272]LogUObjectHash: Compacting FUObjectHashTables data took   2.40ms
+[2023.05.03-18.05.49:080][272]Cmd: MAP CHECKDEP NOCLEARLOG
+[2023.05.03-18.05.49:080][272]MapCheck: Map check complete: 0 Error(s), 0 Warning(s), took 0,109ms to complete.
+[2023.05.03-18.05.49:080][272]LogFileHelpers: Loading map 'OfficeArea' took 0.457
+[2023.05.03-18.05.49:099][272]AssetCheck: New page: Asset Save: TestArea
+[2023.05.03-18.05.50:484][346]LogDebuggerCommands: Repeating last play command: Selected Viewport
+[2023.05.03-18.05.50:490][346]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2023.05.03-18.05.50:490][346]PIE: New page: PIE session: OfficeArea (3. mai 2023, 22:05:50)
+[2023.05.03-18.05.50:490][346]LogPlayLevel: Creating play world package: /Game/StaticNoise/Maps/UEDPIE_0_OfficeArea
+[2023.05.03-18.05.50:501][346]LogPlayLevel: PIE: StaticDuplicateObject took: (0.010040s)
+[2023.05.03-18.05.50:501][346]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/StaticNoise/Maps/OfficeArea.OfficeArea to /Game/StaticNoise/Maps/UEDPIE_0_OfficeArea.OfficeArea (0.010069s)
+[2023.05.03-18.05.50:501][346]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2023.05.03-18.05.50:501][346]LogAIModule: Creating AISystem for world OfficeArea
+[2023.05.03-18.05.50:501][346]LogPlayLevel: PIE: World Init took: (0.000666s)
+[2023.05.03-18.05.50:558][346]LogUObjectHash: Compacting FUObjectHashTables data took   1.42ms
+[2023.05.03-18.05.50:559][346]LogAudio: Display: Creating Audio Device:                 Id: 33, Scope: Unique, Realtime: True
+[2023.05.03-18.05.50:559][346]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2023.05.03-18.05.50:559][346]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2023.05.03-18.05.50:559][346]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2023.05.03-18.05.50:559][346]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2023.05.03-18.05.50:559][346]LogAudioMixer: Display: 	Number of buffers to queue:			  1
+[2023.05.03-18.05.50:559][346]LogAudioMixer: Display: 	Max Channels (voices):				  0
+[2023.05.03-18.05.50:559][346]LogAudioMixer: Display: 	Number of Async Source Workers:		  4
+[2023.05.03-18.05.50:559][346]LogAudio: Display: AudioDevice MaxSources: 32
+[2023.05.03-18.05.50:561][346]LogAudio: Display: Audio Spatialization Plugin: None (built-in).
+[2023.05.03-18.05.50:561][346]LogAudio: Display: Audio Reverb Plugin: None (built-in).
+[2023.05.03-18.05.50:561][346]LogAudio: Display: Audio Occlusion Plugin: None (built-in).
+[2023.05.03-18.05.50:563][346]LogAudioMixer: Display: Initializing audio mixer using platform API: 'XAudio2'
+[2023.05.03-18.05.50:590][346]LogAudioMixer: Display: Using Audio Hardware Device Speakers (Stealth 600X Gen 2 MAX)
+[2023.05.03-18.05.50:590][346]LogAudioMixer: Display: Initializing Sound Submixes...
+[2023.05.03-18.05.50:590][346]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2023.05.03-18.05.50:590][346]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2023.05.03-18.05.50:592][346]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called. InstanceID=33
+[2023.05.03-18.05.50:592][346]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048, InstanceID=33
+[2023.05.03-18.05.50:593][346]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal(), InstanceID=33
+[2023.05.03-18.05.50:593][346]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time. InstanceID=33
+[2023.05.03-18.05.50:593][346]LogInit: FAudioDevice initialized.
+[2023.05.03-18.05.50:593][346]LogAudio: Display: Audio Device (ID: 33) registered with world 'OfficeArea'.
+[2023.05.03-18.05.50:600][346]LogLoad: Game class is 'OfficeGamemode_C'
+[2023.05.03-18.05.50:605][346]LogWorld: Bringing World /Game/StaticNoise/Maps/UEDPIE_0_OfficeArea.OfficeArea up for play (max tick rate 60) at 2023.05.03-20.05.50
+[2023.05.03-18.05.50:605][346]LogWorld: Bringing up level for play took: 0.005424
+[2023.05.03-18.05.50:607][346]LogOnline: OSS: Created online subsystem instance for: :Context_112
+[2023.05.03-18.05.50:609][346]LogSlate: New Slate User Created. Platform User Id 8, User Index 8, Is Virtual User: 1
+[2023.05.03-18.05.50:609][346]LogSlate: Slate User Registered.  User Index 8, Is Virtual User: 1
+[2023.05.03-18.05.50:610][346]LogViewport: Display: Viewport MouseCaptureMode Changed, CapturePermanently_IncludingInitialMouseDown -> CapturePermanently
+[2023.05.03-18.05.50:610][346]PIE: Server logged in
+[2023.05.03-18.05.50:610][346]PIE: Play in editor total start time 0,121 seconds.
+[2023.05.03-18.05.54:089][550]LogBlueprintUserMessages: [OfficeChar_C_0] Cast sucess 
+[2023.05.03-18.05.54:189][556]LogScript: Warning: Script Msg: The widget 'HUD_hand_C_0' was already added to the screen.
+[2023.05.03-18.05.54:189][556]LogScript: Warning: Last function called:
+	/Game/StaticNoise/Blueprints/PlayerCharacter/OfficeChar.OfficeChar_C.ExecuteUbergraph_OfficeChar
+
+[2023.05.03-18.05.54:189][556]LogBlueprintUserMessages: [OfficeChar_C_0] Cast sucess 
+[2023.05.03-18.05.54:289][562]LogBlueprintUserMessages: [OfficeChar_C_0] Cast sucess 
+[2023.05.03-18.05.54:289][562]LogScript: Warning: Script Msg: The widget 'HUD_hand_C_0' was already added to the screen.
+[2023.05.03-18.05.54:289][562]LogScript: Warning: Last function called:
+	/Game/StaticNoise/Blueprints/PlayerCharacter/OfficeChar.OfficeChar_C.ExecuteUbergraph_OfficeChar
+
+[2023.05.03-18.05.54:388][568]LogScript: Warning: Script Msg: The widget 'HUD_hand_C_0' was already added to the screen.
+[2023.05.03-18.05.54:388][568]LogScript: Warning: Last function called:
+	/Game/StaticNoise/Blueprints/PlayerCharacter/OfficeChar.OfficeChar_C.ExecuteUbergraph_OfficeChar
+
+[2023.05.03-18.05.54:388][568]LogBlueprintUserMessages: [OfficeChar_C_0] Cast sucess 
+[2023.05.03-18.05.54:489][574]LogBlueprintUserMessages: [OfficeChar_C_0] Cast sucess 
+[2023.05.03-18.05.54:489][574]LogScript: Warning: Script Msg: The widget 'HUD_hand_C_0' was already added to the screen.
+[2023.05.03-18.05.54:489][574]LogScript: Warning: Last function called:
+	/Game/StaticNoise/Blueprints/PlayerCharacter/OfficeChar.OfficeChar_C.ExecuteUbergraph_OfficeChar
+
+[2023.05.03-18.05.54:589][580]LogScript: Warning: Script Msg: The widget 'HUD_hand_C_0' was already added to the screen.
+[2023.05.03-18.05.54:589][580]LogScript: Warning: Last function called:
+	/Game/StaticNoise/Blueprints/PlayerCharacter/OfficeChar.OfficeChar_C.ExecuteUbergraph_OfficeChar
+
+[2023.05.03-18.05.54:589][580]LogBlueprintUserMessages: [OfficeChar_C_0] Cast sucess 
+[2023.05.03-18.05.58:004][782]LogBlueprintUserMessages: [OfficeChar_C_0] Cast sucess 
+[2023.05.03-18.05.58:092][787]LogBlueprintUserMessages: [OfficeChar_C_0] Cast sucess 
+[2023.05.03-18.05.58:198][793]LogScript: Warning: Script Msg: The widget 'HUD_hand_C_0' was already added to the screen.
+[2023.05.03-18.05.58:198][793]LogScript: Warning: Last function called:
+	/Game/StaticNoise/Blueprints/PlayerCharacter/OfficeChar.OfficeChar_C.ExecuteUbergraph_OfficeChar
+
+[2023.05.03-18.05.58:198][793]LogBlueprintUserMessages: [OfficeChar_C_0] Cast sucess 
+[2023.05.03-18.05.58:299][799]LogBlueprintUserMessages: [OfficeChar_C_0] Cast sucess 
+[2023.05.03-18.05.58:300][799]LogScript: Warning: Script Msg: The widget 'HUD_hand_C_0' was already added to the screen.
+[2023.05.03-18.05.58:300][799]LogScript: Warning: Last function called:
+	/Game/StaticNoise/Blueprints/PlayerCharacter/OfficeChar.OfficeChar_C.ExecuteUbergraph_OfficeChar
+
+[2023.05.03-18.05.58:402][805]LogScript: Warning: Script Msg: The widget 'HUD_hand_C_0' was already added to the screen.
+[2023.05.03-18.05.58:402][805]LogScript: Warning: Last function called:
+	/Game/StaticNoise/Blueprints/PlayerCharacter/OfficeChar.OfficeChar_C.ExecuteUbergraph_OfficeChar
+
+[2023.05.03-18.05.58:696][822]LogBlueprintUserMessages: [OfficeChar_C_0] Cast sucess 
+[2023.05.03-18.05.58:799][828]LogScript: Warning: Script Msg: The widget 'HUD_hand_C_0' was already added to the screen.
+[2023.05.03-18.05.58:800][828]LogScript: Warning: Last function called:
+	/Game/StaticNoise/Blueprints/PlayerCharacter/OfficeChar.OfficeChar_C.ExecuteUbergraph_OfficeChar
+
+[2023.05.03-18.05.58:800][828]LogBlueprintUserMessages: [OfficeChar_C_0] Cast sucess 
+[2023.05.03-18.05.58:906][834]LogBlueprintUserMessages: [OfficeChar_C_0] Cast sucess 
+[2023.05.03-18.05.58:906][834]LogScript: Warning: Script Msg: The widget 'HUD_hand_C_0' was already added to the screen.
+[2023.05.03-18.05.58:906][834]LogScript: Warning: Last function called:
+	/Game/StaticNoise/Blueprints/PlayerCharacter/OfficeChar.OfficeChar_C.ExecuteUbergraph_OfficeChar
+
+[2023.05.03-18.05.58:994][839]LogScript: Warning: Script Msg: The widget 'HUD_hand_C_0' was already added to the screen.
+[2023.05.03-18.05.58:994][839]LogScript: Warning: Last function called:
+	/Game/StaticNoise/Blueprints/PlayerCharacter/OfficeChar.OfficeChar_C.ExecuteUbergraph_OfficeChar
+
+[2023.05.03-18.05.58:994][839]LogBlueprintUserMessages: [OfficeChar_C_0] Cast sucess 
+[2023.05.03-18.05.59:103][845]LogBlueprintUserMessages: [OfficeChar_C_0] Cast sucess 
+[2023.05.03-18.05.59:103][845]LogScript: Warning: Script Msg: The widget 'HUD_hand_C_0' was already added to the screen.
+[2023.05.03-18.05.59:103][845]LogScript: Warning: Last function called:
+	/Game/StaticNoise/Blueprints/PlayerCharacter/OfficeChar.OfficeChar_C.ExecuteUbergraph_OfficeChar
+
+[2023.05.03-18.05.59:194][850]LogScript: Warning: Script Msg: The widget 'HUD_hand_C_0' was already added to the screen.
+[2023.05.03-18.05.59:194][850]LogScript: Warning: Last function called:
+	/Game/StaticNoise/Blueprints/PlayerCharacter/OfficeChar.OfficeChar_C.ExecuteUbergraph_OfficeChar
+
+[2023.05.03-18.05.59:194][850]LogBlueprintUserMessages: [OfficeChar_C_0] Cast sucess 
+[2023.05.03-18.05.59:311][856]LogBlueprintUserMessages: [OfficeChar_C_0] Cast sucess 
+[2023.05.03-18.05.59:312][856]LogScript: Warning: Script Msg: The widget 'HUD_hand_C_0' was already added to the screen.
+[2023.05.03-18.05.59:312][856]LogScript: Warning: Last function called:
+	/Game/StaticNoise/Blueprints/PlayerCharacter/OfficeChar.OfficeChar_C.ExecuteUbergraph_OfficeChar
+
+[2023.05.03-18.05.59:397][860]LogScript: Warning: Script Msg: The widget 'HUD_hand_C_0' was already added to the screen.
+[2023.05.03-18.05.59:397][860]LogScript: Warning: Last function called:
+	/Game/StaticNoise/Blueprints/PlayerCharacter/OfficeChar.OfficeChar_C.ExecuteUbergraph_OfficeChar
+
+[2023.05.03-18.05.59:397][860]LogBlueprintUserMessages: [OfficeChar_C_0] Cast sucess 
+[2023.05.03-18.06.00:193][905]LogBlueprintUserMessages: [OfficeChar_C_0] Cast sucess 
+[2023.05.03-18.06.00:293][911]LogBlueprintUserMessages: [OfficeChar_C_0] Cast sucess 
+[2023.05.03-18.06.00:392][917]LogScript: Warning: Script Msg: The widget 'HUD_hand_C_0' was already added to the screen.
+[2023.05.03-18.06.00:392][917]LogScript: Warning: Last function called:
+	/Game/StaticNoise/Blueprints/PlayerCharacter/OfficeChar.OfficeChar_C.ExecuteUbergraph_OfficeChar
+
+[2023.05.03-18.06.00:392][917]LogBlueprintUserMessages: [OfficeChar_C_0] Cast sucess 
+[2023.05.03-18.06.00:492][923]LogBlueprintUserMessages: [OfficeChar_C_0] Cast sucess 
+[2023.05.03-18.06.00:492][923]LogScript: Warning: Script Msg: The widget 'HUD_hand_C_0' was already added to the screen.
+[2023.05.03-18.06.00:492][923]LogScript: Warning: Last function called:
+	/Game/StaticNoise/Blueprints/PlayerCharacter/OfficeChar.OfficeChar_C.ExecuteUbergraph_OfficeChar
+
+[2023.05.03-18.06.00:592][929]LogScript: Warning: Script Msg: The widget 'HUD_hand_C_0' was already added to the screen.
+[2023.05.03-18.06.00:592][929]LogScript: Warning: Last function called:
+	/Game/StaticNoise/Blueprints/PlayerCharacter/OfficeChar.OfficeChar_C.ExecuteUbergraph_OfficeChar
+
+[2023.05.03-18.06.00:592][929]LogBlueprintUserMessages: [OfficeChar_C_0] Cast sucess 
+[2023.05.03-18.06.00:692][935]LogBlueprintUserMessages: [OfficeChar_C_0] Cast sucess 
+[2023.05.03-18.06.00:692][935]LogScript: Warning: Script Msg: The widget 'HUD_hand_C_0' was already added to the screen.
+[2023.05.03-18.06.00:692][935]LogScript: Warning: Last function called:
+	/Game/StaticNoise/Blueprints/PlayerCharacter/OfficeChar.OfficeChar_C.ExecuteUbergraph_OfficeChar
+
+[2023.05.03-18.06.00:792][941]LogScript: Warning: Script Msg: The widget 'HUD_hand_C_0' was already added to the screen.
+[2023.05.03-18.06.00:792][941]LogScript: Warning: Last function called:
+	/Game/StaticNoise/Blueprints/PlayerCharacter/OfficeChar.OfficeChar_C.ExecuteUbergraph_OfficeChar
+
+[2023.05.03-18.06.00:792][941]LogBlueprintUserMessages: [OfficeChar_C_0] Cast sucess 
+[2023.05.03-18.06.02:392][ 37]LogBlueprintUserMessages: [OfficeChar_C_0] Cast sucess 
+[2023.05.03-18.06.02:392][ 37]LogBlueprintUserMessages: [officeDoor_C_1] Looking at Office Door
+[2023.05.03-18.06.02:493][ 43]LogBlueprintUserMessages: [OfficeChar_C_0] Cast sucess 
+[2023.05.03-18.06.02:493][ 43]LogBlueprintUserMessages: [officeDoor_C_1] Looking at Office Door
+[2023.05.03-18.06.02:592][ 49]LogScript: Warning: Script Msg: The widget 'HUD_hand_C_0' was already added to the screen.
+[2023.05.03-18.06.02:592][ 49]LogScript: Warning: Last function called:
+	/Game/StaticNoise/Blueprints/PlayerCharacter/OfficeChar.OfficeChar_C.ExecuteUbergraph_OfficeChar
+
+[2023.05.03-18.06.02:592][ 49]LogBlueprintUserMessages: [OfficeChar_C_0] Cast sucess 
+[2023.05.03-18.06.02:592][ 49]LogBlueprintUserMessages: [officeDoor_C_1] Looking at Office Door
+[2023.05.03-18.06.02:692][ 55]LogBlueprintUserMessages: [OfficeChar_C_0] Cast sucess 
+[2023.05.03-18.06.02:692][ 55]LogBlueprintUserMessages: [officeDoor_C_1] Looking at Office Door
+[2023.05.03-18.06.02:692][ 55]LogScript: Warning: Script Msg: The widget 'HUD_hand_C_0' was already added to the screen.
+[2023.05.03-18.06.02:692][ 55]LogScript: Warning: Last function called:
+	/Game/StaticNoise/Blueprints/PlayerCharacter/OfficeChar.OfficeChar_C.ExecuteUbergraph_OfficeChar
+
+[2023.05.03-18.06.02:792][ 61]LogScript: Warning: Script Msg: The widget 'HUD_hand_C_0' was already added to the screen.
+[2023.05.03-18.06.02:792][ 61]LogScript: Warning: Last function called:
+	/Game/StaticNoise/Blueprints/PlayerCharacter/OfficeChar.OfficeChar_C.ExecuteUbergraph_OfficeChar
+
+[2023.05.03-18.06.02:792][ 61]LogBlueprintUserMessages: [OfficeChar_C_0] Cast sucess 
+[2023.05.03-18.06.02:792][ 61]LogBlueprintUserMessages: [officeDoor_C_1] Looking at Office Door
+[2023.05.03-18.06.02:893][ 67]LogBlueprintUserMessages: [OfficeChar_C_0] Cast sucess 
+[2023.05.03-18.06.02:893][ 67]LogBlueprintUserMessages: [officeDoor_C_1] Looking at Office Door
+[2023.05.03-18.06.02:893][ 67]LogScript: Warning: Script Msg: The widget 'HUD_hand_C_0' was already added to the screen.
+[2023.05.03-18.06.02:893][ 67]LogScript: Warning: Last function called:
+	/Game/StaticNoise/Blueprints/PlayerCharacter/OfficeChar.OfficeChar_C.ExecuteUbergraph_OfficeChar
+
+[2023.05.03-18.06.02:993][ 73]LogScript: Warning: Script Msg: The widget 'HUD_hand_C_0' was already added to the screen.
+[2023.05.03-18.06.02:993][ 73]LogScript: Warning: Last function called:
+	/Game/StaticNoise/Blueprints/PlayerCharacter/OfficeChar.OfficeChar_C.ExecuteUbergraph_OfficeChar
+
+[2023.05.03-18.06.03:269][ 87]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2023.05.03-18.06.03:269][ 87]LogWorld: BeginTearingDown for /Game/StaticNoise/Maps/UEDPIE_0_OfficeArea
+[2023.05.03-18.06.03:269][ 87]LogWorld: UWorld::CleanupWorld for OfficeArea, bSessionEnded=true, bCleanupResources=true
+[2023.05.03-18.06.03:270][ 87]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2023.05.03-18.06.03:273][ 87]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2023.05.03-18.06.03:281][ 87]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2023.05.03-18.06.03:335][ 87]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2023.05.03-18.06.03:335][ 87]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=33
+[2023.05.03-18.06.03:338][ 87]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=33
+[2023.05.03-18.06.03:344][ 87]LogSlate: Slate User Unregistered.  User Index 8
+[2023.05.03-18.06.03:344][ 87]LogSlate: Slate User Destroyed.  User Index 8, Is Virtual User: 1
+[2023.05.03-18.06.03:345][ 87]LogUObjectHash: Compacting FUObjectHashTables data took   1.67ms
+[2023.05.03-18.06.03:373][ 88]LogPlayLevel: Display: Destroying online subsystem :Context_112
+[2023.05.03-18.07.06:988][ 87]BlueprintLog: New page: Compile OfficeChar
+[2023.05.03-18.07.07:096][ 87]LogUObjectHash: Compacting FUObjectHashTables data took   1.53ms
+[2023.05.03-18.07.08:298][145]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2023.05.03-18.07.08:412][145]LogSavePackage: Moving output files for package: /Game/StaticNoise/Blueprints/PlayerCharacter/OfficeChar
+[2023.05.03-18.07.08:412][145]LogSavePackage: Moving 'C:/Users/nikol/OneDrive/Other/Dokumenter/Unreal Projects/BachlorsProject/Saved/OfficeChar5AE715FD449B4FF4E2B008A9C5F0713B.tmp' to 'C:/Users/nikol/OneDrive/Other/Dokumenter/Unreal Projects/BachlorsProject/Content/StaticNoise/Blueprints/PlayerCharacter/OfficeChar.uasset'
+[2023.05.03-18.07.08:420][145]LogFileHelpers: InternalPromptForCheckoutAndSave took 121 ms (total: 1:12 min)
+[2023.05.03-18.07.08:432][145]AssetCheck: New page: Asset Save: OfficeChar
+[2023.05.03-18.07.08:432][145]LogContentValidation: Display: Validating /Script/Engine.Blueprint /Game/StaticNoise/Blueprints/PlayerCharacter/OfficeChar.OfficeChar
+[2023.05.03-18.07.10:656][278]LogDebuggerCommands: Repeating last play command: Selected Viewport
+[2023.05.03-18.07.10:662][278]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2023.05.03-18.07.10:662][278]PIE: New page: PIE session: OfficeArea (3. mai 2023, 22:07:10)
+[2023.05.03-18.07.10:662][278]LogPlayLevel: Creating play world package: /Game/StaticNoise/Maps/UEDPIE_0_OfficeArea
+[2023.05.03-18.07.10:673][278]LogPlayLevel: PIE: StaticDuplicateObject took: (0.011235s)
+[2023.05.03-18.07.10:673][278]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/StaticNoise/Maps/OfficeArea.OfficeArea to /Game/StaticNoise/Maps/UEDPIE_0_OfficeArea.OfficeArea (0.011264s)
+[2023.05.03-18.07.10:673][278]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2023.05.03-18.07.10:673][278]LogAIModule: Creating AISystem for world OfficeArea
+[2023.05.03-18.07.10:675][278]LogPlayLevel: PIE: World Init took: (0.000641s)
+[2023.05.03-18.07.10:730][278]LogUObjectHash: Compacting FUObjectHashTables data took   1.52ms
+[2023.05.03-18.07.10:734][278]LogAudio: Display: Creating Audio Device:                 Id: 34, Scope: Unique, Realtime: True
+[2023.05.03-18.07.10:734][278]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2023.05.03-18.07.10:734][278]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2023.05.03-18.07.10:734][278]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2023.05.03-18.07.10:734][278]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2023.05.03-18.07.10:734][278]LogAudioMixer: Display: 	Number of buffers to queue:			  1
+[2023.05.03-18.07.10:734][278]LogAudioMixer: Display: 	Max Channels (voices):				  0
+[2023.05.03-18.07.10:734][278]LogAudioMixer: Display: 	Number of Async Source Workers:		  4
+[2023.05.03-18.07.10:734][278]LogAudio: Display: AudioDevice MaxSources: 32
+[2023.05.03-18.07.10:735][278]LogAudio: Display: Audio Spatialization Plugin: None (built-in).
+[2023.05.03-18.07.10:735][278]LogAudio: Display: Audio Reverb Plugin: None (built-in).
+[2023.05.03-18.07.10:735][278]LogAudio: Display: Audio Occlusion Plugin: None (built-in).
+[2023.05.03-18.07.10:736][278]LogAudioMixer: Display: Initializing audio mixer using platform API: 'XAudio2'
+[2023.05.03-18.07.10:764][278]LogAudioMixer: Display: Using Audio Hardware Device Speakers (Stealth 600X Gen 2 MAX)
+[2023.05.03-18.07.10:765][278]LogAudioMixer: Display: Initializing Sound Submixes...
+[2023.05.03-18.07.10:765][278]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2023.05.03-18.07.10:765][278]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2023.05.03-18.07.10:765][278]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called. InstanceID=34
+[2023.05.03-18.07.10:765][278]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048, InstanceID=34
+[2023.05.03-18.07.10:767][278]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal(), InstanceID=34
+[2023.05.03-18.07.10:767][278]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time. InstanceID=34
+[2023.05.03-18.07.10:767][278]LogInit: FAudioDevice initialized.
+[2023.05.03-18.07.10:767][278]LogAudio: Display: Audio Device (ID: 34) registered with world 'OfficeArea'.
+[2023.05.03-18.07.10:770][278]LogLoad: Game class is 'OfficeGamemode_C'
+[2023.05.03-18.07.10:774][278]LogWorld: Bringing World /Game/StaticNoise/Maps/UEDPIE_0_OfficeArea.OfficeArea up for play (max tick rate 60) at 2023.05.03-20.07.10
+[2023.05.03-18.07.10:775][278]LogWorld: Bringing up level for play took: 0.004985
+[2023.05.03-18.07.10:776][278]LogOnline: OSS: Created online subsystem instance for: :Context_113
+[2023.05.03-18.07.10:778][278]LogSlate: New Slate User Created. Platform User Id 8, User Index 8, Is Virtual User: 1
+[2023.05.03-18.07.10:778][278]LogSlate: Slate User Registered.  User Index 8, Is Virtual User: 1
+[2023.05.03-18.07.10:779][278]LogViewport: Display: Viewport MouseCaptureMode Changed, CapturePermanently_IncludingInitialMouseDown -> CapturePermanently
+[2023.05.03-18.07.10:779][278]PIE: Server logged in
+[2023.05.03-18.07.10:779][278]PIE: Play in editor total start time 0,117 seconds.
+[2023.05.03-18.07.10:975][282]LogBlueprintUserMessages: [OfficeChar_C_0] Cast sucess 
+[2023.05.03-18.07.13:575][438]LogBlueprintUserMessages: [OfficeChar_C_0] Cast sucess 
+[2023.05.03-18.07.13:675][444]LogBlueprintUserMessages: [OfficeChar_C_0] Cast sucess 
+[2023.05.03-18.07.13:774][450]LogScript: Warning: Script Msg: The widget 'HUD_hand_C_0' was already added to the screen.
+[2023.05.03-18.07.13:774][450]LogScript: Warning: Last function called:
+	/Game/StaticNoise/Blueprints/PlayerCharacter/OfficeChar.OfficeChar_C.ExecuteUbergraph_OfficeChar
+
+[2023.05.03-18.07.13:774][450]LogBlueprintUserMessages: [OfficeChar_C_0] Cast sucess 
+[2023.05.03-18.07.13:875][456]LogBlueprintUserMessages: [OfficeChar_C_0] Cast sucess 
+[2023.05.03-18.07.13:875][456]LogScript: Warning: Script Msg: The widget 'HUD_hand_C_0' was already added to the screen.
+[2023.05.03-18.07.13:875][456]LogScript: Warning: Last function called:
+	/Game/StaticNoise/Blueprints/PlayerCharacter/OfficeChar.OfficeChar_C.ExecuteUbergraph_OfficeChar
+
+[2023.05.03-18.07.13:974][462]LogScript: Warning: Script Msg: The widget 'HUD_hand_C_0' was already added to the screen.
+[2023.05.03-18.07.13:974][462]LogScript: Warning: Last function called:
+	/Game/StaticNoise/Blueprints/PlayerCharacter/OfficeChar.OfficeChar_C.ExecuteUbergraph_OfficeChar
+
+[2023.05.03-18.07.13:974][462]LogBlueprintUserMessages: [OfficeChar_C_0] Cast sucess 
+[2023.05.03-18.07.14:175][474]LogBlueprintUserMessages: [OfficeChar_C_0] Cast sucess 
+[2023.05.03-18.07.14:274][480]LogBlueprintUserMessages: [OfficeChar_C_0] Cast sucess 
+[2023.05.03-18.07.14:375][486]LogScript: Warning: Script Msg: The widget 'HUD_hand_C_0' was already added to the screen.
+[2023.05.03-18.07.14:375][486]LogScript: Warning: Last function called:
+	/Game/StaticNoise/Blueprints/PlayerCharacter/OfficeChar.OfficeChar_C.ExecuteUbergraph_OfficeChar
+
+[2023.05.03-18.07.14:375][486]LogBlueprintUserMessages: [OfficeChar_C_0] Cast sucess 
+[2023.05.03-18.07.14:475][492]LogBlueprintUserMessages: [OfficeChar_C_0] Cast sucess 
+[2023.05.03-18.07.14:475][492]LogScript: Warning: Script Msg: The widget 'HUD_hand_C_0' was already added to the screen.
+[2023.05.03-18.07.14:475][492]LogScript: Warning: Last function called:
+	/Game/StaticNoise/Blueprints/PlayerCharacter/OfficeChar.OfficeChar_C.ExecuteUbergraph_OfficeChar
+
+[2023.05.03-18.07.14:575][498]LogScript: Warning: Script Msg: The widget 'HUD_hand_C_0' was already added to the screen.
+[2023.05.03-18.07.14:575][498]LogScript: Warning: Last function called:
+	/Game/StaticNoise/Blueprints/PlayerCharacter/OfficeChar.OfficeChar_C.ExecuteUbergraph_OfficeChar
+
+[2023.05.03-18.07.14:575][498]LogBlueprintUserMessages: [OfficeChar_C_0] Cast sucess 
+[2023.05.03-18.07.14:675][504]LogBlueprintUserMessages: [OfficeChar_C_0] Cast sucess 
+[2023.05.03-18.07.14:675][504]LogScript: Warning: Script Msg: The widget 'HUD_hand_C_0' was already added to the screen.
+[2023.05.03-18.07.14:675][504]LogScript: Warning: Last function called:
+	/Game/StaticNoise/Blueprints/PlayerCharacter/OfficeChar.OfficeChar_C.ExecuteUbergraph_OfficeChar
+
+[2023.05.03-18.07.14:775][510]LogScript: Warning: Script Msg: The widget 'HUD_hand_C_0' was already added to the screen.
+[2023.05.03-18.07.14:775][510]LogScript: Warning: Last function called:
+	/Game/StaticNoise/Blueprints/PlayerCharacter/OfficeChar.OfficeChar_C.ExecuteUbergraph_OfficeChar
+
+[2023.05.03-18.07.14:775][510]LogBlueprintUserMessages: [OfficeChar_C_0] Cast sucess 
+[2023.05.03-18.07.14:875][516]LogBlueprintUserMessages: [OfficeChar_C_0] Cast sucess 
+[2023.05.03-18.07.14:875][516]LogScript: Warning: Script Msg: The widget 'HUD_hand_C_0' was already added to the screen.
+[2023.05.03-18.07.14:875][516]LogScript: Warning: Last function called:
+	/Game/StaticNoise/Blueprints/PlayerCharacter/OfficeChar.OfficeChar_C.ExecuteUbergraph_OfficeChar
+
+[2023.05.03-18.07.14:975][522]LogScript: Warning: Script Msg: The widget 'HUD_hand_C_0' was already added to the screen.
+[2023.05.03-18.07.14:975][522]LogScript: Warning: Last function called:
+	/Game/StaticNoise/Blueprints/PlayerCharacter/OfficeChar.OfficeChar_C.ExecuteUbergraph_OfficeChar
+
+[2023.05.03-18.07.14:975][522]LogBlueprintUserMessages: [OfficeChar_C_0] Cast sucess 
+[2023.05.03-18.07.15:074][528]LogBlueprintUserMessages: [OfficeChar_C_0] Cast sucess 
+[2023.05.03-18.07.15:074][528]LogScript: Warning: Script Msg: The widget 'HUD_hand_C_0' was already added to the screen.
+[2023.05.03-18.07.15:074][528]LogScript: Warning: Last function called:
+	/Game/StaticNoise/Blueprints/PlayerCharacter/OfficeChar.OfficeChar_C.ExecuteUbergraph_OfficeChar
+
+[2023.05.03-18.07.15:174][534]LogScript: Warning: Script Msg: The widget 'HUD_hand_C_0' was already added to the screen.
+[2023.05.03-18.07.15:174][534]LogScript: Warning: Last function called:
+	/Game/StaticNoise/Blueprints/PlayerCharacter/OfficeChar.OfficeChar_C.ExecuteUbergraph_OfficeChar
+
+[2023.05.03-18.07.15:875][576]LogBlueprintUserMessages: [OfficeChar_C_0] Cast sucess 
+[2023.05.03-18.07.15:974][582]LogScript: Warning: Script Msg: The widget 'HUD_hand_C_0' was already added to the screen.
+[2023.05.03-18.07.15:974][582]LogScript: Warning: Last function called:
+	/Game/StaticNoise/Blueprints/PlayerCharacter/OfficeChar.OfficeChar_C.ExecuteUbergraph_OfficeChar
+
+[2023.05.03-18.07.15:974][582]LogBlueprintUserMessages: [OfficeChar_C_0] Cast sucess 
+[2023.05.03-18.07.16:075][588]LogBlueprintUserMessages: [OfficeChar_C_0] Cast sucess 
+[2023.05.03-18.07.16:075][588]LogScript: Warning: Script Msg: The widget 'HUD_hand_C_0' was already added to the screen.
+[2023.05.03-18.07.16:075][588]LogScript: Warning: Last function called:
+	/Game/StaticNoise/Blueprints/PlayerCharacter/OfficeChar.OfficeChar_C.ExecuteUbergraph_OfficeChar
+
+[2023.05.03-18.07.16:175][594]LogScript: Warning: Script Msg: The widget 'HUD_hand_C_0' was already added to the screen.
+[2023.05.03-18.07.16:175][594]LogScript: Warning: Last function called:
+	/Game/StaticNoise/Blueprints/PlayerCharacter/OfficeChar.OfficeChar_C.ExecuteUbergraph_OfficeChar
+
+[2023.05.03-18.07.16:175][594]LogBlueprintUserMessages: [OfficeChar_C_0] Cast sucess 
+[2023.05.03-18.07.16:275][600]LogBlueprintUserMessages: [OfficeChar_C_0] Cast sucess 
+[2023.05.03-18.07.16:275][600]LogScript: Warning: Script Msg: The widget 'HUD_hand_C_0' was already added to the screen.
+[2023.05.03-18.07.16:275][600]LogScript: Warning: Last function called:
+	/Game/StaticNoise/Blueprints/PlayerCharacter/OfficeChar.OfficeChar_C.ExecuteUbergraph_OfficeChar
+
+[2023.05.03-18.07.16:375][606]LogScript: Warning: Script Msg: The widget 'HUD_hand_C_0' was already added to the screen.
+[2023.05.03-18.07.16:375][606]LogScript: Warning: Last function called:
+	/Game/StaticNoise/Blueprints/PlayerCharacter/OfficeChar.OfficeChar_C.ExecuteUbergraph_OfficeChar
+
+[2023.05.03-18.07.16:375][606]LogBlueprintUserMessages: [OfficeChar_C_0] Cast sucess 
+[2023.05.03-18.07.16:475][612]LogBlueprintUserMessages: [OfficeChar_C_0] Cast sucess 
+[2023.05.03-18.07.16:475][612]LogScript: Warning: Script Msg: The widget 'HUD_hand_C_0' was already added to the screen.
+[2023.05.03-18.07.16:475][612]LogScript: Warning: Last function called:
+	/Game/StaticNoise/Blueprints/PlayerCharacter/OfficeChar.OfficeChar_C.ExecuteUbergraph_OfficeChar
+
+[2023.05.03-18.07.16:575][618]LogScript: Warning: Script Msg: The widget 'HUD_hand_C_0' was already added to the screen.
+[2023.05.03-18.07.16:575][618]LogScript: Warning: Last function called:
+	/Game/StaticNoise/Blueprints/PlayerCharacter/OfficeChar.OfficeChar_C.ExecuteUbergraph_OfficeChar
+
+[2023.05.03-18.07.16:575][618]LogBlueprintUserMessages: [OfficeChar_C_0] Cast sucess 
+[2023.05.03-18.07.16:675][624]LogBlueprintUserMessages: [OfficeChar_C_0] Cast sucess 
+[2023.05.03-18.07.16:676][624]LogScript: Warning: Script Msg: The widget 'HUD_hand_C_0' was already added to the screen.
+[2023.05.03-18.07.16:676][624]LogScript: Warning: Last function called:
+	/Game/StaticNoise/Blueprints/PlayerCharacter/OfficeChar.OfficeChar_C.ExecuteUbergraph_OfficeChar
+
+[2023.05.03-18.07.16:775][630]LogScript: Warning: Script Msg: The widget 'HUD_hand_C_0' was already added to the screen.
+[2023.05.03-18.07.16:775][630]LogScript: Warning: Last function called:
+	/Game/StaticNoise/Blueprints/PlayerCharacter/OfficeChar.OfficeChar_C.ExecuteUbergraph_OfficeChar
+
+[2023.05.03-18.07.17:259][659]LogBlueprintUserMessages: [OfficeChar_C_0] Cast sucess 
+[2023.05.03-18.07.17:359][665]LogScript: Warning: Script Msg: The widget 'HUD_hand_C_0' was already added to the screen.
+[2023.05.03-18.07.17:359][665]LogScript: Warning: Last function called:
+	/Game/StaticNoise/Blueprints/PlayerCharacter/OfficeChar.OfficeChar_C.ExecuteUbergraph_OfficeChar
+
+[2023.05.03-18.07.17:359][665]LogBlueprintUserMessages: [OfficeChar_C_0] Cast sucess 
+[2023.05.03-18.07.17:458][671]LogBlueprintUserMessages: [OfficeChar_C_0] Cast sucess 
+[2023.05.03-18.07.17:458][671]LogScript: Warning: Script Msg: The widget 'HUD_hand_C_0' was already added to the screen.
+[2023.05.03-18.07.17:458][671]LogScript: Warning: Last function called:
+	/Game/StaticNoise/Blueprints/PlayerCharacter/OfficeChar.OfficeChar_C.ExecuteUbergraph_OfficeChar
+
+[2023.05.03-18.07.17:558][677]LogScript: Warning: Script Msg: The widget 'HUD_hand_C_0' was already added to the screen.
+[2023.05.03-18.07.17:558][677]LogScript: Warning: Last function called:
+	/Game/StaticNoise/Blueprints/PlayerCharacter/OfficeChar.OfficeChar_C.ExecuteUbergraph_OfficeChar
+
+[2023.05.03-18.07.18:159][713]LogBlueprintUserMessages: [OfficeChar_C_0] Cast sucess 
+[2023.05.03-18.07.18:259][719]LogBlueprintUserMessages: [OfficeChar_C_0] Cast sucess 
+[2023.05.03-18.07.18:358][725]LogScript: Warning: Script Msg: The widget 'HUD_hand_C_0' was already added to the screen.
+[2023.05.03-18.07.18:359][725]LogScript: Warning: Last function called:
+	/Game/StaticNoise/Blueprints/PlayerCharacter/OfficeChar.OfficeChar_C.ExecuteUbergraph_OfficeChar
+
+[2023.05.03-18.07.18:359][725]LogBlueprintUserMessages: [OfficeChar_C_0] Cast sucess 
+[2023.05.03-18.07.18:459][731]LogBlueprintUserMessages: [OfficeChar_C_0] Cast sucess 
+[2023.05.03-18.07.18:459][731]LogScript: Warning: Script Msg: The widget 'HUD_hand_C_0' was already added to the screen.
+[2023.05.03-18.07.18:459][731]LogScript: Warning: Last function called:
+	/Game/StaticNoise/Blueprints/PlayerCharacter/OfficeChar.OfficeChar_C.ExecuteUbergraph_OfficeChar
+
+[2023.05.03-18.07.18:559][737]LogScript: Warning: Script Msg: The widget 'HUD_hand_C_0' was already added to the screen.
+[2023.05.03-18.07.18:559][737]LogScript: Warning: Last function called:
+	/Game/StaticNoise/Blueprints/PlayerCharacter/OfficeChar.OfficeChar_C.ExecuteUbergraph_OfficeChar
+
+[2023.05.03-18.07.18:559][737]LogBlueprintUserMessages: [OfficeChar_C_0] Cast sucess 
+[2023.05.03-18.07.18:658][743]LogBlueprintUserMessages: [OfficeChar_C_0] Cast sucess 
+[2023.05.03-18.07.18:658][743]LogScript: Warning: Script Msg: The widget 'HUD_hand_C_0' was already added to the screen.
+[2023.05.03-18.07.18:658][743]LogScript: Warning: Last function called:
+	/Game/StaticNoise/Blueprints/PlayerCharacter/OfficeChar.OfficeChar_C.ExecuteUbergraph_OfficeChar
+
+[2023.05.03-18.07.18:759][749]LogScript: Warning: Script Msg: The widget 'HUD_hand_C_0' was already added to the screen.
+[2023.05.03-18.07.18:759][749]LogScript: Warning: Last function called:
+	/Game/StaticNoise/Blueprints/PlayerCharacter/OfficeChar.OfficeChar_C.ExecuteUbergraph_OfficeChar
+
+[2023.05.03-18.07.18:759][749]LogBlueprintUserMessages: [OfficeChar_C_0] Cast sucess 
+[2023.05.03-18.07.18:859][755]LogBlueprintUserMessages: [OfficeChar_C_0] Cast sucess 
+[2023.05.03-18.07.18:859][755]LogScript: Warning: Script Msg: The widget 'HUD_hand_C_0' was already added to the screen.
+[2023.05.03-18.07.18:859][755]LogScript: Warning: Last function called:
+	/Game/StaticNoise/Blueprints/PlayerCharacter/OfficeChar.OfficeChar_C.ExecuteUbergraph_OfficeChar
+
+[2023.05.03-18.07.18:959][761]LogScript: Warning: Script Msg: The widget 'HUD_hand_C_0' was already added to the screen.
+[2023.05.03-18.07.18:959][761]LogScript: Warning: Last function called:
+	/Game/StaticNoise/Blueprints/PlayerCharacter/OfficeChar.OfficeChar_C.ExecuteUbergraph_OfficeChar
+
+[2023.05.03-18.07.18:959][761]LogBlueprintUserMessages: [OfficeChar_C_0] Cast sucess 
+[2023.05.03-18.07.19:059][767]LogBlueprintUserMessages: [OfficeChar_C_0] Cast sucess 
+[2023.05.03-18.07.19:059][767]LogScript: Warning: Script Msg: The widget 'HUD_hand_C_0' was already added to the screen.
+[2023.05.03-18.07.19:059][767]LogScript: Warning: Last function called:
+	/Game/StaticNoise/Blueprints/PlayerCharacter/OfficeChar.OfficeChar_C.ExecuteUbergraph_OfficeChar
+
+[2023.05.03-18.07.19:159][773]LogScript: Warning: Script Msg: The widget 'HUD_hand_C_0' was already added to the screen.
+[2023.05.03-18.07.19:159][773]LogScript: Warning: Last function called:
+	/Game/StaticNoise/Blueprints/PlayerCharacter/OfficeChar.OfficeChar_C.ExecuteUbergraph_OfficeChar
+
+[2023.05.03-18.07.19:159][773]LogBlueprintUserMessages: [OfficeChar_C_0] Cast sucess 
+[2023.05.03-18.07.19:259][779]LogBlueprintUserMessages: [OfficeChar_C_0] Cast sucess 
+[2023.05.03-18.07.19:259][779]LogScript: Warning: Script Msg: The widget 'HUD_hand_C_0' was already added to the screen.
+[2023.05.03-18.07.19:259][779]LogScript: Warning: Last function called:
+	/Game/StaticNoise/Blueprints/PlayerCharacter/OfficeChar.OfficeChar_C.ExecuteUbergraph_OfficeChar
+
+[2023.05.03-18.07.19:359][785]LogScript: Warning: Script Msg: The widget 'HUD_hand_C_0' was already added to the screen.
+[2023.05.03-18.07.19:359][785]LogScript: Warning: Last function called:
+	/Game/StaticNoise/Blueprints/PlayerCharacter/OfficeChar.OfficeChar_C.ExecuteUbergraph_OfficeChar
+
+[2023.05.03-18.07.19:359][785]LogBlueprintUserMessages: [OfficeChar_C_0] Cast sucess 
+[2023.05.03-18.07.20:060][827]LogBlueprintUserMessages: [OfficeChar_C_0] Cast sucess 
+[2023.05.03-18.07.20:160][833]LogScript: Warning: Script Msg: The widget 'HUD_hand_C_0' was already added to the screen.
+[2023.05.03-18.07.20:160][833]LogScript: Warning: Last function called:
+	/Game/StaticNoise/Blueprints/PlayerCharacter/OfficeChar.OfficeChar_C.ExecuteUbergraph_OfficeChar
+
+[2023.05.03-18.07.24:700][103]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2023.05.03-18.07.24:700][103]LogWorld: BeginTearingDown for /Game/StaticNoise/Maps/UEDPIE_0_OfficeArea
+[2023.05.03-18.07.24:700][103]LogWorld: UWorld::CleanupWorld for OfficeArea, bSessionEnded=true, bCleanupResources=true
+[2023.05.03-18.07.24:701][103]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2023.05.03-18.07.24:704][103]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2023.05.03-18.07.24:711][103]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2023.05.03-18.07.24:770][103]LogAudio: Display: Audio Device unregistered from world 'None'.
+[2023.05.03-18.07.24:771][103]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=34
+[2023.05.03-18.07.24:773][103]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=34
+[2023.05.03-18.07.24:778][103]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2023.05.03-18.07.24:780][103]LogSlate: Slate User Unregistered.  User Index 8
+[2023.05.03-18.07.24:780][103]LogSlate: Slate User Destroyed.  User Index 8, Is Virtual User: 1
+[2023.05.03-18.07.24:782][103]LogUObjectHash: Compacting FUObjectHashTables data took   1.52ms
+[2023.05.03-18.07.24:807][104]LogPlayLevel: Display: Destroying online subsystem :Context_113
+[2023.05.03-18.07.36:796][798]LogViewport: Scene viewport resized to 1556x524, mode Windowed.
+[2023.05.03-18.07.36:834][800]LogViewport: Scene viewport resized to 1556x575, mode Windowed.
+[2023.05.03-18.07.36:872][802]LogViewport: Scene viewport resized to 1556x621, mode Windowed.
+[2023.05.03-18.07.36:909][804]LogViewport: Scene viewport resized to 1556x636, mode Windowed.
+[2023.05.03-18.07.36:946][806]LogViewport: Scene viewport resized to 1556x643, mode Windowed.
+[2023.05.03-18.07.36:986][808]LogViewport: Scene viewport resized to 1556x648, mode Windowed.
+[2023.05.03-18.07.37:023][810]LogViewport: Scene viewport resized to 1556x655, mode Windowed.
+[2023.05.03-18.07.37:059][812]LogViewport: Scene viewport resized to 1556x660, mode Windowed.
+[2023.05.03-18.07.45:050][289]LogEditorViewport: Clicking Background
+[2023.05.03-18.07.47:526][435]LogDebuggerCommands: Repeating last play command: Selected Viewport
+[2023.05.03-18.07.47:532][435]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2023.05.03-18.07.47:532][435]PIE: New page: PIE session: OfficeArea (3. mai 2023, 22:07:47)
+[2023.05.03-18.07.47:532][435]LogPlayLevel: Creating play world package: /Game/StaticNoise/Maps/UEDPIE_0_OfficeArea
+[2023.05.03-18.07.47:543][435]LogPlayLevel: PIE: StaticDuplicateObject took: (0.010596s)
+[2023.05.03-18.07.47:543][435]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/StaticNoise/Maps/OfficeArea.OfficeArea to /Game/StaticNoise/Maps/UEDPIE_0_OfficeArea.OfficeArea (0.010627s)
+[2023.05.03-18.07.47:543][435]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2023.05.03-18.07.47:543][435]LogAIModule: Creating AISystem for world OfficeArea
+[2023.05.03-18.07.47:543][435]LogPlayLevel: PIE: World Init took: (0.000682s)
+[2023.05.03-18.07.47:595][435]LogUObjectHash: Compacting FUObjectHashTables data took   1.37ms
+[2023.05.03-18.07.47:598][435]LogAudio: Display: Creating Audio Device:                 Id: 35, Scope: Unique, Realtime: True
+[2023.05.03-18.07.47:598][435]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2023.05.03-18.07.47:598][435]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2023.05.03-18.07.47:598][435]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2023.05.03-18.07.47:598][435]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2023.05.03-18.07.47:598][435]LogAudioMixer: Display: 	Number of buffers to queue:			  1
+[2023.05.03-18.07.47:598][435]LogAudioMixer: Display: 	Max Channels (voices):				  0
+[2023.05.03-18.07.47:598][435]LogAudioMixer: Display: 	Number of Async Source Workers:		  4
+[2023.05.03-18.07.47:598][435]LogAudio: Display: AudioDevice MaxSources: 32
+[2023.05.03-18.07.47:598][435]LogAudio: Display: Audio Spatialization Plugin: None (built-in).
+[2023.05.03-18.07.47:598][435]LogAudio: Display: Audio Reverb Plugin: None (built-in).
+[2023.05.03-18.07.47:598][435]LogAudio: Display: Audio Occlusion Plugin: None (built-in).
+[2023.05.03-18.07.47:600][435]LogAudioMixer: Display: Initializing audio mixer using platform API: 'XAudio2'
+[2023.05.03-18.07.47:627][435]LogAudioMixer: Display: Using Audio Hardware Device Speakers (Stealth 600X Gen 2 MAX)
+[2023.05.03-18.07.47:627][435]LogAudioMixer: Display: Initializing Sound Submixes...
+[2023.05.03-18.07.47:627][435]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2023.05.03-18.07.47:627][435]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2023.05.03-18.07.47:628][435]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called. InstanceID=35
+[2023.05.03-18.07.47:628][435]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048, InstanceID=35
+[2023.05.03-18.07.47:629][435]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal(), InstanceID=35
+[2023.05.03-18.07.47:629][435]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time. InstanceID=35
+[2023.05.03-18.07.47:629][435]LogInit: FAudioDevice initialized.
+[2023.05.03-18.07.47:629][435]LogAudio: Display: Audio Device (ID: 35) registered with world 'OfficeArea'.
+[2023.05.03-18.07.47:632][435]LogLoad: Game class is 'OfficeGamemode_C'
+[2023.05.03-18.07.47:637][435]LogWorld: Bringing World /Game/StaticNoise/Maps/UEDPIE_0_OfficeArea.OfficeArea up for play (max tick rate 60) at 2023.05.03-20.07.47
+[2023.05.03-18.07.47:637][435]LogWorld: Bringing up level for play took: 0.004870
+[2023.05.03-18.07.47:638][435]LogOnline: OSS: Created online subsystem instance for: :Context_114
+[2023.05.03-18.07.47:640][435]LogSlate: New Slate User Created. Platform User Id 8, User Index 8, Is Virtual User: 1
+[2023.05.03-18.07.47:640][435]LogSlate: Slate User Registered.  User Index 8, Is Virtual User: 1
+[2023.05.03-18.07.47:640][435]LogViewport: Display: Viewport MouseCaptureMode Changed, CapturePermanently_IncludingInitialMouseDown -> CapturePermanently
+[2023.05.03-18.07.47:640][435]PIE: Server logged in
+[2023.05.03-18.07.47:641][435]PIE: Play in editor total start time 0,109 seconds.
+[2023.05.03-18.07.50:128][575]LogBlueprintUserMessages: [OfficeChar_C_0] Cast sucess 
+[2023.05.03-18.07.50:228][581]LogBlueprintUserMessages: [OfficeChar_C_0] Cast sucess 
+[2023.05.03-18.07.50:328][587]LogScript: Warning: Script Msg: The widget 'HUD_hand_C_0' was already added to the screen.
+[2023.05.03-18.07.50:328][587]LogScript: Warning: Last function called:
+	/Game/StaticNoise/Blueprints/PlayerCharacter/OfficeChar.OfficeChar_C.ExecuteUbergraph_OfficeChar
+
+[2023.05.03-18.07.50:328][587]LogBlueprintUserMessages: [OfficeChar_C_0] Cast sucess 
+[2023.05.03-18.07.50:428][593]LogBlueprintUserMessages: [OfficeChar_C_0] Cast sucess 
+[2023.05.03-18.07.50:428][593]LogScript: Warning: Script Msg: The widget 'HUD_hand_C_0' was already added to the screen.
+[2023.05.03-18.07.50:428][593]LogScript: Warning: Last function called:
+	/Game/StaticNoise/Blueprints/PlayerCharacter/OfficeChar.OfficeChar_C.ExecuteUbergraph_OfficeChar
+
+[2023.05.03-18.07.50:528][599]LogScript: Warning: Script Msg: The widget 'HUD_hand_C_0' was already added to the screen.
+[2023.05.03-18.07.50:528][599]LogScript: Warning: Last function called:
+	/Game/StaticNoise/Blueprints/PlayerCharacter/OfficeChar.OfficeChar_C.ExecuteUbergraph_OfficeChar
+
+[2023.05.03-18.07.50:528][599]LogBlueprintUserMessages: [OfficeChar_C_0] Cast sucess 
+[2023.05.03-18.07.50:628][605]LogBlueprintUserMessages: [OfficeChar_C_0] Cast sucess 
+[2023.05.03-18.07.50:628][605]LogScript: Warning: Script Msg: The widget 'HUD_hand_C_0' was already added to the screen.
+[2023.05.03-18.07.50:628][605]LogScript: Warning: Last function called:
+	/Game/StaticNoise/Blueprints/PlayerCharacter/OfficeChar.OfficeChar_C.ExecuteUbergraph_OfficeChar
+
+[2023.05.03-18.07.50:728][611]LogScript: Warning: Script Msg: The widget 'HUD_hand_C_0' was already added to the screen.
+[2023.05.03-18.07.50:728][611]LogScript: Warning: Last function called:
+	/Game/StaticNoise/Blueprints/PlayerCharacter/OfficeChar.OfficeChar_C.ExecuteUbergraph_OfficeChar
+
+[2023.05.03-18.07.50:728][611]LogBlueprintUserMessages: [OfficeChar_C_0] Cast sucess 
+[2023.05.03-18.07.51:729][671]LogBlueprintUserMessages: [OfficeChar_C_0] Cast sucess 
+[2023.05.03-18.07.51:828][677]LogBlueprintUserMessages: [OfficeChar_C_0] Cast sucess 
+[2023.05.03-18.07.51:929][683]LogScript: Warning: Script Msg: The widget 'HUD_hand_C_0' was already added to the screen.
+[2023.05.03-18.07.51:929][683]LogScript: Warning: Last function called:
+	/Game/StaticNoise/Blueprints/PlayerCharacter/OfficeChar.OfficeChar_C.ExecuteUbergraph_OfficeChar
+
+[2023.05.03-18.07.51:929][683]LogBlueprintUserMessages: [OfficeChar_C_0] Cast sucess 
+[2023.05.03-18.07.52:028][689]LogBlueprintUserMessages: [OfficeChar_C_0] Cast sucess 
+[2023.05.03-18.07.52:028][689]LogScript: Warning: Script Msg: The widget 'HUD_hand_C_0' was already added to the screen.
+[2023.05.03-18.07.52:028][689]LogScript: Warning: Last function called:
+	/Game/StaticNoise/Blueprints/PlayerCharacter/OfficeChar.OfficeChar_C.ExecuteUbergraph_OfficeChar
+
+[2023.05.03-18.07.52:130][695]LogScript: Warning: Script Msg: The widget 'HUD_hand_C_0' was already added to the screen.
+[2023.05.03-18.07.52:131][695]LogScript: Warning: Last function called:
+	/Game/StaticNoise/Blueprints/PlayerCharacter/OfficeChar.OfficeChar_C.ExecuteUbergraph_OfficeChar
+
+[2023.05.03-18.07.54:430][833]LogBlueprintUserMessages: [OfficeChar_C_0] Cast sucess 
+[2023.05.03-18.07.54:430][833]LogBlueprintUserMessages: [officeDoor_C_1] Looking at Office Door
+[2023.05.03-18.07.54:530][839]LogScript: Warning: Script Msg: The widget 'HUD_hand_C_0' was already added to the screen.
+[2023.05.03-18.07.54:530][839]LogScript: Warning: Last function called:
+	/Game/StaticNoise/Blueprints/PlayerCharacter/OfficeChar.OfficeChar_C.ExecuteUbergraph_OfficeChar
+
+[2023.05.03-18.07.54:530][839]LogBlueprintUserMessages: [OfficeChar_C_0] Cast sucess 
+[2023.05.03-18.07.54:530][839]LogBlueprintUserMessages: [officeDoor_C_1] Looking at Office Door
+[2023.05.03-18.07.54:629][845]LogBlueprintUserMessages: [OfficeChar_C_0] Cast sucess 
+[2023.05.03-18.07.54:630][845]LogBlueprintUserMessages: [officeDoor_C_1] Looking at Office Door
+[2023.05.03-18.07.54:630][845]LogScript: Warning: Script Msg: The widget 'HUD_hand_C_0' was already added to the screen.
+[2023.05.03-18.07.54:630][845]LogScript: Warning: Last function called:
+	/Game/StaticNoise/Blueprints/PlayerCharacter/OfficeChar.OfficeChar_C.ExecuteUbergraph_OfficeChar
+
+[2023.05.03-18.07.54:730][851]LogScript: Warning: Script Msg: The widget 'HUD_hand_C_0' was already added to the screen.
+[2023.05.03-18.07.54:730][851]LogScript: Warning: Last function called:
+	/Game/StaticNoise/Blueprints/PlayerCharacter/OfficeChar.OfficeChar_C.ExecuteUbergraph_OfficeChar
+
+[2023.05.03-18.07.54:730][851]LogBlueprintUserMessages: [OfficeChar_C_0] Cast sucess 
+[2023.05.03-18.07.54:730][851]LogBlueprintUserMessages: [officeDoor_C_1] Looking at Office Door
+[2023.05.03-18.07.54:829][857]LogBlueprintUserMessages: [OfficeChar_C_0] Cast sucess 
+[2023.05.03-18.07.54:829][857]LogBlueprintUserMessages: [officeDoor_C_1] Looking at Office Door
+[2023.05.03-18.07.54:829][857]LogScript: Warning: Script Msg: The widget 'HUD_hand_C_0' was already added to the screen.
+[2023.05.03-18.07.54:829][857]LogScript: Warning: Last function called:
+	/Game/StaticNoise/Blueprints/PlayerCharacter/OfficeChar.OfficeChar_C.ExecuteUbergraph_OfficeChar
+
+[2023.05.03-18.07.54:930][863]LogScript: Warning: Script Msg: The widget 'HUD_hand_C_0' was already added to the screen.
+[2023.05.03-18.07.54:930][863]LogScript: Warning: Last function called:
+	/Game/StaticNoise/Blueprints/PlayerCharacter/OfficeChar.OfficeChar_C.ExecuteUbergraph_OfficeChar
+
+[2023.05.03-18.07.54:930][863]LogBlueprintUserMessages: [OfficeChar_C_0] Cast sucess 
+[2023.05.03-18.07.54:930][863]LogBlueprintUserMessages: [officeDoor_C_1] Looking at Office Door
+[2023.05.03-18.07.55:029][869]LogBlueprintUserMessages: [OfficeChar_C_0] Cast sucess 
+[2023.05.03-18.07.55:029][869]LogBlueprintUserMessages: [officeDoor_C_1] Looking at Office Door
+[2023.05.03-18.07.55:029][869]LogScript: Warning: Script Msg: The widget 'HUD_hand_C_0' was already added to the screen.
+[2023.05.03-18.07.55:029][869]LogScript: Warning: Last function called:
+	/Game/StaticNoise/Blueprints/PlayerCharacter/OfficeChar.OfficeChar_C.ExecuteUbergraph_OfficeChar
+
+[2023.05.03-18.07.55:129][875]LogScript: Warning: Script Msg: The widget 'HUD_hand_C_0' was already added to the screen.
+[2023.05.03-18.07.55:129][875]LogScript: Warning: Last function called:
+	/Game/StaticNoise/Blueprints/PlayerCharacter/OfficeChar.OfficeChar_C.ExecuteUbergraph_OfficeChar
+
+[2023.05.03-18.07.55:129][875]LogBlueprintUserMessages: [OfficeChar_C_0] Cast sucess 
+[2023.05.03-18.07.55:129][875]LogBlueprintUserMessages: [officeDoor_C_1] Looking at Office Door
+[2023.05.03-18.07.55:230][881]LogBlueprintUserMessages: [OfficeChar_C_0] Cast sucess 
+[2023.05.03-18.07.55:230][881]LogBlueprintUserMessages: [officeDoor_C_1] Looking at Office Door
+[2023.05.03-18.07.55:230][881]LogScript: Warning: Script Msg: The widget 'HUD_hand_C_0' was already added to the screen.
+[2023.05.03-18.07.55:230][881]LogScript: Warning: Last function called:
+	/Game/StaticNoise/Blueprints/PlayerCharacter/OfficeChar.OfficeChar_C.ExecuteUbergraph_OfficeChar
+
+[2023.05.03-18.07.55:330][887]LogScript: Warning: Script Msg: The widget 'HUD_hand_C_0' was already added to the screen.
+[2023.05.03-18.07.55:330][887]LogScript: Warning: Last function called:
+	/Game/StaticNoise/Blueprints/PlayerCharacter/OfficeChar.OfficeChar_C.ExecuteUbergraph_OfficeChar
+
+[2023.05.03-18.07.55:330][887]LogBlueprintUserMessages: [OfficeChar_C_0] Cast sucess 
+[2023.05.03-18.07.55:330][887]LogBlueprintUserMessages: [officeDoor_C_1] Looking at Office Door
+[2023.05.03-18.07.55:430][893]LogBlueprintUserMessages: [OfficeChar_C_0] Cast sucess 
+[2023.05.03-18.07.55:430][893]LogBlueprintUserMessages: [officeDoor_C_1] Looking at Office Door
+[2023.05.03-18.07.55:430][893]LogScript: Warning: Script Msg: The widget 'HUD_hand_C_0' was already added to the screen.
+[2023.05.03-18.07.55:430][893]LogScript: Warning: Last function called:
+	/Game/StaticNoise/Blueprints/PlayerCharacter/OfficeChar.OfficeChar_C.ExecuteUbergraph_OfficeChar
+
+[2023.05.03-18.07.55:530][899]LogScript: Warning: Script Msg: The widget 'HUD_hand_C_0' was already added to the screen.
+[2023.05.03-18.07.55:530][899]LogScript: Warning: Last function called:
+	/Game/StaticNoise/Blueprints/PlayerCharacter/OfficeChar.OfficeChar_C.ExecuteUbergraph_OfficeChar
+
+[2023.05.03-18.07.55:530][899]LogBlueprintUserMessages: [OfficeChar_C_0] Cast sucess 
+[2023.05.03-18.07.55:530][899]LogBlueprintUserMessages: [officeDoor_C_1] Looking at Office Door
+[2023.05.03-18.07.55:630][905]LogBlueprintUserMessages: [OfficeChar_C_0] Cast sucess 
+[2023.05.03-18.07.55:630][905]LogBlueprintUserMessages: [officeDoor_C_1] Looking at Office Door
+[2023.05.03-18.07.55:630][905]LogScript: Warning: Script Msg: The widget 'HUD_hand_C_0' was already added to the screen.
+[2023.05.03-18.07.55:630][905]LogScript: Warning: Last function called:
+	/Game/StaticNoise/Blueprints/PlayerCharacter/OfficeChar.OfficeChar_C.ExecuteUbergraph_OfficeChar
+
+[2023.05.03-18.07.55:679][908]LogBlueprintUserMessages: [officeDoor_C_1] Your keypress sucessfully called the interact function
+[2023.05.03-18.07.55:729][911]LogScript: Warning: Script Msg: The widget 'HUD_hand_C_0' was already added to the screen.
+[2023.05.03-18.07.55:729][911]LogScript: Warning: Last function called:
+	/Game/StaticNoise/Blueprints/PlayerCharacter/OfficeChar.OfficeChar_C.ExecuteUbergraph_OfficeChar
+
+[2023.05.03-18.07.55:729][911]LogBlueprintUserMessages: [OfficeChar_C_0] Cast sucess 
+[2023.05.03-18.07.55:729][911]LogBlueprintUserMessages: [officeDoor_C_1] Looking at Office Door
+[2023.05.03-18.07.55:830][917]LogBlueprintUserMessages: [OfficeChar_C_0] Cast sucess 
+[2023.05.03-18.07.55:830][917]LogBlueprintUserMessages: [officeDoor_C_1] Looking at Office Door
+[2023.05.03-18.07.55:830][917]LogScript: Warning: Script Msg: The widget 'HUD_hand_C_0' was already added to the screen.
+[2023.05.03-18.07.55:830][917]LogScript: Warning: Last function called:
+	/Game/StaticNoise/Blueprints/PlayerCharacter/OfficeChar.OfficeChar_C.ExecuteUbergraph_OfficeChar
+
+[2023.05.03-18.07.55:930][923]LogScript: Warning: Script Msg: The widget 'HUD_hand_C_0' was already added to the screen.
+[2023.05.03-18.07.55:930][923]LogScript: Warning: Last function called:
+	/Game/StaticNoise/Blueprints/PlayerCharacter/OfficeChar.OfficeChar_C.ExecuteUbergraph_OfficeChar
+
+[2023.05.03-18.07.55:930][923]LogBlueprintUserMessages: [OfficeChar_C_0] Cast sucess 
+[2023.05.03-18.07.55:930][923]LogBlueprintUserMessages: [officeDoor_C_1] Looking at Office Door
+[2023.05.03-18.07.56:030][929]LogBlueprintUserMessages: [OfficeChar_C_0] Cast sucess 
+[2023.05.03-18.07.56:030][929]LogBlueprintUserMessages: [officeDoor_C_1] Looking at Office Door
+[2023.05.03-18.07.56:030][929]LogScript: Warning: Script Msg: The widget 'HUD_hand_C_0' was already added to the screen.
+[2023.05.03-18.07.56:030][929]LogScript: Warning: Last function called:
+	/Game/StaticNoise/Blueprints/PlayerCharacter/OfficeChar.OfficeChar_C.ExecuteUbergraph_OfficeChar
+
+[2023.05.03-18.07.56:130][935]LogScript: Warning: Script Msg: The widget 'HUD_hand_C_0' was already added to the screen.
+[2023.05.03-18.07.56:130][935]LogScript: Warning: Last function called:
+	/Game/StaticNoise/Blueprints/PlayerCharacter/OfficeChar.OfficeChar_C.ExecuteUbergraph_OfficeChar
+
+[2023.05.03-18.07.56:130][935]LogBlueprintUserMessages: [OfficeChar_C_0] Cast sucess 
+[2023.05.03-18.07.56:130][935]LogBlueprintUserMessages: [officeDoor_C_1] Looking at Office Door
+[2023.05.03-18.07.56:230][941]LogBlueprintUserMessages: [OfficeChar_C_0] Cast sucess 
+[2023.05.03-18.07.56:230][941]LogBlueprintUserMessages: [officeDoor_C_1] Looking at Office Door
+[2023.05.03-18.07.56:230][941]LogScript: Warning: Script Msg: The widget 'HUD_hand_C_0' was already added to the screen.
+[2023.05.03-18.07.56:230][941]LogScript: Warning: Last function called:
+	/Game/StaticNoise/Blueprints/PlayerCharacter/OfficeChar.OfficeChar_C.ExecuteUbergraph_OfficeChar
+
+[2023.05.03-18.07.56:330][947]LogScript: Warning: Script Msg: The widget 'HUD_hand_C_0' was already added to the screen.
+[2023.05.03-18.07.56:330][947]LogScript: Warning: Last function called:
+	/Game/StaticNoise/Blueprints/PlayerCharacter/OfficeChar.OfficeChar_C.ExecuteUbergraph_OfficeChar
+
+[2023.05.03-18.07.56:330][947]LogBlueprintUserMessages: [OfficeChar_C_0] Cast sucess 
+[2023.05.03-18.07.56:330][947]LogBlueprintUserMessages: [officeDoor_C_1] Looking at Office Door
+[2023.05.03-18.07.56:430][953]LogBlueprintUserMessages: [OfficeChar_C_0] Cast sucess 
+[2023.05.03-18.07.56:430][953]LogBlueprintUserMessages: [officeDoor_C_1] Looking at Office Door
+[2023.05.03-18.07.56:430][953]LogScript: Warning: Script Msg: The widget 'HUD_hand_C_0' was already added to the screen.
+[2023.05.03-18.07.56:430][953]LogScript: Warning: Last function called:
+	/Game/StaticNoise/Blueprints/PlayerCharacter/OfficeChar.OfficeChar_C.ExecuteUbergraph_OfficeChar
+
+[2023.05.03-18.07.56:480][956]LogNet: Browse: /Game/StaticNoise/Maps/ResearchRoom
+[2023.05.03-18.07.56:480][956]LogLoad: LoadMap: /Game/StaticNoise/Maps/ResearchRoom
+[2023.05.03-18.07.56:480][956]LogWorld: BeginTearingDown for /Game/StaticNoise/Maps/UEDPIE_0_OfficeArea
+[2023.05.03-18.07.56:480][956]LogWorld: UWorld::CleanupWorld for OfficeArea, bSessionEnded=true, bCleanupResources=true
+[2023.05.03-18.07.56:481][956]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2023.05.03-18.07.56:534][956]LogAudio: Display: Audio Device unregistered from world 'None'.
+[2023.05.03-18.07.56:535][956]LogSlate: Slate User Unregistered.  User Index 8
+[2023.05.03-18.07.56:536][956]LogSlate: Slate User Destroyed.  User Index 8, Is Virtual User: 1
+[2023.05.03-18.07.56:537][956]LogUObjectHash: Compacting FUObjectHashTables data took   1.42ms
+[2023.05.03-18.07.56:565][956]LogAudio: Display: Audio Device (ID: 35) registered with world 'ResearchRoom'.
+[2023.05.03-18.07.56:566][956]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2023.05.03-18.07.56:566][956]LogAIModule: Creating AISystem for world ResearchRoom
+[2023.05.03-18.07.56:566][956]LogPlayLevel: PIE: World Init took: (0.000697s)
+[2023.05.03-18.07.56:566][956]LogLoad: Game class is 'OfficeGamemode_C'
+[2023.05.03-18.07.56:572][956]LogWorld: Bringing World /Game/StaticNoise/Maps/UEDPIE_0_ResearchRoom.ResearchRoom up for play (max tick rate 60) at 2023.05.03-20.07.56
+[2023.05.03-18.07.56:572][956]LogWorld: Bringing up level for play took: 0.005573
+[2023.05.03-18.07.56:573][956]LogSlate: New Slate User Created. Platform User Id 8, User Index 8, Is Virtual User: 1
+[2023.05.03-18.07.56:573][956]LogSlate: Slate User Registered.  User Index 8, Is Virtual User: 1
+[2023.05.03-18.07.56:574][956]LogLoad: Took 0.093883 seconds to LoadMap(/Game/StaticNoise/Maps/ResearchRoom)
+[2023.05.03-18.08.13:869][992]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2023.05.03-18.08.13:869][992]LogWorld: BeginTearingDown for /Game/StaticNoise/Maps/UEDPIE_0_ResearchRoom
+[2023.05.03-18.08.13:869][992]LogWorld: UWorld::CleanupWorld for ResearchRoom, bSessionEnded=true, bCleanupResources=true
+[2023.05.03-18.08.13:870][992]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2023.05.03-18.08.13:872][992]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2023.05.03-18.08.13:879][992]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2023.05.03-18.08.13:932][992]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2023.05.03-18.08.13:932][992]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=35
+[2023.05.03-18.08.13:934][992]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=35
+[2023.05.03-18.08.13:939][992]LogSlate: Slate User Unregistered.  User Index 8
+[2023.05.03-18.08.13:939][992]LogSlate: Slate User Destroyed.  User Index 8, Is Virtual User: 1
+[2023.05.03-18.08.13:941][992]LogUObjectHash: Compacting FUObjectHashTables data took   1.69ms
+[2023.05.03-18.08.13:962][993]LogPlayLevel: Display: Destroying online subsystem :Context_114
+[2023.05.03-18.08.20:422][356]LogUObjectHash: Compacting FUObjectHashTables data took   1.46ms
+[2023.05.03-18.08.22:759][492]LogDebuggerCommands: Repeating last play command: Standalone Game
+[2023.05.03-18.08.22:860][492]LogUObjectHash: Compacting FUObjectHashTables data took   2.37ms
+[2023.05.03-18.11.13:543][363]LogD3D12RHI: Warning: GPU timeout: A payload (0x00000B57E8061700) on the [0x00000B57D9993A80, 3D] queue has not completed after 5.000000 seconds.
+[2023.05.03-18.11.17:550][363]LogD3D12RHI: Warning: GPU timeout: A payload (0x00000B57E8112840) on the [0x00000B57D9993A80, 3D] queue has not completed after 8.781433 seconds.
+[2023.05.03-18.11.54:311][627]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2023.05.03-18.11.54:391][627]LogSavePackage: Moving output files for package: /Game/StaticNoise/Blueprints/PlayerCharacter/OfficeChar
+[2023.05.03-18.11.54:392][627]LogSavePackage: Moving 'C:/Users/nikol/OneDrive/Other/Dokumenter/Unreal Projects/BachlorsProject/Saved/OfficeChar7FE837FE4AA835B6BDDBAAACEFC81B23.tmp' to 'C:/Users/nikol/OneDrive/Other/Dokumenter/Unreal Projects/BachlorsProject/Content/StaticNoise/Blueprints/PlayerCharacter/OfficeChar.uasset'
+[2023.05.03-18.11.54:399][627]LogFileHelpers: InternalPromptForCheckoutAndSave took 88 ms (total: 1:12 min)
+[2023.05.03-18.11.54:413][627]AssetCheck: New page: Asset Save: OfficeChar
+[2023.05.03-18.11.54:413][627]LogContentValidation: Display: Validating /Script/Engine.Blueprint /Game/StaticNoise/Blueprints/PlayerCharacter/OfficeChar.OfficeChar
+[2023.05.03-18.12.22:596][258]LogEditorTransaction: Undo Break Pin Link
+[2023.05.03-18.12.23:288][277]LogEditorTransaction: Undo Delete current selection
+[2023.05.03-18.12.27:089][492]BlueprintLog: New page: Compile OfficeChar
+[2023.05.03-18.12.27:199][492]LogUObjectHash: Compacting FUObjectHashTables data took   1.55ms
+[2023.05.03-18.12.28:219][542]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2023.05.03-18.12.28:298][542]LogSavePackage: Moving output files for package: /Game/StaticNoise/Blueprints/PlayerCharacter/OfficeChar
+[2023.05.03-18.12.28:298][542]LogSavePackage: Moving 'C:/Users/nikol/OneDrive/Other/Dokumenter/Unreal Projects/BachlorsProject/Saved/OfficeChar7629D71D49BAEDC2214BA7AD6A959A1C.tmp' to 'C:/Users/nikol/OneDrive/Other/Dokumenter/Unreal Projects/BachlorsProject/Content/StaticNoise/Blueprints/PlayerCharacter/OfficeChar.uasset'
+[2023.05.03-18.12.28:307][542]LogFileHelpers: InternalPromptForCheckoutAndSave took 88 ms (total: 1:12 min)
+[2023.05.03-18.12.28:317][542]AssetCheck: New page: Asset Save: OfficeChar
+[2023.05.03-18.12.28:317][542]LogContentValidation: Display: Validating /Script/Engine.Blueprint /Game/StaticNoise/Blueprints/PlayerCharacter/OfficeChar.OfficeChar
+[2023.05.03-18.12.32:876][803]LogDebuggerCommands: Repeating last play command: Standalone Game
+[2023.05.03-18.12.32:935][803]LogUObjectHash: Compacting FUObjectHashTables data took   1.47ms
+[2023.05.03-18.13.09:116][183]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2023.05.03-18.13.09:217][183]LogUObjectHash: Compacting FUObjectHashTables data took   1.66ms
+[2023.05.03-18.13.09:244][183]LogSavePackage: Moving output files for package: /Game/StaticNoise/Maps/OfficeArea
+[2023.05.03-18.13.09:244][183]LogSavePackage: Moving 'C:/Users/nikol/OneDrive/Other/Dokumenter/Unreal Projects/BachlorsProject/Saved/OfficeAreaEEE8FB424180A2AC1FA8709769FCAAED.tmp' to 'C:/Users/nikol/OneDrive/Other/Dokumenter/Unreal Projects/BachlorsProject/Content/StaticNoise/Maps/OfficeArea.umap'
+[2023.05.03-18.13.09:252][183]LogFileHelpers: No new changes to save!
+[2023.05.03-18.13.09:252][183]LogFileHelpers: Saving map 'OfficeArea' took 0.100
+[2023.05.03-18.13.09:261][183]LogFileHelpers: InternalPromptForCheckoutAndSave took 145 ms (total: 1:12 min)
+[2023.05.03-18.13.09:271][183]AssetCheck: New page: Asset Save: OfficeArea
+[2023.05.03-18.13.09:271][183]LogContentValidation: Display: Validating /Script/Engine.World /Game/StaticNoise/Maps/OfficeArea.OfficeArea
+[2023.05.03-18.13.12:894][397]LogUObjectHash: Compacting FUObjectHashTables data took   0.66ms
+[2023.05.03-18.13.14:708][503]LogUObjectHash: Compacting FUObjectHashTables data took   0.64ms
+[2023.05.03-18.13.17:346][660]LogWorld: UWorld::CleanupWorld for World_52, bSessionEnded=true, bCleanupResources=true
+[2023.05.03-18.13.17:346][660]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2023.05.03-18.13.17:956][684]LogWorld: UWorld::CleanupWorld for World_87, bSessionEnded=true, bCleanupResources=true
+[2023.05.03-18.13.17:957][684]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2023.05.03-18.13.17:965][684]LogWorld: UWorld::CleanupWorld for World_86, bSessionEnded=true, bCleanupResources=true
+[2023.05.03-18.13.17:965][684]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2023.05.03-18.13.18:906][736]LogWorld: UWorld::CleanupWorld for World_90, bSessionEnded=true, bCleanupResources=true
+[2023.05.03-18.13.18:906][736]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2023.05.03-18.13.18:916][736]LogWorld: UWorld::CleanupWorld for World_89, bSessionEnded=true, bCleanupResources=true
+[2023.05.03-18.13.18:916][736]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2023.05.03-18.14.10:852][828]MapCheck: New page: Map Check
+[2023.05.03-18.14.11:264][828]LightingResults: New page: Lighting Build - 3. mai 2023, 22:14:11
+[2023.05.03-18.14.11:499][828]LogSwarmInterface: [OpenConnection] Registering TCP channel ...
+[2023.05.03-18.14.12:077][828]LogSwarmInterface: [OpenConnection] Connecting to agent ...
+[2023.05.03-18.14.12:093][828]LogSwarmInterface: [TryOpenConnection] Testing the Agent
+[2023.05.03-18.14.13:124][828]LogSwarmInterface: [TryOpenConnection] Opening Connection to Agent
+[2023.05.03-18.14.13:124][828]LogSwarmInterface: [TryOpenConnection] Local Process ID is 136248
+[2023.05.03-18.14.16:888][828]LogStaticLightingSystem: Warning: No importance volume found, so the scene bounding box was used.  You can optimize your scene's quality and lighting build times by adding importance volumes.
+[2023.05.03-18.14.16:915][828]LogStaticLightingSystem: Running Lightmass w/ ImmediateImport mode ENABLED
+[2023.05.03-18.14.16:915][828]LogStaticLightingSystem: Running Lightmass w/ ImmediateProcess mode ENABLED
+[2023.05.03-18.14.16:915][828]LogStaticLightingSystem: Running Lightmass w/ Sorting mode ENABLED
+[2023.05.03-18.14.16:915][828]LogStaticLightingSystem: Running Lightmass w/ Mapping paddings ENABLED
+[2023.05.03-18.14.16:915][828]LogStaticLightingSystem: Running Lightmass w/ Mapping debug paddings DISABLED
+[2023.05.03-18.14.17:530][828]LogEditorBuildUtils: Build time 0:06
+[2023.05.03-18.14.17:576][828]LogShaderCompilers: Display: ================================================
+[2023.05.03-18.14.17:576][828]LogShaderCompilers: Display: === FShaderJobCache stats ===
+[2023.05.03-18.14.17:576][828]LogShaderCompilers: Display: Total job queries 1416, among them cache hits 331 (23.38%)
+[2023.05.03-18.14.17:576][828]LogShaderCompilers: Display: Tracking 1021 distinct input hashes that result in 731 distinct outputs (71.60%)
+[2023.05.03-18.14.17:576][828]LogShaderCompilers: Display: RAM used: 8.52 MB (0.01 GB) of 1638.40 MB (1.60 GB) budget. Usage: 0.52%
+[2023.05.03-18.14.17:576][828]LogShaderCompilers: Display: === Shader Compilation stats ===
+[2023.05.03-18.14.17:576][828]LogShaderCompilers: Display: Shaders Compiled: 291
+[2023.05.03-18.14.17:576][828]LogShaderCompilers: Display: Jobs assigned 291, completed 291 (100.00%)
+[2023.05.03-18.14.17:576][828]LogShaderCompilers: Display: Average time worker was idle: 529.37 s
+[2023.05.03-18.14.17:576][828]LogShaderCompilers: Display: Time job spent in pending queue: average 1.35 s, longest 6.11 s
+[2023.05.03-18.14.17:576][828]LogShaderCompilers: Display: Job execution time: average 1.59 s, max 29.50 s
+[2023.05.03-18.14.17:576][828]LogShaderCompilers: Display: Job life time (pending + execution): average 2.94 s, max 31.37
+[2023.05.03-18.14.17:576][828]LogShaderCompilers: Display: Time at least one job was in flight (either pending or executed): 79.40 s
+[2023.05.03-18.14.17:576][828]LogShaderCompilers: Display: Jobs were issued in 291 batches (only local compilation was used), average 1.00 jobs/batch
+[2023.05.03-18.14.17:576][828]LogShaderCompilers: Display: Average processing rate: 3.67 jobs/sec
+[2023.05.03-18.14.17:576][828]LogShaderCompilers: Display: Total thread time: 262.12 s
+[2023.05.03-18.14.17:576][828]LogShaderCompilers: Display: Total thread preprocess time: 12.05 s
+[2023.05.03-18.14.17:576][828]LogShaderCompilers: Display: Percentage time preprocessing: 4.60%
+[2023.05.03-18.14.17:576][828]LogShaderCompilers: Display: Effective parallelization: 3.30 (times faster than compiling all shaders on one thread). Compare with number of workers: 10
+[2023.05.03-18.14.17:576][828]LogShaderCompilers: Display: Top 5 most expensive shader types by average time:
+[2023.05.03-18.14.17:576][828]LogShaderCompilers: Display:                                           FLumenCardPS<true> (compiled    3 times, average 1.34 sec, max 1.42 sec, min 1.29 sec)
+[2023.05.03-18.14.17:576][828]LogShaderCompilers: Display:  TBasePassPSTDistanceFieldShadowsAndLightMapPolicyHQSkylight (compiled    9 times, average 1.31 sec, max 2.28 sec, min 0.79 sec)
+[2023.05.03-18.14.17:576][828]LogShaderCompilers: Display:          TBasePassPSTDistanceFieldShadowsAndLightMapPolicyHQ (compiled    9 times, average 1.30 sec, max 2.30 sec, min 0.79 sec)
+[2023.05.03-18.14.17:576][828]LogShaderCompilers: Display:                         TBasePassPSTLightMapPolicyLQSkylight (compiled    9 times, average 1.28 sec, max 2.27 sec, min 0.76 sec)
+[2023.05.03-18.14.17:576][828]LogShaderCompilers: Display:                                 TBasePassPSTLightMapPolicyHQ (compiled   10 times, average 1.20 sec, max 2.25 sec, min 0.59 sec)
+[2023.05.03-18.14.17:576][828]LogShaderCompilers: Display: Top 5 shader types by total compile time:
+[2023.05.03-18.14.17:576][828]LogShaderCompilers: Display:                                 TBasePassPSFNoLightMapPolicy - 6.86% of total time (compiled   21 times, average 0.86 sec, max 1.88 sec, min 0.49 sec)
+[2023.05.03-18.14.17:576][828]LogShaderCompilers: Display:      TBasePassPSFPrecomputedVolumetricLightmapLightingPolicy - 5.78% of total time (compiled   15 times, average 1.01 sec, max 1.95 sec, min 0.66 sec)
+[2023.05.03-18.14.17:576][828]LogShaderCompilers: Display:        TBasePassPSFCachedPointIndirectLightingPolicySkylight - 5.26% of total time (compiled   12 times, average 1.15 sec, max 2.02 sec, min 0.80 sec)
+[2023.05.03-18.14.17:576][828]LogShaderCompilers: Display: TBasePassPSFPrecomputedVolumetricLightmapLightingPolicySkylight - 5.21% of total time (compiled   12 times, average 1.14 sec, max 1.96 sec, min 0.83 sec)
+[2023.05.03-18.14.17:576][828]LogShaderCompilers: Display:                TBasePassPSFCachedPointIndirectLightingPolicy - 5.21% of total time (compiled   12 times, average 1.14 sec, max 1.98 sec, min 0.83 sec)
+[2023.05.03-18.14.17:576][828]LogShaderCompilers: Display: ================================================
+[2023.05.03-18.14.19:607][839]LogDerivedDataCache: Display: C:/Users/nikol/AppData/Local/UnrealEngine/Common/DerivedDataCache: Cache put found non-deterministic value with new hash 987a622e2e2e1826eed9d0993a1560a8a9ad8b03 and existing hash c5b33463325637bce303fd9706fd8aa1fd3fe6bb for MaterialShaderMap/d1997f44dbdb72001bdb141033cb8bb018d6e135 from ' [PCD3D_SM6, SM6, Num]'
+[2023.05.03-18.14.19:609][839]LogDerivedDataCache: Display: C:/Users/nikol/AppData/Local/UnrealEngine/Common/DerivedDataCache: Cache put found non-deterministic value with new hash 8a39774302eeeaeeebfcab423c776361e2c54651 and existing hash 940fd0ec0c30b80ab8843f2830154ad7a11508f7 for MaterialShaderMap/e6ab03336a8099708beaaeefa9806b937d437bc8 from ' [PCD3D_SM6, SM6, Num]'
+[2023.05.03-18.14.19:610][839]LogDerivedDataCache: Display: C:/Users/nikol/AppData/Local/UnrealEngine/Common/DerivedDataCache: Cache put found non-deterministic value with new hash a104db2cc333e542935bb1a3dc86175233c35ec7 and existing hash 792a904c61d847c8a9cb2db6801ba237b4c5761c for MaterialShaderMap/e4d76a5ff5c87effd9574535f3ce9a243f5f0df6 from ' [PCD3D_SM6, SM6, Num]'
+[2023.05.03-18.14.19:610][839]LogDerivedDataCache: Display: C:/Users/nikol/AppData/Local/UnrealEngine/Common/DerivedDataCache: Cache put found non-deterministic value with new hash e4e4e516d9d4cf042270134bf3dd006b019b0a23 and existing hash 3d8b5f7e613a8f1aa1cfb016c51de60979026c2f for MaterialShaderMap/4b64c5beabd9f53443dfb0ce458abbc1c90fe54c from ' [PCD3D_SM6, SM6, Num]'
+[2023.05.03-18.14.19:611][839]LogDerivedDataCache: Display: C:/Users/nikol/AppData/Local/UnrealEngine/Common/DerivedDataCache: Cache put found non-deterministic value with new hash 731e1e337c202616bc4e9ef1f10c660559f847bd and existing hash 5ab6dd25ece01c07711b90b46016d47103d8775a for MaterialShaderMap/9d3dfd432584ecb6ee21ca734734f9be7d4d8a3c from ' [PCD3D_SM6, SM6, Num]'
+[2023.05.03-18.14.19:612][839]LogDerivedDataCache: Display: C:/Users/nikol/AppData/Local/UnrealEngine/Common/DerivedDataCache: Cache put found non-deterministic value with new hash 65d32bc06ad1142c8a9144ce95f38524fc5dea82 and existing hash 18d768e5b3b819a396608c64e31423b7c0157bed for MaterialShaderMap/e730ce3cb0afd4d6dfb5ba6fc64e34207debc2a8 from ' [PCD3D_SM6, SM6, Num]'
+[2023.05.03-18.14.20:885][889]LogUObjectHash: Compacting FUObjectHashTables data took   1.85ms
+[2023.05.03-18.14.24:733][ 55]Job is a success!
+[2023.05.03-18.14.24:990][ 57]LogVolumetricLightmapImport: Imported Volumetric Lightmap in 0.021s
+[2023.05.03-18.14.24:990][ 57]LogVolumetricLightmapImport:      Indirection Texture 16x16x16 = 0.0Mb
+[2023.05.03-18.14.24:990][ 57]LogVolumetricLightmapImport:      BrickData (all levels) 0.0Mb (trimmed 0.0Mb due to 0.010000 MinBrickError)
+[2023.05.03-18.14.24:990][ 57]LogVolumetricLightmapImport:      Bricks at depth
+[2023.05.03-18.14.24:990][ 57]LogVolumetricLightmapImport:          0: 33.3% covering 100.0% of volume
+[2023.05.03-18.14.24:990][ 57]LogVolumetricLightmapImport:          1: 33.3% covering 1.6% of volume
+[2023.05.03-18.14.24:990][ 57]LogVolumetricLightmapImport:          2: 33.3% covering 0.0% of volume
+[2023.05.03-18.14.24:990][ 57]LogVolumetricLightmapImport:      Bricks in each level
+[2023.05.03-18.14.24:990][ 57]LogVolumetricLightmapImport:          OfficeArea 			 3 bricks 	 100.0% (Persistent Level)
+[2023.05.03-18.14.25:198][ 57]LogTexture: Display: Building textures: /Game/StaticNoise/Maps/OfficeArea_BuiltData.OfficeArea_BuiltData:HQ_Lightmap1_1 (TFO_AutoDXT, 1024x1024 x1x1x1) (Required Memory Estimate: 147.979156 MB), EncodeSpeed: Fast
+[2023.05.03-18.14.25:216][ 57]LogTexture: Display: Building textures: /Game/StaticNoise/Maps/OfficeArea_BuiltData.OfficeArea_BuiltData:LQ_Lightmap_1_1 (TFO_DXT1, 1024x1024 x1x1x1) (Required Memory Estimate: 123.104155 MB), EncodeSpeed: Fast
+[2023.05.03-18.14.25:232][ 57]LogTexture: Display: Building textures: /Game/StaticNoise/Maps/OfficeArea_BuiltData.OfficeArea_BuiltData:HQ_Lightmap0_2 (TFO_AutoDXT, 1024x1024 x1x1x1) (Required Memory Estimate: 147.979156 MB), EncodeSpeed: Fast
+[2023.05.03-18.14.25:243][ 57]LogTexture: Display: Building textures: /Game/StaticNoise/Maps/OfficeArea_BuiltData.OfficeArea_BuiltData:LQ_Lightmap_0_2 (TFO_DXT1, 1024x1024 x1x1x1) (Required Memory Estimate: 123.104155 MB), EncodeSpeed: Fast
+[2023.05.03-18.14.25:345][ 57]LogTexture: Display: Building textures: /Game/StaticNoise/Maps/OfficeArea_BuiltData.OfficeArea_BuiltData:ShadowMapTexture2D_0 (BGRA8, 1024x512 x1x1x1) (Required Memory Estimate: 16.062489 MB), EncodeSpeed: Fast
+[2023.05.03-18.14.25:373][ 57]Lightmass on LITTLEBLUEALIEN: 3.27 sec total, 325 ms importing, 75 ms setup, 381 ms photons, 2.48 sec processing, 0 us extra exporting [164/164 mappings]. Threads: 47.1 sec total, 22.0 sec processing.
+[2023.05.03-18.14.25:379][ 57]LogStaticLightingSystem: OfficeArea_BuiltData storing lightmap data for 120 meshes in 4 LightmapResourceClusters (30.0 Meshes per cluster).
+[2023.05.03-18.14.25:457][ 57]LogUObjectHash: Compacting FUObjectHashTables data took   2.84ms
+[2023.05.03-18.14.25:478][ 57]LogStaticLightingSystem: Illumination: 14.1 sec (109 ms encoding lightmaps, 101 ms encoding shadowmaps)
+[2023.05.03-18.14.25:478][ 57]LogStaticLightingSystem: Lightmap texture memory:  4.1 MB (4.1 MB streaming, 0.0 MB non-streaming), 4 textures
+[2023.05.03-18.14.25:478][ 57]LogStaticLightingSystem: Shadowmap texture memory: 2.7 MB (2.7 MB streaming, 0.0 MB non-streaming), 1 textures
+[2023.05.03-18.14.25:903][ 57]DumpUnbuiltLightIteractions
+[2023.05.03-18.14.25:903][ 57]Lights with unbuilt interactions: 0
+[2023.05.03-18.14.25:903][ 57]
+[2023.05.03-18.14.25:903][ 57]Primitives with unbuilt interactions: 0
+[2023.05.03-18.14.30:553][ 57]LogStall: Stall detector 'FShaderCompilingManager::BlockOnAllShaderMapCompletion' exceeded budget of 2.000000s, reporting...
+[2023.05.03-18.14.31:591][ 57]LogStall: Stall detector 'FShaderCompilingManager::BlockOnAllShaderMapCompletion' report submitted, and took 0.049975s
+[2023.05.03-18.14.31:643][ 57]LogStall: Stall detector 'FShaderCompilingManager::BlockOnAllShaderMapCompletion' complete in 0.000977s (0.098670s overbudget)
+[2023.05.03-18.14.31:669][ 57]LogDerivedDataCache: Display: C:/Users/nikol/AppData/Local/UnrealEngine/Common/DerivedDataCache: Cache put found non-deterministic value with new hash 7cdd972d307b2b1c85818b85e168c7f02ff538bd and existing hash c0b8f5617a0ba210d26e04b1453563d81b8d857d for MaterialShaderMap/bd2b327c15d033b9ef5a2907c6f90af9c7435237 from '/Game/StaticNoise/MaterialLibrary/M_MainMaterialSystem_DR.M_MainMaterialSystem_DR [PCD3D_SM6, SM6, Num]'
+[2023.05.03-18.14.31:677][ 57]LogDerivedDataCache: Display: C:/Users/nikol/AppData/Local/UnrealEngine/Common/DerivedDataCache: Cache put found non-deterministic value with new hash df16c00414feb8d13be2aac7d8552f2e704fe697 and existing hash 9c1bc2e175789cd97b43982c235a140e8ba179be for MaterialShaderMap/6670d23bf3704cae67452ec886a7281050bdc476 from '/Engine/BasicShapes/BasicShapeMaterial.BasicShapeMaterial [PCD3D_SM6, SM6, Num]'
+[2023.05.03-18.14.31:697][ 57]LogDerivedDataCache: Display: C:/Users/nikol/AppData/Local/UnrealEngine/Common/DerivedDataCache: Cache put found non-deterministic value with new hash 2da3c33e14c8285eb3970acc75ab6b70ce51dc1d and existing hash 7bc8c2dbe8e78dd2301a2d524d3c025c5dc7f75a for MaterialShaderMap/08d02121b57803fc69e4ddbdcab63825d1d59b8b from '/Game/StaticNoise/Blueprints/UI/Pause_Menu/M_Pause_Menu.M_Pause_Menu [PCD3D_SM6, SM6, Num]'
+[2023.05.03-18.14.31:699][ 57]LogDerivedDataCache: Display: C:/Users/nikol/AppData/Local/UnrealEngine/Common/DerivedDataCache: Cache put found non-deterministic value with new hash b1ec469d7d12b0eeaee1eeb6b89a6fb542032286 and existing hash 8628facf4084dd8c42dd2ee4545df4dc5e1da586 for MaterialShaderMap/833d10d5565e8399fd4572f0444b484495344a93 from '/Game/StaticNoise/Blueprints/UI/mainMenu/M_Main_Menu.M_Main_Menu [PCD3D_SM6, SM6, Num]'
+[2023.05.03-18.14.31:704][ 57]LogDerivedDataCache: Display: C:/Users/nikol/AppData/Local/UnrealEngine/Common/DerivedDataCache: Cache put found non-deterministic value with new hash dcfc8535ddf75e3cea26e0ed0fbdc0ff03b868d1 and existing hash 9333d329849d3233a9e93c94866ada3a8fc99fd4 for MaterialShaderMap/f5b8b46f31bc290530e457065d045faf2e75b697 from '/Game/StaticNoise/Shaders/M_PS1shader.M_PS1shader [PCD3D_SM6, SM6, Num]'
+[2023.05.03-18.14.31:706][ 57]LogDerivedDataCache: Display: C:/Users/nikol/AppData/Local/UnrealEngine/Common/DerivedDataCache: Cache put found non-deterministic value with new hash d126f48069f07967faf52d70b54272f7c2fb2df5 and existing hash 14cbbcd9ea8ebe36b6f6bd675f99a74ea0737c56 for MaterialShaderMap/2022843f4eb291bf716ead5c94a9c3bfe7f85743 from '/Game/StaticNoise/Black.Black [PCD3D_SM6, SM6, Num]'
+[2023.05.03-18.14.31:833][ 58]Cmd: MAP CHECK NOTIFYRESULTS
+[2023.05.03-18.14.31:834][ 58]MapCheck: New page: OfficeArea - 3. mai 2023, 22:14:31
+[2023.05.03-18.14.31:905][ 58]MapCheck: Map check complete: 0 Error(s), 0 Warning(s), took 71,206ms to complete.
+[2023.05.03-18.14.33:467][151]LogViewport: Scene viewport resized to 1556x654, mode Windowed.
+[2023.05.03-18.14.33:504][153]LogViewport: Scene viewport resized to 1556x645, mode Windowed.
+[2023.05.03-18.14.33:540][155]LogViewport: Scene viewport resized to 1556x639, mode Windowed.
+[2023.05.03-18.14.33:658][162]LogViewport: Scene viewport resized to 1556x631, mode Windowed.
+[2023.05.03-18.14.33:692][164]LogViewport: Scene viewport resized to 1556x625, mode Windowed.
+[2023.05.03-18.14.33:727][166]LogViewport: Scene viewport resized to 1556x619, mode Windowed.
+[2023.05.03-18.14.33:763][168]LogViewport: Scene viewport resized to 1556x613, mode Windowed.
+[2023.05.03-18.14.33:798][170]LogViewport: Scene viewport resized to 1556x604, mode Windowed.
+[2023.05.03-18.14.33:834][172]LogViewport: Scene viewport resized to 1556x596, mode Windowed.
+[2023.05.03-18.14.33:870][174]LogViewport: Scene viewport resized to 1556x590, mode Windowed.
+[2023.05.03-18.14.33:906][176]LogViewport: Scene viewport resized to 1556x584, mode Windowed.
+[2023.05.03-18.14.34:042][184]LogViewport: Scene viewport resized to 1556x582, mode Windowed.
+[2023.05.03-18.14.34:077][186]LogViewport: Scene viewport resized to 1556x580, mode Windowed.
+[2023.05.03-18.14.59:585][715]Cmd: DELETE
+[2023.05.03-18.14.59:585][715]Cmd: ACTOR DELETE
+[2023.05.03-18.14.59:589][715]LogEditorActor: Deleted Actor: BoxReflectionCapture
+[2023.05.03-18.14.59:616][715]LogUObjectHash: Compacting FUObjectHashTables data took   0.97ms
+[2023.05.03-18.14.59:624][715]LogEditorActor: Deleted 1 Actors (0.038 secs)
+[2023.05.03-18.15.08:303][233]LogUObjectHash: Compacting FUObjectHashTables data took   0.56ms
+[2023.05.03-18.15.09:586][233]LogSlate: Window 'Save Content' being destroyed
+[2023.05.03-18.15.09:594][233]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2023.05.03-18.15.09:650][233]LogUObjectHash: Compacting FUObjectHashTables data took   0.60ms
+[2023.05.03-18.15.09:682][233]LogSavePackage: Moving output files for package: /Game/StaticNoise/Maps/OfficeArea
+[2023.05.03-18.15.09:683][233]LogSavePackage: Moving 'C:/Users/nikol/OneDrive/Other/Dokumenter/Unreal Projects/BachlorsProject/Saved/OfficeArea21DFEF0E4A0311050CD9DE910CEDA5BF.tmp' to 'C:/Users/nikol/OneDrive/Other/Dokumenter/Unreal Projects/BachlorsProject/Content/StaticNoise/Maps/OfficeArea.umap'
+[2023.05.03-18.15.10:028][233]Message dialog closed, result: Ok, title: Unable to Check Out From Source Control!, text: The following assets could not be successfully checked out from source control:
+/Game/StaticNoise/Maps/OfficeArea_BuiltData
+[2023.05.03-18.15.10:028][233]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2023.05.03-18.15.10:075][233]LogSavePackage: Moving output files for package: /Game/StaticNoise/Maps/OfficeArea_BuiltData
+[2023.05.03-18.15.10:076][233]LogSavePackage: Moving 'C:/Users/nikol/OneDrive/Other/Dokumenter/Unreal Projects/BachlorsProject/Saved/OfficeArea_BuiltDataD75A8A7D436AAEF52E19FC8A1C2331BE.tmp' to 'C:/Users/nikol/OneDrive/Other/Dokumenter/Unreal Projects/BachlorsProject/Content/StaticNoise/Maps/OfficeArea_BuiltData.uasset'
+[2023.05.03-18.15.10:077][233]LogFileHelpers: InternalPromptForCheckoutAndSave took 48 ms (total: 1:12 min)
+[2023.05.03-18.15.10:077][233]Message dialog closed, result: Ok, title: Unable to Check Out From Source Control!, text: The following assets could not be successfully checked out from source control:
+/Game/StaticNoise/Maps/OfficeArea_BuiltData
+[2023.05.03-18.15.10:077][233]LogFileHelpers: Saving map 'OfficeArea' took 0.454
+[2023.05.03-18.15.10:120][233]LogSavePackage: Moving output files for package: /Game/StaticNoise/Maps/OfficeArea_BuiltData
+[2023.05.03-18.15.10:121][233]LogSavePackage: Moving 'C:/Users/nikol/OneDrive/Other/Dokumenter/Unreal Projects/BachlorsProject/Saved/OfficeArea_BuiltDataC15A4BB4417E24DDD2F2B19A13200B10.tmp' to 'C:/Users/nikol/OneDrive/Other/Dokumenter/Unreal Projects/BachlorsProject/Content/StaticNoise/Maps/OfficeArea_BuiltData.uasset'
+[2023.05.03-18.15.10:164][233]LogSavePackage: Moving output files for package: /Game/StaticNoise/Maps/OfficeArea_BuiltData
+[2023.05.03-18.15.10:164][233]LogSavePackage: Moving 'C:/Users/nikol/OneDrive/Other/Dokumenter/Unreal Projects/BachlorsProject/Saved/OfficeArea_BuiltData30632F8D4D4BE3DB0B502489D62ED009.tmp' to 'C:/Users/nikol/OneDrive/Other/Dokumenter/Unreal Projects/BachlorsProject/Content/StaticNoise/Maps/OfficeArea_BuiltData.uasset'
+[2023.05.03-18.15.10:172][233]LogFileHelpers: InternalPromptForCheckoutAndSave took 578 ms (total: 1:12 min)
+[2023.05.03-18.15.10:180][233]AssetCheck: New page: Asset Save: multiple assets
+[2023.05.03-18.15.10:180][233]LogContentValidation: Display: Validating /Script/Engine.World /Game/StaticNoise/Maps/OfficeArea.OfficeArea
+[2023.05.03-18.15.10:180][233]LogContentValidation: Display: Validating /Script/Engine.MapBuildDataRegistry /Game/StaticNoise/Maps/OfficeArea_BuiltData.OfficeArea_BuiltData
+[2023.05.03-18.15.11:682][322]LogUObjectHash: Compacting FUObjectHashTables data took   1.05ms
+[2023.05.03-18.15.11:736][322]LogAssetEditorSubsystem: Opening Asset editor for World /Game/StaticNoise/Maps/ResearchRoom.ResearchRoom
+[2023.05.03-18.15.11:736][322]Cmd: MAP LOAD FILE="C:/Users/nikol/OneDrive/Other/Dokumenter/Unreal Projects/BachlorsProject/Content/StaticNoise/Maps/ResearchRoom.umap" TEMPLATE=0 SHOWPROGRESS=1 FEATURELEVEL=4
+[2023.05.03-18.15.11:736][322]LightingResults: New page: Lighting Build
+[2023.05.03-18.15.11:736][322]LoadErrors: New page: Loading map: ResearchRoom.umap
+[2023.05.03-18.15.11:770][322]LogWorld: UWorld::CleanupWorld for OfficeArea, bSessionEnded=true, bCleanupResources=true
+[2023.05.03-18.15.11:770][322]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2023.05.03-18.15.11:770][322]MapCheck: New page: Map Check
+[2023.05.03-18.15.11:770][322]LightingResults: New page: Lighting Build
+[2023.05.03-18.15.11:797][322]LogAudio: Display: Audio Device unregistered from world 'None'.
+[2023.05.03-18.15.11:801][322]LogUObjectHash: Compacting FUObjectHashTables data took   1.22ms
+[2023.05.03-18.15.11:804][322]LogWorld: UWorld::CleanupWorld for ResearchRoom, bSessionEnded=true, bCleanupResources=true
+[2023.05.03-18.15.11:804][322]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2023.05.03-18.15.11:835][322]LogUObjectHash: Compacting FUObjectHashTables data took   1.28ms
+[2023.05.03-18.15.11:863][322]LogUObjectHash: Compacting FUObjectHashTables data took   1.08ms
+[2023.05.03-18.15.11:887][322]LogAudio: Display: Audio Device (ID: 1) registered with world 'ResearchRoom'.
+[2023.05.03-18.15.11:887][322]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2023.05.03-18.15.11:887][322]LogAIModule: Creating AISystem for world ResearchRoom
+[2023.05.03-18.15.11:991][322]LogEditorServer: Finished looking for orphan Actors (0.000 secs)
+[2023.05.03-18.15.12:023][322]LogUObjectHash: Compacting FUObjectHashTables data took   1.37ms
+[2023.05.03-18.15.12:029][322]Cmd: MAP CHECKDEP NOCLEARLOG
+[2023.05.03-18.15.12:029][322]MapCheck: Map check complete: 0 Error(s), 0 Warning(s), took 0,115ms to complete.
+[2023.05.03-18.15.12:029][322]LogFileHelpers: Loading map 'ResearchRoom' took 0.293
+[2023.05.03-18.15.19:597][764]MapCheck: New page: Map Check
+[2023.05.03-18.15.19:612][764]LightingResults: New page: Lighting Build - 3. mai 2023, 22:15:19
+[2023.05.03-18.15.19:617][764]LogSwarmInterface: [OpenConnection] Registering TCP channel ...
+[2023.05.03-18.15.19:629][764]LogSwarmInterface: [OpenConnection] Connecting to agent ...
+[2023.05.03-18.15.19:629][764]LogSwarmInterface: [TryOpenConnection] Testing the Agent
+[2023.05.03-18.15.19:630][764]LogSwarmInterface: [TryOpenConnection] Opening Connection to Agent
+[2023.05.03-18.15.19:630][764]LogSwarmInterface: [TryOpenConnection] Local Process ID is 136248
+[2023.05.03-18.15.25:386][764]LogStaticLightingSystem: Warning: No importance volume found, so the scene bounding box was used.  You can optimize your scene's quality and lighting build times by adding importance volumes.
+[2023.05.03-18.15.25:386][764]LogStaticLightingSystem: Running Lightmass w/ ImmediateImport mode ENABLED
+[2023.05.03-18.15.25:386][764]LogStaticLightingSystem: Running Lightmass w/ ImmediateProcess mode ENABLED
+[2023.05.03-18.15.25:386][764]LogStaticLightingSystem: Running Lightmass w/ Sorting mode ENABLED
+[2023.05.03-18.15.25:386][764]LogStaticLightingSystem: Running Lightmass w/ Mapping paddings ENABLED
+[2023.05.03-18.15.25:386][764]LogStaticLightingSystem: Running Lightmass w/ Mapping debug paddings DISABLED
+[2023.05.03-18.15.26:571][764]LogEditorBuildUtils: Build time 0:06
+[2023.05.03-18.15.28:922][771]LogStall: Stall detector 'FShaderCompilingManager::BlockOnAllShaderMapCompletion' exceeded budget of 2.000000s
+[2023.05.03-18.15.30:011][771]LogStall: Stall detector 'FShaderCompilingManager::BlockOnAllShaderMapCompletion' complete in 0.004871s (1.089654s overbudget)
+[2023.05.03-18.15.30:012][771]LogDerivedDataCache: Display: C:/Users/nikol/AppData/Local/UnrealEngine/Common/DerivedDataCache: Cache put found non-deterministic value with new hash ea1938b5bc5b0b859c820b8f44ff5953efce9faf and existing hash e4fb6238a37f238963b30775906d21eacef7929e for MaterialShaderMap/b0b7c4322c7ded2c2e544ae6003524e640d2a445 from ' [PCD3D_SM6, SM6, Num]'
+[2023.05.03-18.15.30:013][771]LogDerivedDataCache: Display: C:/Users/nikol/AppData/Local/UnrealEngine/Common/DerivedDataCache: Cache put found non-deterministic value with new hash 2696a7f87bf36b42d6e7da0f7d986f906dab86a5 and existing hash d619e7a136151ead75d120fe7288f02b79e20924 for MaterialShaderMap/e8ff4e80af5cb8dfde08682d6e92b2b07e976387 from ' [PCD3D_SM6, SM6, Num]'
+[2023.05.03-18.15.30:015][771]LogDerivedDataCache: Display: C:/Users/nikol/AppData/Local/UnrealEngine/Common/DerivedDataCache: Cache put found non-deterministic value with new hash 37f0208d974bf143df11821368b337770d51368d and existing hash c5b33463325637bce303fd9706fd8aa1fd3fe6bb for MaterialShaderMap/d1997f44dbdb72001bdb141033cb8bb018d6e135 from ' [PCD3D_SM6, SM6, Num]'
+[2023.05.03-18.15.30:017][771]LogDerivedDataCache: Display: C:/Users/nikol/AppData/Local/UnrealEngine/Common/DerivedDataCache: Cache put found non-deterministic value with new hash 50589822b54f061bb17f1cf7cc11a64270cf1ddf and existing hash 940fd0ec0c30b80ab8843f2830154ad7a11508f7 for MaterialShaderMap/e6ab03336a8099708beaaeefa9806b937d437bc8 from ' [PCD3D_SM6, SM6, Num]'
+[2023.05.03-18.15.30:018][771]LogDerivedDataCache: Display: C:/Users/nikol/AppData/Local/UnrealEngine/Common/DerivedDataCache: Cache put found non-deterministic value with new hash 62c7523c67a47ac683a84752ccea9ef72ab6096e and existing hash 18d768e5b3b819a396608c64e31423b7c0157bed for MaterialShaderMap/e730ce3cb0afd4d6dfb5ba6fc64e34207debc2a8 from ' [PCD3D_SM6, SM6, Num]'
+[2023.05.03-18.15.30:019][771]LogDerivedDataCache: Display: C:/Users/nikol/AppData/Local/UnrealEngine/Common/DerivedDataCache: Cache put found non-deterministic value with new hash d2871c18455b954331b4fe29dee111961aa23c40 and existing hash 5ab6dd25ece01c07711b90b46016d47103d8775a for MaterialShaderMap/9d3dfd432584ecb6ee21ca734734f9be7d4d8a3c from ' [PCD3D_SM6, SM6, Num]'
+[2023.05.03-18.15.30:022][771]LogDerivedDataCache: Display: C:/Users/nikol/AppData/Local/UnrealEngine/Common/DerivedDataCache: Cache put found non-deterministic value with new hash 1cefce198d284d3b77858b1d782a5ff37d7e4d5b and existing hash 792a904c61d847c8a9cb2db6801ba237b4c5761c for MaterialShaderMap/e4d76a5ff5c87effd9574535f3ce9a243f5f0df6 from ' [PCD3D_SM6, SM6, Num]'
+[2023.05.03-18.15.30:027][771]LogDerivedDataCache: Display: C:/Users/nikol/AppData/Local/UnrealEngine/Common/DerivedDataCache: Cache put found non-deterministic value with new hash 7eaac40e30adf539c998657d074d2deba9dac28c and existing hash 7dc465cc399fbe1fc00dbf76ef9489bb457e9a82 for MaterialShaderMap/953dc709485afc4acc7514afb2cea38a23097da1 from ' [PCD3D_SM6, SM6, Num]'
+[2023.05.03-18.15.30:028][771]LogDerivedDataCache: Display: C:/Users/nikol/AppData/Local/UnrealEngine/Common/DerivedDataCache: Cache put found non-deterministic value with new hash 8cc808a6e915477556c43457740c69d5ab1c45f5 and existing hash 618388a9f3cee21fb86add57ce9f81a9ecf47e21 for MaterialShaderMap/e5adedb9368c1e9a40290588607517c4de95a885 from ' [PCD3D_SM6, SM6, Num]'
+[2023.05.03-18.15.30:028][771]LogDerivedDataCache: Display: C:/Users/nikol/AppData/Local/UnrealEngine/Common/DerivedDataCache: Cache put found non-deterministic value with new hash 3f71e13fece539ba28445e36244d2a912ab62f9b and existing hash 3d8b5f7e613a8f1aa1cfb016c51de60979026c2f for MaterialShaderMap/4b64c5beabd9f53443dfb0ce458abbc1c90fe54c from ' [PCD3D_SM6, SM6, Num]'
+[2023.05.03-18.15.31:067][812]LogUObjectHash: Compacting FUObjectHashTables data took   1.58ms
+[2023.05.03-18.15.37:910][191]Job is a success!
+[2023.05.03-18.15.38:028][192]LogVolumetricLightmapImport: Imported Volumetric Lightmap in 0.006s
+[2023.05.03-18.15.38:028][192]LogVolumetricLightmapImport:      Indirection Texture 16x16x16 = 0.0Mb
+[2023.05.03-18.15.38:028][192]LogVolumetricLightmapImport:      BrickData (all levels) 0.0Mb
+[2023.05.03-18.15.38:028][192]LogVolumetricLightmapImport:      Bricks at depth
+[2023.05.03-18.15.38:028][192]LogVolumetricLightmapImport:          0: 7.1% covering 100.0% of volume
+[2023.05.03-18.15.38:028][192]LogVolumetricLightmapImport:          1: 7.1% covering 1.6% of volume
+[2023.05.03-18.15.38:028][192]LogVolumetricLightmapImport:          2: 85.7% covering 0.3% of volume
+[2023.05.03-18.15.38:028][192]LogVolumetricLightmapImport:      Bricks in each level
+[2023.05.03-18.15.38:028][192]LogVolumetricLightmapImport:          ResearchRoom 			 14 bricks 	 100.0% (Persistent Level)
+[2023.05.03-18.15.38:098][192]LightingResults: Warning: PointLight_5 Severe performance loss: Failed to allocate shadowmap channel for stationary light due to overlap - light will fall back to dynamic shadows!
+[2023.05.03-18.15.38:098][192]LightingResults: Warning: PointLight_0 Severe performance loss: Failed to allocate shadowmap channel for stationary light due to overlap - light will fall back to dynamic shadows!
+[2023.05.03-18.15.38:098][192]LightingResults: Warning: SpotLight_0 Severe performance loss: Failed to allocate shadowmap channel for stationary light due to overlap - light will fall back to dynamic shadows!
+[2023.05.03-18.15.38:098][192]LightingResults: Warning: SpotLight_1 Severe performance loss: Failed to allocate shadowmap channel for stationary light due to overlap - light will fall back to dynamic shadows!
+[2023.05.03-18.15.38:098][192]LightingResults: Warning: SpotLight_2 Severe performance loss: Failed to allocate shadowmap channel for stationary light due to overlap - light will fall back to dynamic shadows!
+[2023.05.03-18.15.38:098][192]LightingResults: Warning: SpotLight_3 Severe performance loss: Failed to allocate shadowmap channel for stationary light due to overlap - light will fall back to dynamic shadows!
+[2023.05.03-18.15.38:161][192]LogTexture: Display: Building textures: /Game/StaticNoise/Maps/ResearchRoom_BuiltData.ResearchRoom_BuiltData:HQ_Lightmap0_1 (TFO_AutoDXT, 1024x1024 x1x1x1) (Required Memory Estimate: 147.979156 MB), EncodeSpeed: Fast
+[2023.05.03-18.15.38:183][192]LogTexture: Display: Building textures: /Game/StaticNoise/Maps/ResearchRoom_BuiltData.ResearchRoom_BuiltData:LQ_Lightmap_0_1 (TFO_DXT1, 1024x1024 x1x1x1) (Required Memory Estimate: 123.104155 MB), EncodeSpeed: Fast
+[2023.05.03-18.15.38:307][192]LogTexture: Display: Building textures: /Game/StaticNoise/Maps/ResearchRoom_BuiltData.ResearchRoom_BuiltData:ShadowMapTexture2D_1 (BGRA8, 1024x512 x1x1x1) (Required Memory Estimate: 16.062489 MB), EncodeSpeed: Fast
+[2023.05.03-18.15.38:340][192]Lightmass on LITTLEBLUEALIEN: 6.60 sec total, 461 ms importing, 153 ms setup, 1.04 sec photons, 4.91 sec processing, 0 us extra exporting [127/127 mappings]. Threads: 1:33 min total, 43.5 sec processing.
+[2023.05.03-18.15.38:348][192]LogStaticLightingSystem: ResearchRoom_BuiltData storing lightmap data for 127 meshes in 2 LightmapResourceClusters (63.5 Meshes per cluster).
+[2023.05.03-18.15.38:390][192]LogUObjectHash: Compacting FUObjectHashTables data took   1.15ms
+[2023.05.03-18.15.38:435][192]LogStaticLightingSystem: Illumination: 18.7 sec (133 ms encoding lightmaps, 84 ms encoding shadowmaps)
+[2023.05.03-18.15.38:435][192]LogStaticLightingSystem: Lightmap texture memory:  2.1 MB (2.1 MB streaming, 0.0 MB non-streaming), 2 textures
+[2023.05.03-18.15.38:435][192]LogStaticLightingSystem: Shadowmap texture memory: 2.7 MB (2.7 MB streaming, 0.0 MB non-streaming), 1 textures
+[2023.05.03-18.15.39:429][192]DumpUnbuiltLightIteractions
+[2023.05.03-18.15.39:429][192]Lights with unbuilt interactions: 0
+[2023.05.03-18.15.39:429][192]
+[2023.05.03-18.15.39:429][192]Primitives with unbuilt interactions: 0
+[2023.05.03-18.15.41:479][192]LogDerivedDataCache: Display: C:/Users/nikol/AppData/Local/UnrealEngine/Common/DerivedDataCache: Cache put found non-deterministic value with new hash c9d76c2a9c831070b9fb6800fa1765e2af49d420 and existing hash 46b3fb5bb39cfcb8054faed5ec70c89b1a8cacf8 for MaterialShaderMap/f45063c6265cd66ba9e1c91ff15a9af9d40c5017 from '/Game/StaticNoise/Whiteboard_Details1.Whiteboard_Details1 [PCD3D_SM6, SM6, Num]'
+[2023.05.03-18.15.41:492][193]Cmd: MAP CHECK NOTIFYRESULTS
+[2023.05.03-18.15.41:492][193]MapCheck: New page: ResearchRoom - 3. mai 2023, 22:15:41
+[2023.05.03-18.15.41:492][193]MapCheck: Warning: StaticMeshActor_1 Static mesh actor has NULL StaticMesh property 
+[2023.05.03-18.15.41:492][193]MapCheck: Warning: StaticMeshActor_13 Static mesh actor has NULL StaticMesh property 
+[2023.05.03-18.15.41:492][193]MapCheck: Warning: StaticMeshActor_15 Static mesh actor has NULL StaticMesh property 
+[2023.05.03-18.15.41:492][193]MapCheck: Warning: StaticMeshActor_17 Static mesh actor has NULL StaticMesh property 
+[2023.05.03-18.15.41:492][193]MapCheck: Warning: StaticMeshActor_18 Static mesh actor has NULL StaticMesh property 
+[2023.05.03-18.15.41:492][193]MapCheck: Warning: StaticMeshActor_20 Static mesh actor has NULL StaticMesh property 
+[2023.05.03-18.15.41:493][193]MapCheck: Warning: StaticMeshActor_32 Static mesh actor has NULL StaticMesh property 
+[2023.05.03-18.15.41:493][193]MapCheck: Warning: StaticMeshActor_34 Static mesh actor has NULL StaticMesh property 
+[2023.05.03-18.15.41:493][193]MapCheck: Warning: StaticMeshActor_42 Static mesh actor has NULL StaticMesh property 
+[2023.05.03-18.15.41:493][193]MapCheck: Warning: StaticMeshActor_44 Static mesh actor has NULL StaticMesh property 
+[2023.05.03-18.15.41:493][193]MapCheck: Warning: StaticMeshActor_46 Static mesh actor has NULL StaticMesh property 
+[2023.05.03-18.15.41:493][193]MapCheck: Warning: StaticMeshActor_48 Static mesh actor has NULL StaticMesh property 
+[2023.05.03-18.15.41:493][193]MapCheck: Warning: StaticMeshActor_50 Static mesh actor has NULL StaticMesh property 
+[2023.05.03-18.15.41:493][193]MapCheck: Warning: StaticMeshActor_52 Static mesh actor has NULL StaticMesh property 
+[2023.05.03-18.15.41:493][193]MapCheck: Warning: StaticMeshActor_58 Static mesh actor has NULL StaticMesh property 
+[2023.05.03-18.15.41:493][193]MapCheck: Warning: StaticMeshActor_59 Static mesh actor has NULL StaticMesh property 
+[2023.05.03-18.15.41:493][193]MapCheck: Warning: StaticMeshActor_60 Static mesh actor has NULL StaticMesh property 
+[2023.05.03-18.15.41:493][193]MapCheck: Warning: StaticMeshActor_65 Static mesh actor has NULL StaticMesh property 
+[2023.05.03-18.15.41:493][193]MapCheck: Warning: StaticMeshActor_70 Static mesh actor has NULL StaticMesh property 
+[2023.05.03-18.15.41:493][193]MapCheck: Warning: StaticMeshActor_79 Static mesh actor has NULL StaticMesh property 
+[2023.05.03-18.15.41:493][193]MapCheck: Warning: StaticMeshActor_80 Static mesh actor has NULL StaticMesh property 
+[2023.05.03-18.15.41:493][193]MapCheck: Warning: StaticMeshActor_81 Static mesh actor has NULL StaticMesh property 
+[2023.05.03-18.15.41:493][193]MapCheck: Warning: StaticMeshActor_82 Static mesh actor has NULL StaticMesh property 
+[2023.05.03-18.15.41:493][193]MapCheck: Warning: StaticMeshActor_83 Static mesh actor has NULL StaticMesh property 
+[2023.05.03-18.15.41:493][193]MapCheck: Warning: StaticMeshActor_84 Static mesh actor has NULL StaticMesh property 
+[2023.05.03-18.15.41:493][193]MapCheck: Warning: StaticMeshActor_85 Static mesh actor has NULL StaticMesh property 
+[2023.05.03-18.15.41:493][193]MapCheck: Warning: StaticMeshActor_86 Static mesh actor has NULL StaticMesh property 
+[2023.05.03-18.15.41:493][193]MapCheck: Warning: StaticMeshActor_89 Static mesh actor has NULL StaticMesh property 
+[2023.05.03-18.15.41:493][193]MapCheck: Warning: StaticMeshActor_90 Static mesh actor has NULL StaticMesh property 
+[2023.05.03-18.15.41:493][193]MapCheck: Warning: StaticMeshActor_91 Static mesh actor has NULL StaticMesh property 
+[2023.05.03-18.15.41:493][193]MapCheck: Warning: StaticMeshActor_94 Static mesh actor has NULL StaticMesh property 
+[2023.05.03-18.15.41:493][193]MapCheck: Warning: StaticMeshActor_96 Static mesh actor has NULL StaticMesh property 
+[2023.05.03-18.15.41:493][193]MapCheck: Warning: StaticMeshActor_100 Static mesh actor has NULL StaticMesh property 
+[2023.05.03-18.15.41:493][193]MapCheck: Warning: StaticMeshActor_101 Static mesh actor has NULL StaticMesh property 
+[2023.05.03-18.15.41:493][193]MapCheck: Warning: StaticMeshActor_102 Static mesh actor has NULL StaticMesh property 
+[2023.05.03-18.15.41:493][193]MapCheck: Warning: StaticMeshActor_103 Static mesh actor has NULL StaticMesh property 
+[2023.05.03-18.15.41:493][193]MapCheck: Warning: StaticMeshActor_105 Static mesh actor has NULL StaticMesh property 
+[2023.05.03-18.15.41:493][193]MapCheck: Warning: StaticMeshActor_107 Static mesh actor has NULL StaticMesh property 
+[2023.05.03-18.15.41:493][193]MapCheck: Warning: StaticMeshActor_108 Static mesh actor has NULL StaticMesh property 
+[2023.05.03-18.15.41:493][193]MapCheck: Warning: StaticMeshActor_109 Static mesh actor has NULL StaticMesh property 
+[2023.05.03-18.15.41:493][193]MapCheck: Warning: StaticMeshActor_110 Static mesh actor has NULL StaticMesh property 
+[2023.05.03-18.15.41:493][193]MapCheck: Warning: StaticMeshActor_111 Static mesh actor has NULL StaticMesh property 
+[2023.05.03-18.15.41:493][193]MapCheck: Warning: StaticMeshActor_112 Static mesh actor has NULL StaticMesh property 
+[2023.05.03-18.15.41:493][193]MapCheck: Warning: StaticMeshActor_113 Static mesh actor has NULL StaticMesh property 
+[2023.05.03-18.15.41:493][193]MapCheck: Warning: StaticMeshActor_114 Static mesh actor has NULL StaticMesh property 
+[2023.05.03-18.15.41:493][193]MapCheck: Warning: StaticMeshActor_120 Static mesh actor has NULL StaticMesh property 
+[2023.05.03-18.15.41:493][193]MapCheck: Warning: StaticMeshActor_132 Static mesh actor has NULL StaticMesh property 
+[2023.05.03-18.15.41:493][193]MapCheck: Warning: StaticMeshActor_134 Static mesh actor has NULL StaticMesh property 
+[2023.05.03-18.15.41:493][193]MapCheck: Warning: StaticMeshActor_136 Static mesh actor has NULL StaticMesh property 
+[2023.05.03-18.15.41:493][193]MapCheck: Warning: StaticMeshActor_138 Static mesh actor has NULL StaticMesh property 
+[2023.05.03-18.15.41:493][193]MapCheck: Warning: StaticMeshActor_140 Static mesh actor has NULL StaticMesh property 
+[2023.05.03-18.15.41:493][193]MapCheck: Warning: StaticMeshActor_142 Static mesh actor has NULL StaticMesh property 
+[2023.05.03-18.15.41:493][193]MapCheck: Warning: StaticMeshActor_150 Static mesh actor has NULL StaticMesh property 
+[2023.05.03-18.15.41:493][193]MapCheck: Warning: StaticMeshActor_152 Static mesh actor has NULL StaticMesh property 
+[2023.05.03-18.15.41:493][193]MapCheck: Warning: StaticMeshActor_154 Static mesh actor has NULL StaticMesh property 
+[2023.05.03-18.15.41:493][193]MapCheck: Warning: StaticMeshActor_156 Static mesh actor has NULL StaticMesh property 
+[2023.05.03-18.15.41:493][193]MapCheck: Warning: StaticMeshActor_158 Static mesh actor has NULL StaticMesh property 
+[2023.05.03-18.15.41:493][193]MapCheck: Warning: StaticMeshActor_160 Static mesh actor has NULL StaticMesh property 
+[2023.05.03-18.15.41:493][193]MapCheck: Warning: StaticMeshActor_185 Static mesh actor has NULL StaticMesh property 
+[2023.05.03-18.15.41:493][193]MapCheck: Warning: StaticMeshActor_187 Static mesh actor has NULL StaticMesh property 
+[2023.05.03-18.15.41:493][193]MapCheck: Warning: StaticMeshActor_194 Static mesh actor has NULL StaticMesh property 
+[2023.05.03-18.15.41:493][193]MapCheck: Warning: StaticMeshActor_208 Static mesh actor has NULL StaticMesh property 
+[2023.05.03-18.15.41:493][193]MapCheck: Warning: StaticMeshActor_210 Static mesh actor has NULL StaticMesh property 
+[2023.05.03-18.15.41:493][193]MapCheck: Warning: StaticMeshActor_211 Static mesh actor has NULL StaticMesh property 
+[2023.05.03-18.15.41:493][193]MapCheck: Warning: StaticMeshActor_212 Static mesh actor has NULL StaticMesh property 
+[2023.05.03-18.15.41:493][193]MapCheck: Warning: StaticMeshActor_213 Static mesh actor has NULL StaticMesh property 
+[2023.05.03-18.15.41:493][193]MapCheck: Warning: StaticMeshActor_214 Static mesh actor has NULL StaticMesh property 
+[2023.05.03-18.15.41:493][193]MapCheck: Warning: StaticMeshActor_215 Static mesh actor has NULL StaticMesh property 
+[2023.05.03-18.15.41:493][193]MapCheck: Warning: StaticMeshActor_216 Static mesh actor has NULL StaticMesh property 
+[2023.05.03-18.15.41:493][193]MapCheck: Warning: StaticMeshActor_217 Static mesh actor has NULL StaticMesh property 
+[2023.05.03-18.15.41:493][193]MapCheck: Warning: StaticMeshActor_218 Static mesh actor has NULL StaticMesh property 
+[2023.05.03-18.15.41:493][193]MapCheck: Warning: StaticMeshActor_224 Static mesh actor has NULL StaticMesh property 
+[2023.05.03-18.15.41:493][193]MapCheck: Warning: StaticMeshActor_226 Static mesh actor has NULL StaticMesh property 
+[2023.05.03-18.15.41:494][193]MapCheck: Map check complete: 0 Error(s), 73 Warning(s), took 2,399ms to complete.
+[2023.05.03-18.15.45:970][450]LogSlate: Window 'Message Log' being destroyed
+[2023.05.03-18.15.45:976][450]LogSlate: Window 'Message Log' being destroyed
+[2023.05.03-18.15.51:326][769]LogUObjectHash: Compacting FUObjectHashTables data took   1.00ms
+[2023.05.03-18.16.02:002][769]LogSlate: Window 'Save Content' being destroyed
+[2023.05.03-18.16.02:011][769]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2023.05.03-18.16.02:070][769]LogUObjectHash: Compacting FUObjectHashTables data took   0.59ms
+[2023.05.03-18.16.02:111][769]LogSavePackage: Moving output files for package: /Game/StaticNoise/Maps/ResearchRoom
+[2023.05.03-18.16.02:112][769]LogSavePackage: Moving 'C:/Users/nikol/OneDrive/Other/Dokumenter/Unreal Projects/BachlorsProject/Saved/ResearchRoom6059781A4193416C8908C39DFB67AF51.tmp' to 'C:/Users/nikol/OneDrive/Other/Dokumenter/Unreal Projects/BachlorsProject/Content/StaticNoise/Maps/ResearchRoom.umap'
+[2023.05.03-18.16.02:120][769]Message dialog closed, result: Ok, title: Unable to Check Out From Source Control!, text: The following assets could not be successfully checked out from source control:
+/Game/StaticNoise/Maps/ResearchRoom_BuiltData
+[2023.05.03-18.16.02:120][769]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2023.05.03-18.16.02:157][769]LogSavePackage: Moving output files for package: /Game/StaticNoise/Maps/ResearchRoom_BuiltData
+[2023.05.03-18.16.02:157][769]LogSavePackage: Moving 'C:/Users/nikol/OneDrive/Other/Dokumenter/Unreal Projects/BachlorsProject/Saved/ResearchRoom_BuiltData15D9245C463DC8960AD8E293B5E57C7A.tmp' to 'C:/Users/nikol/OneDrive/Other/Dokumenter/Unreal Projects/BachlorsProject/Content/StaticNoise/Maps/ResearchRoom_BuiltData.uasset'
+[2023.05.03-18.16.02:159][769]LogFileHelpers: InternalPromptForCheckoutAndSave took 38 ms (total: 1:13 min)
+[2023.05.03-18.16.02:159][769]Message dialog closed, result: Ok, title: Unable to Check Out From Source Control!, text: The following assets could not be successfully checked out from source control:
+/Game/StaticNoise/Maps/ResearchRoom_BuiltData
+[2023.05.03-18.16.02:159][769]LogFileHelpers: Saving map 'ResearchRoom' took 0.121
+[2023.05.03-18.16.02:196][769]LogSavePackage: Moving output files for package: /Game/StaticNoise/Maps/ResearchRoom_BuiltData
+[2023.05.03-18.16.02:196][769]LogSavePackage: Moving 'C:/Users/nikol/OneDrive/Other/Dokumenter/Unreal Projects/BachlorsProject/Saved/ResearchRoom_BuiltDataEDC11C4344D59AD29E5F31A74922B2F5.tmp' to 'C:/Users/nikol/OneDrive/Other/Dokumenter/Unreal Projects/BachlorsProject/Content/StaticNoise/Maps/ResearchRoom_BuiltData.uasset'
+[2023.05.03-18.16.02:231][769]LogSavePackage: Moving output files for package: /Game/StaticNoise/Maps/ResearchRoom_BuiltData
+[2023.05.03-18.16.02:231][769]LogSavePackage: Moving 'C:/Users/nikol/OneDrive/Other/Dokumenter/Unreal Projects/BachlorsProject/Saved/ResearchRoom_BuiltDataE05DD51B444A6DF6765DD7BDD9B8EC40.tmp' to 'C:/Users/nikol/OneDrive/Other/Dokumenter/Unreal Projects/BachlorsProject/Content/StaticNoise/Maps/ResearchRoom_BuiltData.uasset'
+[2023.05.03-18.16.02:237][769]LogFileHelpers: InternalPromptForCheckoutAndSave took 226 ms (total: 1:13 min)
+[2023.05.03-18.16.02:305][769]LogAssetEditorSubsystem: Opening Asset editor for World /Game/StaticNoise/Maps/FacilityAlternative_WP.FacilityAlternative_WP
+[2023.05.03-18.16.02:305][769]Cmd: MAP LOAD FILE="C:/Users/nikol/OneDrive/Other/Dokumenter/Unreal Projects/BachlorsProject/Content/StaticNoise/Maps/FacilityAlternative_WP.umap" TEMPLATE=0 SHOWPROGRESS=1 FEATURELEVEL=4
+[2023.05.03-18.16.02:305][769]LightingResults: New page: Lighting Build
+[2023.05.03-18.16.02:305][769]LoadErrors: New page: Loading map: FacilityAlternative_WP.umap
+[2023.05.03-18.16.02:309][769]LogWorld: UWorld::CleanupWorld for ResearchRoom, bSessionEnded=true, bCleanupResources=true
+[2023.05.03-18.16.02:309][769]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2023.05.03-18.16.02:309][769]MapCheck: New page: Map Check
+[2023.05.03-18.16.02:309][769]LightingResults: New page: Lighting Build
+[2023.05.03-18.16.02:335][769]LogAudio: Display: Audio Device unregistered from world 'None'.
+[2023.05.03-18.16.02:339][769]LogUObjectHash: Compacting FUObjectHashTables data took   1.22ms
+[2023.05.03-18.16.02:342][769]LogWorld: UWorld::CleanupWorld for FacilityAlternative_WP, bSessionEnded=true, bCleanupResources=true
+[2023.05.03-18.16.02:342][769]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2023.05.03-18.16.02:374][769]LogUObjectHash: Compacting FUObjectHashTables data took   1.76ms
+[2023.05.03-18.16.02:404][769]LogUObjectHash: Compacting FUObjectHashTables data took   1.02ms
+[2023.05.03-18.16.02:435][769]LogAudio: Display: Audio Device (ID: 1) registered with world 'FacilityAlternative_WP'.
+[2023.05.03-18.16.02:435][769]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2023.05.03-18.16.02:435][769]LogAIModule: Creating AISystem for world FacilityAlternative_WP
+[2023.05.03-18.16.02:436][769]LogWorldPartition: ULevel::OnLevelLoaded(FacilityAlternative_WP)(bIsOwningWorldGameWorld=0, bIsOwningWorldPartitioned=1, bIsValidLevelInstance=0, InitializeForMainWorld=1, InitializeForEditor=0, InitializeForGame=0)
+[2023.05.03-18.16.02:436][769]LogWorldPartition: Display: WorldPartition initialize started...
+[2023.05.03-18.16.02:436][769]LogWorldPartition: UWorldPartition::Initialize(Asset=FacilityAlternative_WP, IsEditor=1, bPIEWorldTravel=0 IsGame=0, IsCooking=0)
+[2023.05.03-18.16.04:311][769]LogStall: Stall detector 'UAssetEditorSubsystem::OpenEditorForAsset' exceeded budget of 2.000000s
+[2023.05.03-18.16.04:351][769]LogContentBundle: [Container: FacilityAlternative_WP] Creating new contrainer.
+[2023.05.03-18.16.04:351][769]LogWorldPartition: Display: WorldPartition initialize took 1.91 sec (total: 18.6 sec)
+[2023.05.03-18.16.04:510][769]LogEditorServer: Finished looking for orphan Actors (0.000 secs)
+[2023.05.03-18.16.04:559][769]LogUObjectHash: Compacting FUObjectHashTables data took   1.10ms
+[2023.05.03-18.16.04:566][769]Cmd: MAP CHECKDEP NOCLEARLOG
+[2023.05.03-18.16.04:569][769]MapCheck: Map check complete: 0 Error(s), 0 Warning(s), took 3,441ms to complete.
+[2023.05.03-18.16.04:569][769]LogFileHelpers: Loading map 'FacilityAlternative_WP' took 2.265
+[2023.05.03-18.16.04:574][769]LogStall: Stall detector 'UAssetEditorSubsystem::OpenEditorForAsset' complete in 0.000776s (0.269424s overbudget)
+[2023.05.03-18.16.04:588][769]AssetCheck: New page: Asset Save: multiple assets
+[2023.05.03-18.16.08:409][885]MapCheck: New page: Map Check
+[2023.05.03-18.16.08:421][885]LightingResults: New page: Lighting Build - 3. mai 2023, 22:16:08
+[2023.05.03-18.16.08:421][885]LogStaticLightingSystem: Warning: WorldSettings.bForceNoPrecomputedLighting is true, Skipping Lighting Build!
+[2023.05.03-18.16.08:466][885]LogEditorBuildUtils: Build time 0:00
+[2023.05.03-18.16.42:597][229]MapCheck: New page: Map Check
+[2023.05.03-18.16.42:616][229]LightingResults: New page: Lighting Build - 3. mai 2023, 22:16:42
+[2023.05.03-18.16.42:617][229]LogStaticLightingSystem: Warning: WorldSettings.bForceNoPrecomputedLighting is true, Skipping Lighting Build!
+[2023.05.03-18.16.42:661][229]LogEditorBuildUtils: Build time 0:00
+[2023.05.03-18.16.50:993][489]LogUObjectHash: Compacting FUObjectHashTables data took   0.89ms
+[2023.05.03-18.16.51:198][489]LogMaterial: Warning: [AssetLog] C:\Users\nikol\OneDrive\Other\Dokumenter\Unreal Projects\BachlorsProject\Content\StaticNoise\MaterialLibrary\Text_Materials\Toilet_Mat.uasset: Failed to compile Material for platform PCD3D_SM6, Default Material will be used in game.
+	(Node TextureSample) Texture Sample> Missing input texture
+
+[2023.05.03-18.16.51:268][489]LogAssetEditorSubsystem: Opening Asset editor for World /Game/StaticNoise/Maps/FacilityAlternative.FacilityAlternative
+[2023.05.03-18.16.51:268][489]Cmd: MAP LOAD FILE="C:/Users/nikol/OneDrive/Other/Dokumenter/Unreal Projects/BachlorsProject/Content/StaticNoise/Maps/FacilityAlternative.umap" TEMPLATE=0 SHOWPROGRESS=1 FEATURELEVEL=4
+[2023.05.03-18.16.51:268][489]LightingResults: New page: Lighting Build
+[2023.05.03-18.16.51:268][489]LoadErrors: New page: Loading map: FacilityAlternative.umap
+[2023.05.03-18.16.51:290][489]LogWorld: UWorld::CleanupWorld for FacilityAlternative_WP, bSessionEnded=true, bCleanupResources=true
+[2023.05.03-18.16.51:291][489]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2023.05.03-18.16.51:309][489]LogContentBundle: [Container: FacilityAlternative_WP] Deleting container.
+[2023.05.03-18.16.51:309][489]MapCheck: New page: Map Check
+[2023.05.03-18.16.51:309][489]LightingResults: New page: Lighting Build
+[2023.05.03-18.16.51:350][489]LogAudio: Display: Audio Device unregistered from world 'None'.
+[2023.05.03-18.16.51:415][489]LogUObjectHash: Compacting FUObjectHashTables data took   1.36ms
+[2023.05.03-18.16.51:430][489]LogWorld: UWorld::CleanupWorld for FacilityAlternative, bSessionEnded=true, bCleanupResources=true
+[2023.05.03-18.16.51:433][489]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2023.05.03-18.16.51:473][489]LogUObjectHash: Compacting FUObjectHashTables data took   1.21ms
+[2023.05.03-18.16.51:503][489]LogUObjectHash: Compacting FUObjectHashTables data took   1.25ms
+[2023.05.03-18.16.51:618][489]LogAudio: Display: Audio Device (ID: 1) registered with world 'FacilityAlternative'.
+[2023.05.03-18.16.51:619][489]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2023.05.03-18.16.51:619][489]LogAIModule: Creating AISystem for world FacilityAlternative
+[2023.05.03-18.16.51:728][489]LogEditorServer: Finished looking for orphan Actors (0.000 secs)
+[2023.05.03-18.16.51:792][489]LogUObjectHash: Compacting FUObjectHashTables data took   1.02ms
+[2023.05.03-18.16.51:798][489]Cmd: MAP CHECKDEP NOCLEARLOG
+[2023.05.03-18.16.51:798][489]MapCheck: Map check complete: 0 Error(s), 0 Warning(s), took 0,447ms to complete.
+[2023.05.03-18.16.51:798][489]LogFileHelpers: Loading map 'FacilityAlternative' took 0.531
+[2023.05.03-18.17.05:036][ 69]LogRenderer: Warning: Virtual Shadow Map Page Pool overflow (6 page allocations were not served), this will produce visual artifacts (missing shadow), increase the page pool limit or reduce resolution bias to avoid.
+ See r.Shadow.Virtual.MaxPhysicalPages (2048), r.Shadow.Virtual.ResolutionLodBiasLocal (0.00), and r.Shadow.Virtual.ResolutionLodBiasDirectional (-0.50)
+[2023.05.03-18.17.05:266][ 78]LogRenderer: Warning: Virtual Shadow Map Page Pool overflow (50 page allocations were not served), this will produce visual artifacts (missing shadow), increase the page pool limit or reduce resolution bias to avoid.
+ See r.Shadow.Virtual.MaxPhysicalPages (2048), r.Shadow.Virtual.ResolutionLodBiasLocal (0.00), and r.Shadow.Virtual.ResolutionLodBiasDirectional (-0.50)
+[2023.05.03-18.17.05:897][107]LogRenderer: Warning: Virtual Shadow Map Page Pool overflow (37 page allocations were not served), this will produce visual artifacts (missing shadow), increase the page pool limit or reduce resolution bias to avoid.
+ See r.Shadow.Virtual.MaxPhysicalPages (2048), r.Shadow.Virtual.ResolutionLodBiasLocal (0.00), and r.Shadow.Virtual.ResolutionLodBiasDirectional (-0.50)
+[2023.05.03-18.17.06:153][117]LogRenderer: Warning: Virtual Shadow Map Page Pool overflow (33 page allocations were not served), this will produce visual artifacts (missing shadow), increase the page pool limit or reduce resolution bias to avoid.
+ See r.Shadow.Virtual.MaxPhysicalPages (2048), r.Shadow.Virtual.ResolutionLodBiasLocal (0.00), and r.Shadow.Virtual.ResolutionLodBiasDirectional (-0.50)
+[2023.05.03-18.17.06:644][137]LogRenderer: Warning: Virtual Shadow Map Page Pool overflow (3 page allocations were not served), this will produce visual artifacts (missing shadow), increase the page pool limit or reduce resolution bias to avoid.
+ See r.Shadow.Virtual.MaxPhysicalPages (2048), r.Shadow.Virtual.ResolutionLodBiasLocal (0.00), and r.Shadow.Virtual.ResolutionLodBiasDirectional (-0.50)
+[2023.05.03-18.17.06:876][145]LogRenderer: Warning: Virtual Shadow Map Page Pool overflow (68 page allocations were not served), this will produce visual artifacts (missing shadow), increase the page pool limit or reduce resolution bias to avoid.
+ See r.Shadow.Virtual.MaxPhysicalPages (2048), r.Shadow.Virtual.ResolutionLodBiasLocal (0.00), and r.Shadow.Virtual.ResolutionLodBiasDirectional (-0.50)
+[2023.05.03-18.17.20:525][733]LogObjectTools: Deleting 1 worlds: /Game/StaticNoise/Maps/FacilityAlternative.FacilityAlternative
+[2023.05.03-18.17.20:525][733]LogObjectTools: Currently 27 active worlds: /Game/StaticNoise/Maps/FacilityAlternative.FacilityAlternative, /Engine/Transient.World_0, /Engine/Transient.World_1, /Engine/Transient.World_2, /Engine/Transient.World_7, /Engine/Transient.World_8, /Engine/Transient.World_9, /Engine/Transient.World_10, /Engine/Transient.World_11, /Engine/Transient.World_12, /Engine/Transient.World_13, /Engine/Transient.World_14, /Engine/Transient.World_15, /Engine/Transient.World_16, /Engine/Transient.World_18, /Engine/Transient.World_19, /Engine/Transient.World_21, /Engine/Transient.World_22, /Engine/Transient.World_24, /Engine/Transient.World_25, /Engine/Transient.World_32, /Engine/Transient.World_33, /Engine/Transient.World_34, /Engine/Transient.World_55, /Engine/Transient.World_80, /Engine/Transient.World_81, /Engine/Transient.World_85
+[2023.05.03-18.17.23:450][733]LogSlate: Window 'Unable to delete level' being destroyed
+[2023.05.03-18.17.23:479][733]Message dialog closed, result: Cancel, title: Unable to delete level, text: Unable to delete level while it is open
+[2023.05.03-18.17.24:380][770]LogUObjectHash: Compacting FUObjectHashTables data took   0.59ms
+[2023.05.03-18.17.24:458][770]LogAssetEditorSubsystem: Opening Asset editor for World /Game/StaticNoise/Maps/FacilityAlternative_WP.FacilityAlternative_WP
+[2023.05.03-18.17.24:458][770]Cmd: MAP LOAD FILE="C:/Users/nikol/OneDrive/Other/Dokumenter/Unreal Projects/BachlorsProject/Content/StaticNoise/Maps/FacilityAlternative_WP.umap" TEMPLATE=0 SHOWPROGRESS=1 FEATURELEVEL=4
+[2023.05.03-18.17.24:458][770]LightingResults: New page: Lighting Build
+[2023.05.03-18.17.24:458][770]LoadErrors: New page: Loading map: FacilityAlternative_WP.umap
+[2023.05.03-18.17.24:472][770]LogWorld: UWorld::CleanupWorld for FacilityAlternative, bSessionEnded=true, bCleanupResources=true
+[2023.05.03-18.17.24:473][770]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2023.05.03-18.17.24:473][770]MapCheck: New page: Map Check
+[2023.05.03-18.17.24:473][770]LightingResults: New page: Lighting Build
+[2023.05.03-18.17.24:508][770]LogAudio: Display: Audio Device unregistered from world 'None'.
+[2023.05.03-18.17.24:521][770]LogUObjectHash: Compacting FUObjectHashTables data took   1.23ms
+[2023.05.03-18.17.24:527][770]LogWorld: UWorld::CleanupWorld for FacilityAlternative_WP, bSessionEnded=true, bCleanupResources=true
+[2023.05.03-18.17.24:527][770]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2023.05.03-18.17.24:558][770]LogUObjectHash: Compacting FUObjectHashTables data took   1.04ms
+[2023.05.03-18.17.24:585][770]LogUObjectHash: Compacting FUObjectHashTables data took   1.15ms
+[2023.05.03-18.17.24:617][770]LogAudio: Display: Audio Device (ID: 1) registered with world 'FacilityAlternative_WP'.
+[2023.05.03-18.17.24:617][770]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2023.05.03-18.17.24:618][770]LogAIModule: Creating AISystem for world FacilityAlternative_WP
+[2023.05.03-18.17.24:618][770]LogWorldPartition: ULevel::OnLevelLoaded(FacilityAlternative_WP)(bIsOwningWorldGameWorld=0, bIsOwningWorldPartitioned=1, bIsValidLevelInstance=0, InitializeForMainWorld=1, InitializeForEditor=0, InitializeForGame=0)
+[2023.05.03-18.17.24:618][770]LogWorldPartition: Display: WorldPartition initialize started...
+[2023.05.03-18.17.24:618][770]LogWorldPartition: UWorldPartition::Initialize(Asset=FacilityAlternative_WP, IsEditor=1, bPIEWorldTravel=0 IsGame=0, IsCooking=0)
+[2023.05.03-18.17.26:341][770]LogContentBundle: [Container: FacilityAlternative_WP] Creating new contrainer.
+[2023.05.03-18.17.26:341][770]LogWorldPartition: Display: WorldPartition initialize took 1.72 sec (total: 20.3 sec)
+[2023.05.03-18.17.26:464][770]LogStall: Stall detector 'UAssetEditorSubsystem::OpenEditorForAsset' exceeded budget of 2.000000s
+[2023.05.03-18.17.26:510][770]LogEditorServer: Finished looking for orphan Actors (0.000 secs)
+[2023.05.03-18.17.26:562][770]LogUObjectHash: Compacting FUObjectHashTables data took   1.11ms
+[2023.05.03-18.17.26:568][770]Cmd: MAP CHECKDEP NOCLEARLOG
+[2023.05.03-18.17.26:572][770]MapCheck: Map check complete: 0 Error(s), 0 Warning(s), took 3,587ms to complete.
+[2023.05.03-18.17.26:572][770]LogFileHelpers: Loading map 'FacilityAlternative_WP' took 2.114
+[2023.05.03-18.17.26:576][770]LogStall: Stall detector 'UAssetEditorSubsystem::OpenEditorForAsset' complete in 0.000941s (0.118951s overbudget)
+[2023.05.03-18.17.30:046][846]LogObjectTools: Deleting 1 worlds: /Game/StaticNoise/Maps/FacilityAlternative.FacilityAlternative
+[2023.05.03-18.17.30:046][846]LogObjectTools: Currently 27 active worlds: /Game/StaticNoise/Maps/FacilityAlternative_WP.FacilityAlternative_WP, /Engine/Transient.World_0, /Engine/Transient.World_1, /Engine/Transient.World_2, /Engine/Transient.World_7, /Engine/Transient.World_8, /Engine/Transient.World_9, /Engine/Transient.World_10, /Engine/Transient.World_11, /Engine/Transient.World_12, /Engine/Transient.World_13, /Engine/Transient.World_14, /Engine/Transient.World_15, /Engine/Transient.World_16, /Engine/Transient.World_18, /Engine/Transient.World_19, /Engine/Transient.World_21, /Engine/Transient.World_22, /Engine/Transient.World_24, /Engine/Transient.World_25, /Engine/Transient.World_32, /Engine/Transient.World_33, /Engine/Transient.World_34, /Engine/Transient.World_55, /Engine/Transient.World_80, /Engine/Transient.World_81, /Engine/Transient.World_85
+[2023.05.03-18.17.30:079][846]LogUObjectHash: Compacting FUObjectHashTables data took   1.23ms
+[2023.05.03-18.17.31:805][846]LogSlate: Window 'Delete Assets' being destroyed
+[2023.05.03-18.17.31:812][846]LogWorld: UWorld::CleanupWorld for FacilityAlternative, bSessionEnded=true, bCleanupResources=true
+[2023.05.03-18.17.31:816][846]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2023.05.03-18.17.31:874][846]LogUObjectHash: Compacting FUObjectHashTables data took   1.66ms
+[2023.05.03-18.17.31:910][846]LogUObjectHash: Compacting FUObjectHashTables data took   0.51ms
+[2023.05.03-18.17.31:940][846]LogUObjectHash: Compacting FUObjectHashTables data took   0.61ms
+[2023.05.03-18.17.34:638][925]LogUObjectHash: Compacting FUObjectHashTables data took   0.67ms
+[2023.05.03-18.17.35:954][966]LogUObjectHash: Compacting FUObjectHashTables data took   0.68ms
